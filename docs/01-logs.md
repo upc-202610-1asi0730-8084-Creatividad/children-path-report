@@ -34,31 +34,30 @@
   <!-- ROW 2.0 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.2
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
-    </td>
-    <td style="text-align: center;">
-      XXXXXX
+      06/09/2026
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Huaco Oliva, Luis ALonso
     </td>
+    <td style="text-align: justify;">
+        Creación de la carátula, registro de versiones del informe, y contenido.
   </tr>
   <!-- ROW 2.1 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.3
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      06/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Huaco Oliva, Luis Alonso
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Creación de los segmentos objetivos y del diseño de las entrevistas
     </td>
   </tr>
   <!-- ROW 2.2 -->
