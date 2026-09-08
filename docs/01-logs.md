@@ -63,16 +63,16 @@
   <!-- ROW 2.2 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.4
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      07/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Huaco Oliva, Luis Alonso
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Creación de la sección Startup Profile
     </td>
   </tr>
   <!-- ROW 2.3 -->
