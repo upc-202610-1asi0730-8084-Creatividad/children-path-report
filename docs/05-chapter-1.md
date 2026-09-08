@@ -1,7 +1,115 @@
 ﻿# **Chapter I: Introduction**
 ## **1.1. Startup Profile**
 ### **1.1.1. Startup Description**
+
+En Perú, el transporte escolar es un sector que, a pesar de su gran importancia para las familias, aún opera de manera manual y carece de sistemas tecnológicos que permitan un seguimiento en tiempo real. Esto provoca que muchos padres sientan una incertidumbre diaria, ya que desean un control más cercano y la certeza de saber si sus hijos abordaron el vehículo o llegaron a su destino con seguridad.
+
+En respuesta a esta realidad, **Creatividad** surge como una startup tecnológica enfocada en revolucionar la seguridad y tranquilidad en el entorno del transporte escolar. Nuestro modelo de negocio propone reemplazar los procesos manuales con herramientas digitales a través de **Children Path**. Children Path reúne a todos los actores involucrados en el transporte escolar en una única plataforma, ofreciendo trazabilidad en tiempo real y brindando a las familias una mayor tranquilidad durante los desplazamientos diarios.
+
+**Misión**
+
+Facilitar la logística y el monitoreo del transporte escolar mediante un entorno digital seguro, en tiempo real e intuitivo, que priorice la tranquilidad de las familias y la eficiencia de los conductores.
+
+**Visión**
+
+Convertirnos en la plataforma líder y referente de seguridad en el transporte escolar, reconocida por ofrecer total transparencia en el transporte de estudiantes en tiempo real.
+
+**Objetivos de la Startup**
+
+- Optimizar la gestión del transporte escolar a través de herramientas digitales que reemplacen los procesos manuales.
+- Diseñar una aplicación intuitiva y accesible que facilite la interacción entre padres y conductores.
+- Promover la adopción tecnológica en el sector del transporte escolar, fomentando soluciones modernas y eficientes.
+- Establecer alianzas estratégicas con instituciones educativas y servicios de transporte para ampliar la cobertura del servicio.
+
+**Valores de la Startup**
+
+- **Seguridad:** Es nuestra máxima prioridad; cada funcionalidad está diseñada para proteger la integridad de los estudiantes y la tranquilidad de los padres.
+- **Transparencia:** Compartimos información real y visible sobre cada viaje, generando confianza entre padres, conductores e instituciones.
+- **Innovación:** Mejoramos constantemente nuestra plataforma mediante el uso de tecnologías modernas que potencien la experiencia de usuarios y conductores.
+
 ### **1.1.2. Team Member Profiles**
+
+<table width="100%">
+  <tbody>
+      <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <br>
+        <i></i>
+      </td>
+      <td width="70%" valign="top" style="padding-left: 20px;">
+        <h3>Luis Alonso Huaco Oliva</h3>
+        <p><b>Codigo de Estudiante: u202417743</b> </p>
+        <p><b>Age: 24</b> </p>
+        <p><b>Especialidad: Ingeniería de Software</b> </p>
+        <br>
+<p><b>Sobre mí:</b></p>
+<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+    </tr>
+          <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <br>
+        <i></i>
+      </td>
+      <td width="70%" valign="top" style="padding-left: 20px;">
+        <h3>Luis Alonso Huaco Oliva</h3>
+        <p><b>Codigo de Estudiante: u202417743</b> </p>
+        <p><b>Age: 24</b> </p>
+        <p><b>Especialidad: Ingeniería de Software</b> </p>
+        <br>
+<p><b>Sobre mí:</b></p>
+<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+    </tr>
+          <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <br>
+        <i></i>
+      </td>
+      <td width="70%" valign="top" style="padding-left: 20px;">
+        <h3>Luis Alonso Huaco Oliva</h3>
+        <p><b>Codigo de Estudiante: u202417743</b> </p>
+        <p><b>Age: 24</b> </p>
+        <p><b>Especialidad: Ingeniería de Software</b> </p>
+        <br>
+<p><b>Sobre mí:</b></p>
+<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+    </tr>
+           <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <br>
+        <i></i>
+      </td>
+      <td width="70%" valign="top" style="padding-left: 20px;">
+        <h3>Luis Alonso Huaco Oliva</h3>
+        <p><b>Codigo de Estudiante: u202417743</b> </p>
+        <p><b>Age: 24</b> </p>
+        <p><b>Especialidad: Ingeniería de Software</b> </p>
+        <br>
+<p><b>Sobre mí:</b></p>
+<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+    </tr>
+      <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <br>
+        <i></i>
+      </td>
+      <td width="70%" valign="top" style="padding-left: 20px;">
+        <h3>Luis Alonso Huaco Oliva</h3>
+        <p><b>Codigo de Estudiante: u202417743</b> </p>
+        <p><b>Age: 24</b> </p>
+        <p><b>Especialidad: Ingeniería de Software</b> </p>
+        <br>
+<p><b>Sobre mí:</b></p>
+<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+    </tr>
+  </tbody>
+</table>
+
+
 ## **1.2. Solution Profile**
 ### **1.2.1 Background and Problem Statement**
 ### **1.2.2 Lean UX Process**
