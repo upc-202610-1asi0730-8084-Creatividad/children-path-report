@@ -370,40 +370,40 @@ Elementos visuales clave aplicados:
 
 ---
 
-**Mock-up 1: User Login** ![Mock-up 1](../assets/chapter-4/MOCKUP%201.png)  
+**Mock-up 1: User Login** ![Mock-up 1](../assets/chapter-4/APMockup1.png)  
 *Pantalla de inicio de sesión final de alta fidelidad con branding e interfaz enfocada en la seguridad.*
 
-**Mock-up 2: Parent Dashboard** ![Mock-up 2](../assets/chapter-4/MOCKUP%202.png)  
+**Mock-up 2: Parent Dashboard** ![Mock-up 2](../assets/chapter-4/APMockup2.png)  
 *Vista general codificada por colores para padres con indicadores de estado en tiempo real.*
 
-**Mock-up 3: Live Tracking Map** ![Mock-up 3](../assets/chapter-4/MOCKUP%203.png)  
+**Mock-up 3: Live Tracking Map** ![Mock-up 3](../assets/chapter-4/APMockup13.png)  
 *Interfaz de mapa interactivo con marcadores personalizados del bus y tarjetas dinámicas de tiempo estimado de llegada (ETA).*
 
-**Mock-up 4: Student Profile Management** ![Mock-up 4](../assets/chapter-4/MOCKUP%204.png)  
+**Mock-up 4: Student Profile Management** ![Mock-up 4](../assets/chapter-4/APMockup4.png)  
 *Vista detallada para gestionar perfiles de estudiantes con campos de ingreso de datos intuitivos.*
 
-**Mock-up 5: Trip History** ![Mock-up 5](../assets/chapter-4/MOCKUP%205.png)  
+**Mock-up 5: Trip History** ![Mock-up 5](../assets/chapter-4/APMockup5.png)  
 *Registro histórico con abundantes datos y un diseño limpio y organizado para el análisis de rutas pasadas.*
 
-**Mock-up 6: Driver Main Interface** ![Mock-up 6](../assets/chapter-4/MOCKUP%206.png)  
+**Mock-up 6: Driver Main Interface** ![Mock-up 6](../assets/chapter-4/APMockup6.png)  
 *Modo noche/día optimizado para conductores, priorizando la navegación y los objetivos táctiles grandes.*
 
-**Mock-up 7: Attendance Checklist** ![Mock-up 7](../assets/chapter-4/MOCKUP%207.png)  
+**Mock-up 7: Attendance Checklist** ![Mock-up 7](../assets/chapter-4/APMockup7.png)  
 *Lista de verificación de alto contraste para el abordaje de estudiantes en tiempo real y la verificación de seguridad.*
 
-**Mock-up 8: School Admin Overview** ![Mock-up 8](../assets/chapter-4/MOCKUP%208.png)  
+**Mock-up 8: School Admin Overview** ![Mock-up 8](../assets/chapter-4/APMockup8.png)  
 *Panel administrativo con métricas de flota y monitoreo de viajes activos.*
 
-**Mock-up 9: Route Optimization** ![Mock-up 9](../assets/chapter-4/MOCKUP%209.png)  
+**Mock-up 9: Route Optimization** ![Mock-up 9](../assets/chapter-4/APMockup9.png)  
 *Constructor visual de rutas para que los administradores diseñen y asignen puntos de recojo.*
 
-**Mock-up 10: Incident Reporting** ![Mock-up 10](../assets/chapter-4/MOCKUP%2010.png)  
+**Mock-up 10: Incident Reporting** ![Mock-up 10](../assets/chapter-4/APMockup10.png)  
 *Interfaz de alerta urgente diseñada para el reporte rápido en situaciones de alta presión.*
 
-**Mock-up 11: Notification Settings** ![Mock-up 11](../assets/chapter-4/MOCKUP%2011.png)  
+**Mock-up 11: Notification Settings** ![Mock-up 11](../assets/chapter-4/APMockup11.png)  
 *Panel de personalización de alertas, manteniendo la consistencia visual con la aplicación móvil.*
 
-**Mock-up 12: Analytics & Reports** ![Mock-up 12](../assets/chapter-4/MOCKUP%2012.png)  
+**Mock-up 12: Analytics & Reports** ![Mock-up 12](../assets/chapter-4/APMockup12.png)  
 *Gráficos de rendimiento integrales y tablas de datos para la gestión de las empresas de movilidad escolar.*
 
 ### **4.4.4. Web Applications User Flow Diagrams**
