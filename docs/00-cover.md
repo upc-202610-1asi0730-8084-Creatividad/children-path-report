@@ -52,8 +52,8 @@
         <td style="text-align: center; padding: 8px;">Huaco Oliva, Luis Alonso</td>
       </tr>
       <tr>
-        <td style="padding: 8px;">XXXXXXX</td>
-        <td style="text-align: center; padding: 8px;">XXXXXXX</td>
+        <td style="padding: 8px;">U202213484</td>
+        <td style="text-align: center; padding: 8px;">Rázuri Ucañan Piero Alejandro</td>
       </tr>
       <tr>
         <td style="padding: 8px;">XXXXXXX</td>
