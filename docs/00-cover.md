@@ -52,12 +52,12 @@
         <td style="text-align: center; padding: 8px;">Huaco Oliva, Luis Alonso</td>
       </tr>
       <tr>
-        <td style="padding: 8px;">XXXXXXX</td>
-        <td style="text-align: center; padding: 8px;">XXXXXXX</td>
+        <td style="padding: 8px;">U202422589</td>
+        <td style="text-align: center; padding: 8px;">Diana Pareja Caceres</td>
       </tr>
       <tr>
-        <td style="padding: 8px;">XXXXXXX</td>
-        <td style="text-align: center; padding: 8px;">XXXXXXX</td>
+        <td style="padding: 8px;">U202213484</td>
+        <td style="text-align: center; padding: 8px;">Piero Alejandro Razuri Ucañan</td>
       </tr>
       <tr>
         <td style="padding: 8px;">U202315640</td>
