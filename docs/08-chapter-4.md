@@ -418,13 +418,14 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 ---
 
-**User Flow Diagram: Core Platform Interactions** ![User Flow](../assets/chapter-4/USER_FLOW.png)  
-*Este diagrama detalla los nodos de decisión y las rutas de acción para Padres, Conductores y Administradores dentro del ecosistema web.*
+**User Flow Diagram: Core Platform Interactions** ![User Flow1](../assets/chapter-4/USER_FLOW1.png)
+![User Flow2](../assets/chapter-4/USER_FLOW2.png)
+![User Flow3](../assets/chapter-4/USER_FLOW3.png)  
+*Estos diagramas detallan los nodos de decisión y las rutas de acción para Padres, Conductores y Administradores dentro del ecosistema web.*
 
 ---
 
 ## **Web Applications Prototyping**
-
 
 
 ## **4.6. Domain-Driven Software Architecture**
