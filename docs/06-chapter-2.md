@@ -237,166 +237,378 @@ Se presentan, se pide consentimiento para entrevistar al participante y se comie
 10. ¿Estaría dispuesto a pagar una suscripción mensual por un servicio que le brinde esta tranquilidad y seguridad? ¿Cuánto consideraría justo pagar?
 11. ¿Qué característica de la aplicación sería la más importante para usted para sentirse tranquilo al confiar el transporte de su hijo a un conductor registrado en nuestra plataforma?
 
-### **2.2.2. Interview Recording**
+### **2.2.2. Registro de Entrevistas**
 
-* **Entrevista 1:**
-  * **Entrevistado:** Gabriela
-  * **Segmento:** Padre de familia
-  * **Duración:** [Duración]
-  * **Enlace a la grabación:** [Ver entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQD1AXwvDziBQJNjfqVNiPQWAeYMA26BAQOBC1tyKe_D9nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VWo0MB)
-
-* **Entrevista 2:**
-  * **Entrevistado:** Alejandro
-  * **Segmento:** Padre de familia
-  * **Duración:** [Duración]
-  * **Enlace a la grabación:** [Ver entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQCneF6uJQneSbuVfMMPEvfKAdcXTo1sHeUy-SGF28JiP3g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f5sdCh)
-
-* **Entrevista 3:**
-  * **Entrevistado:** Eduardo
-  * **Segmento:** Padre de familia
-  * **Duración:** [Duración]
-  * **Enlace a la grabación:** [Ver entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQDjMXK3n4smQaWYxZ2qTvKkAShiPN2nP5lMf1iIen8ONyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlhpOR)
-
-### 2.2.3. Interview Analysis
-
-1. Perfil del Usuario
-El 100% son adultos de 32 a 38 años con trabajo fijo por las mañanas.
-Niños a cargo: El 100% cuida a menores pequeños que no pueden viajar solos (33.3% nido de 4 años, 66.7% primaria de 6 y 8 años).
-Uso del celular: El 100% usa WhatsApp todo el día, apps con mapas como google maps o waze.
-
-2. Principales Problemas y Molestias 
-Incertidumbre por demoras: El 100% sufrió retrasos de más de 30 minutos por fallas mecánicas o tráfico sin recibir aviso a tiempo, teniendo que pagar un taxi de emergencia para no llegar tarde.
-Peligro del chofer al volante: El 100% considera peligroso llamar o escribir al conductor mientras maneja. El 33.3% (Gabriela) exige que el chofer solo toque el teléfono si el auto está 100% estacionado.
-El 100% baja a la calle a esperar de 5 a 10 minutos antes, pasando frío e incomodidad con los niños en la vereda por no saber exactamente cuándo llega la van.
-Contacto frecuente: El 100% termina llamando o escribiendo de 2 a 3 veces por semana cuando la movilidad se pasa de los 15 minutos de tardanza.
-
-
-### **2.2.3. Interview Analysis**
+**Segmento 1: Conductores Independientes**
 
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="center"><h2>Entrevista #N</h2></th>
+      <th colspan="2" align="center"><h2>Entrevista #1</h2></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th colspan="2" align="left">Información del entrevistado</th>
+      <th colspan="2" align="left">Datos del Entrevistado</th>
     </tr>
     <tr>
       <td width="30%"><b>Nombre Completo</b></td>
-      <td>NOMBRE</td>
+      <td>Carlos Marcelo Mansilla Rivero</td>
     </tr>
     <tr>
       <td><b>Edad</b></td>
-      <td>EDAD</td>
+      <td>24 años</td>
     </tr>
     <tr>
       <td><b>Ocupación</b></td>
-      <td>Chofer de Movilidad Escolar</td>
+      <td>Conductor de transporte escolar</td>
     </tr>
     <tr>
       <td><b>Distrito de residencia</b></td>
-      <td>DISTRITO</td>
+      <td>Surquillo</td>
     </tr>
     <tr>
       <th colspan="2" align="left">Datos del Video</th>
     </tr>
     <tr>
       <td><b>Enlace</b></td>
-      <td><a href="LINK" target="_blank">Entrevista</a></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417743_upc_edu_pe/IQBHn8n5K9_6Rp66hsgbrEJoAdhlFwMApCasikED2GfGumQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mazujd">Entrevista</a></td>
     </tr>
     <tr>
       <td><b>Duración</b></td>
-      <td>DURACIÓN</td>
+      <td>4:53 minutos</td>
     </tr>
     <tr>
       <td><b>Empieza en el:</b></td>
-      <td>0:00</td>
+      <td>7:20</td>
     </tr>
     <tr>
       <th colspan="2" align="center">Captura de pantalla</th>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/screenshot-interview-NOMBRE.png" alt="screenshot-interview-NOMBRE" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista1-s1.png" alt="screenshot-interview-carlos-mansilla" width="400">
       </td>
     </tr>
   </tbody>
 </table>
 
-**Entrevista Resumen**
+**Resumen de la Entrevista**
 
-RESUMEN DE LA ENTREVISTA
+Carlos es un conductor de transporte escolar con poca experiencia en el rubro, por lo que aún depende de herramientas como Waze o Google Maps para organizar sus rutas y evitar errores. En su rutina diaria, se enfoca en recoger a los estudiantes, mantener la puntualidad y coordinar constantemente con los padres a través de WhatsApp. Sin embargo, enfrenta varios problemas como la falta de puntualidad de algunos estudiantes, lo que afecta toda su ruta, y el denso tráfico de Lima, que incrementa su estrés y dificulta cumplir con los horarios. Además, le preocupa su imagen frente a los padres porque, al ser un conductor nuevo, siente mayor presión por demostrar responsabilidad y generar confianza.
 
----
+Otro punto crítico es la comunicación con los padres, ya que recibe constantemente mensajes y llamadas preguntando por su ubicación. Esto lo obliga a responder mientras conduce, generando distracciones peligrosas. Ante esta situación, valora mucho una solución que automatice las alertas de proximidad, lo que le ayudaría a concentrarse en la conducción y reducir el estrés. También enfatiza que la herramienta debe ser muy sencilla de usar, con mínima interacción, porque está al volante. Finalmente, espera que dicha solución le ayude a mejorar su reputación, optimizar su tiempo y reducir costos como el consumo de combustible causado por esperas innecesarias.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"><h2>Entrevista #2</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Datos del Entrevistado</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Nombre Completo</b></td>
+      <td>Mateo Nicolás de Mendiburu Aguilar</td>
+    </tr>
+    <tr>
+      <td><b>Edad</b></td>
+      <td>20 años</td>
+    </tr>
+    <tr>
+      <td><b>Ocupación</b></td>
+      <td>Conductor de transporte escolar</td>
+    </tr>
+    <tr>
+      <td><b>Distrito de residencia</b></td>
+      <td>Santiago de Surco</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Datos del Video</th>
+    </tr>
+    <tr>
+      <td><b>Enlace</b></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417743_upc_edu_pe/IQBHn8n5K9_6Rp66hsgbrEJoAdhlFwMApCasikED2GfGumQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mazujd">Entrevista</a></td>
+    </tr>
+    <tr>
+      <td><b>Duración</b></td>
+      <td>6.20 minutos</td>
+    </tr>
+    <tr>
+      <td><b>Empieza en el:</b></td>
+      <td>12:06</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">Captura de pantalla</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="../assets/chapter-2/interviews/entrevista2-s1.png" alt="screenshot-interview-mateo-de-mendiburu" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Resumen de la Entrevista**
+
+Mateo es un conductor de transporte escolar con aproximadamente dos años de experiencia que opera principalmente en distritos como Surco. En su rutina diaria, combina el uso de herramientas digitales como Google Maps con su propio conocimiento de las rutas, además de usar un calendario para organizar sus viajes. Esta mezcla de soporte tecnológico y experiencia le permite optimizar su trabajo, aunque todavía depende de las condiciones del entorno, especialmente el tráfico en hora punta, que representa uno de sus mayores desafíos y afecta directamente su puntualidad y su nivel de estrés.
+
+Durante sus rutas, uno de los principales problemas que enfrenta es la falta de puntualidad de algunos estudiantes cuando los padres no le avisan con anticipación, lo que genera retrasos acumulados y desorden en toda la ruta. A esto se suma la comunicación constante con los padres, quienes frecuentemente lo contactan no solo para preguntar por su ubicación, sino también por situaciones imprevistas como objetos olvidados. Esta situación lo obliga a dividir su atención entre conducir, responder mensajes y supervisar a los estudiantes dentro del vehículo, creando una sobrecarga que afecta tanto su desempeño como la seguridad durante el viaje.
+
+En este contexto, Mateo valora muy positivamente una solución que automatice la comunicación con los padres, especialmente mediante alertas de proximidad, ya que reduciría significativamente las interrupciones y le permitiría concentrarse en la conducción. Además, destaca la importancia de que la aplicación sea simple, visual y fácil de usar, con elementos grandes que no causen distracción. Finalmente, espera que una herramienta como **Children Path** le ayude a optimizar su tiempo, reducir el consumo de combustible y hacer su trabajo más eficiente, mejorando también la experiencia de padres y estudiantes y fortaleciendo su servicio.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"><h2>Entrevista #3</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Datos del Entrevistado</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Nombre Completo</b></td>
+      <td>Joao David Jiménez Abarca</td>
+    </tr>
+    <tr>
+      <td><b>Edad</b></td>
+      <td>36 años</td>
+    </tr>
+    <tr>
+      <td><b>Ocupación</b></td>
+      <td>Conductor de transporte escolar</td>
+    </tr>
+    <tr>
+      <td><b>Distrito de residencia</b></td>
+      <td>Comas</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Datos del Video</th>
+    </tr>
+    <tr>
+      <td><b>Enlace</b></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417743_upc_edu_pe/IQBHn8n5K9_6Rp66hsgbrEJoAdhlFwMApCasikED2GfGumQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mazujd">Entrevista</a></td>
+    </tr>
+    <tr>
+      <td><b>Duración</b></td>
+      <td>4.33 minutos</td>
+    </tr>
+    <tr>
+      <td><b>Empieza en el:</b></td>
+      <td>18:26</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">Captura de pantalla</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="../assets/chapter-2/interviews/entrevista3-s1.png" alt="screenshot-interview-joao-jimenez" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Resumen de la Entrevista**
+
+Joao es un conductor de transporte escolar con varios años de experiencia, lo que le permite organizar sus rutas principalmente de memoria, recurriendo ocasionalmente a herramientas como Waze para evitar el tráfico. Su rutina diaria consiste en recoger a los estudiantes respetando los horarios establecidos, aunque las condiciones del tráfico en Lima suelen generarle estrés y retrasos. A diferencia de algunos conductores más nuevos, maneja mejor la dinámica del servicio relacionada con la puntualidad, pero aún se ve afectado cuando los estudiantes no están listos a tiempo, ya que esto puede alterar su planificación, aunque trata de adaptarse a la situación.
+
+Uno de los principales desafíos que enfrenta es la comunicación constante con los padres, recibiendo varias llamadas al día preguntando por su ubicación. Esto lo pone en una situación difícil porque, aunque entiende la preocupación de los padres, responder mientras conduce representa un riesgo para él y para los estudiantes. Por esta razón, considera que una solución que automatice las alertas sería de mucha ayuda, ya que reduciría las interrupciones y le permitiría concentrarse en la conducción. También destaca la importancia de que la aplicación sea simple y accesible para todo tipo de conductores. Finalmente, menciona que espera que dicha herramienta le ayude a ahorrar tiempo en sus rutas, evitar retrasos y mejorar su reputación, incluso permitiéndole asumir más servicios.
 
 **Segmento 2: Empresas Dedicadas al Transporte Escolar**
 
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="center"><h2>Entrevista #N</h2></th>
+      <th colspan="2" align="center"><h2>Entrevista #1</h2></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th colspan="2" align="left">Información del entrevistado</th>
+      <th colspan="2" align="left">Datos del Entrevistado</th>
     </tr>
     <tr>
       <td width="30%"><b>Nombre Completo</b></td>
-      <td>NOMBRE</td>
+      <td>Dery Estrella Perez</td>
     </tr>
     <tr>
       <td><b>Edad</b></td>
-      <td>EDAD</td>
+      <td>27 años</td>
     </tr>
     <tr>
       <td><b>Ocupación</b></td>
-      <td>Dueño/Administrador de empresa de transporte escolar</td>
+      <td>Dueña y conductora de una pequeña empresa familiar</td>
     </tr>
     <tr>
       <td><b>Distrito de residencia</b></td>
-      <td>DISTRITO</td>
+      <td>Los Olivos</td>
     </tr>
     <tr>
       <th colspan="2" align="left">Datos del Video</th>
     </tr>
     <tr>
       <td><b>Enlace</b></td>
-      <td><a href="LINK" target="_blank">Entrevista</a></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417743_upc_edu_pe/IQBHn8n5K9_6Rp66hsgbrEJoAdhlFwMApCasikED2GfGumQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mazujd">Entrevista</a></td>
     </tr>
     <tr>
       <td><b>Duración</b></td>
-      <td>DURACIÓN</td>
+      <td>4:09 minutos</td>
     </tr>
     <tr>
       <td><b>Empieza en el:</b></td>
-      <td>0:00</td>
+      <td>22:53</td>
     </tr>
     <tr>
       <th colspan="2" align="center">Captura de pantalla</th>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/screenshot-interview-NOMBRE.png" alt="screenshot-interview-NOMBRE" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista1-s2.png" alt="screenshot-interview-dery-estrella" width="400">
       </td>
     </tr>
   </tbody>
 </table>
 
-**Entrevista Resumen**
+**Resumen de la Entrevista**
 
-RESUMEN DE LA ENTREVISTA
+Dery Estrella Perez es la dueña y conductora de una pequeña empresa familiar de transporte escolar con una flota de cinco unidades, que opera principalmente en Los Olivos y San Martín de Porres. En su rutina diaria, enfrenta desafíos como evitar zonas con obras viales constantes y mantener la puntualidad al recoger y dejar a los estudiantes. Al ser un equipo pequeño, la coordinación es bastante directa, apoyándose en llamadas entre conductores para reportar retrasos o problemas en la ruta.
 
----
+La supervisión de las unidades es completamente manual y depende de la comunicación constante entre el equipo. Asimismo, los registros de asistencia se llevan en cuadernos individuales por cada conductor, lo que crea un sistema poco centralizado y propenso a errores o pérdida de información. Aunque esta forma de trabajar es funcional, limita la capacidad de tener una visión general en tiempo real del servicio.
 
-**Segmento 3: Padres de Familia**
+En cuanto a los costos, los principales problemas están relacionados con el consumo de combustible y las multas, que intentan reducir buscando rutas alternas para evitar el tráfico. Desde el lado de la atención al cliente, el principal punto de tensión es la incertidumbre de los padres, ya que llaman con frecuencia cuando perciben retrasos, generando presión adicional en los conductores mientras están al volante.
+
+Dery ve un alto valor en contar con un sistema más organizado, como un panel centralizado que le permita ver la ubicación de sus unidades y reaccionar rápidamente ante imprevistos, como fallas mecánicas. También cree que una aplicación para padres brindaría tranquilidad y mejoraría la seguridad percibida del servicio. Esperaría que nuestra solución incluya reportes claros sobre incidencias en ruta y asistencia mensual, ayudándole a mantener un mejor control operativo y administrativo.
 
 <table width="100%">
   <thead>
     <tr>
-      <th colspan="2" align="center"><h2>Entrevista #N</h2></th>
+      <th colspan="2" align="center"><h2>Entrevista #2</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Datos del Entrevistado</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Nombre Completo</b></td>
+      <td>Cheyla Paredes Mattos</td>
+    </tr>
+    <tr>
+      <td><b>Edad</b></td>
+      <td>27 años</td>
+    </tr>
+    <tr>
+      <td><b>Ocupación</b></td>
+      <td>Administradora de empresa de transporte escolar</td>
+    </tr>
+    <tr>
+      <td><b>Distrito de residencia</b></td>
+      <td>Ate</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Datos del Video</th>
+    </tr>
+    <tr>
+      <td><b>Enlace</b></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417743_upc_edu_pe/IQBHn8n5K9_6Rp66hsgbrEJoAdhlFwMApCasikED2GfGumQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mazujd">Entrevista</a></td>
+    </tr>
+    <tr>
+      <td><b>Duración</b></td>
+      <td>3.26 minutos</td>
+    </tr>
+    <tr>
+      <td><b>Empieza en el:</b></td>
+      <td>26:14</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">Captura de pantalla</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="../assets/chapter-2/interviews/entrevista2-s2.png" alt="screenshot-interview-cheyla-paredes" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Resumen de la Entrevista**
+
+Cheyla Paredes Mattos administra una empresa de transporte escolar en Santa Clara con una flota de 15 minibuses que operan principalmente en La Molina y Ate. En su rutina diaria, enfrenta desafíos como la congestión vehicular, especialmente en la avenida Javier Prado, y la necesidad de reaccionar rápidamente ante cambios de última hora por ausencias. Actualmente, la supervisión de rutas es manual y dispersa, ya que depende de un GPS básico y de reportes por WhatsApp enviados por los conductores. El control de asistencia también es mixto, combinando registros en papel con fotos enviadas como respaldo digital.
+
+A nivel operativo, uno de sus costos más altos proviene del mantenimiento correctivo debido a las condiciones de las vías, que intenta reducir mediante inspecciones preventivas. En cuanto al servicio, las principales quejas de los padres están relacionadas con la falta de sincronización en los horarios, ya sea por llegadas anticipadas o retrasos sin previo aviso, lo que afecta la calidad percibida del servicio.
+
+Cheyla considera que un panel centralizado sería clave para mejorar su gestión, ya que le permitiría monitorear todas las unidades en tiempo real sin depender de múltiples canales de comunicación. Además, ve valor en ofrecer a los padres una aplicación como diferenciador competitivo que proyecte mayor seguridad y modernidad. Para adoptar una solución como **Children Path**, esperaría reportes claros y útiles, como indicadores de puntualidad de conductores y consumo estimado de combustible por ruta.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"><h2>Entrevista #3</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Datos del Entrevistado</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Nombre Completo</b></td>
+      <td>Luis Fernando Becerra Ninahuanca</td>
+    </tr>
+    <tr>
+      <td><b>Edad</b></td>
+      <td>25 años</td>
+    </tr>
+    <tr>
+      <td><b>Ocupación</b></td>
+      <td>Coordinador de operaciones de rutas escolares</td>
+    </tr>
+    <tr>
+      <td><b>Distrito de residencia</b></td>
+      <td>Santiago de Surco</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Datos del Video</th>
+    </tr>
+    <tr>
+      <td><b>Enlace</b></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417743_upc_edu_pe/IQBHn8n5K9_6Rp66hsgbrEJoAdhlFwMApCasikED2GfGumQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mazujd">Entrevista</a></td>
+    </tr>
+    <tr>
+      <td><b>Duración</b></td>
+      <td>3.46 minutos</td>
+    </tr>
+    <tr>
+      <td><b>Empieza en el:</b></td>
+      <td>28:56</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">Captura de pantalla</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="../assets/chapter-2/interviews/entrevista3-s2.png" alt="screenshot-interview-luis-becerra" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Resumen de la Entrevista**
+
+Luis Becerra Ninahuanca, de 25 años, es coordinador de operaciones en Rutas Escolares S.A., una empresa con una flota de 10 minivans que operan en distritos como Surco, San Borja y la zona de Monterrico. En su rutina diaria, enfrenta problemas como el tráfico impredecible y los tiempos muertos cuando los estudiantes no están listos, lo que termina afectando toda la planificación de la ruta. Su rol requiere coordinar múltiples unidades al mismo tiempo, incrementando la complejidad operativa.
+
+Actualmente, la empresa utiliza un GPS básico que solo proporciona una ubicación general, mientras que la supervisión real depende de grupos de WhatsApp donde los conductores reportan manualmente su avance. Este proceso es ineficiente y además fomenta la distracción al conducir. El control de asistencia también es manual, ya que se registra en listas físicas que se revisan días después, limitando la capacidad de reaccionar ante cualquier incidente.
+
+A nivel operativo, el costo más alto es el combustible, que intentan reducir sin mucho éxito debido a la falta de herramientas que optimicen las rutas en tiempo real. Desde el lado de los clientes, el principal problema es la falta de información, ya que los padres suelen preocuparse y llamar incluso ante retrasos mínimos, generando presión adicional en el equipo.
+
+Luis cree que contar con un panel centralizado podría ser clave para mejorar la gestión, ya que le permitiría monitorear todas las unidades en tiempo real sin depender de llamadas constantes. Asimismo, ve un gran valor en ofrecer una aplicación a los padres, ya que aumentaría la confianza y reduciría la incertidumbre durante los viajes. Para usar **Children Path**, esperaría reportes claros sobre puntualidad, comportamiento de conducción y asistencia digital, que le ayuden a optimizar tanto las operaciones como los procesos administrativos.
+
+**Segmento 3: Padre de Familia**
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"><h2>Entrevista #1</h2></th>
     </tr>
   </thead>
   <tbody>
@@ -405,38 +617,102 @@ RESUMEN DE LA ENTREVISTA
     </tr>
     <tr>
       <td width="30%"><b>Nombre Completo</b></td>
-      <td>NOMBRE</td>
+      <td>Pamela Paredes</td>
     </tr>
     <tr>
       <td><b>Edad</b></td>
-      <td>EDAD</td>
+      <td>41 años</td>
     </tr>
     <tr>
       <td><b>Ocupación</b></td>
-      <td>OCUPACIÓN</td>
+      <td>Ama de casa, madre de familia</td>
     </tr>
     <tr>
       <td><b>Distrito de residencia</b></td>
-      <td>DISTRITO</td>
+      <td>Santa Anita</td>
     </tr>
     <tr>
       <td><b>Edad de su(s) hijo(s)</b></td>
-      <td>EDAD DE LOS HIJOS</td>
+      <td>11 años</td>
     </tr>
     <tr>
       <td><b>Grado escolar de su(s) hijo(s)</b></td>
-      <td>GRADO ESCOLAR</td>
+      <td>No especificado</td>
     </tr>
     <tr>
       <th colspan="2" align="left">Datos del Video</th>
     </tr>
     <tr>
       <td><b>Enlace</b></td>
-      <td><a href="LINK" target="_blank">Entrevista</a></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202417743_upc_edu_pe/IQBHn8n5K9_6Rp66hsgbrEJoAdhlFwMApCasikED2GfGumQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mazujd">Entrevista</a></td>
     </tr>
     <tr>
       <td><b>Duración</b></td>
-      <td>DURACIÓN</td>
+      <td>7:18 min</td>
+    </tr>
+    <tr>
+      <td><b>Empieza en el:</b></td>
+      <td>0:01</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">Captura de pantalla</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="../assets/chapter-2/interviews/entrevista1-s3.png" alt="screenshot-interview-Pamela-Paredes" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Entrevista Resumen**
+
+Pamela, una madre de 41 años residente de Santa Anita, organiza el transporte escolar de su hijo de 11 años de manera empírica mediante horarios fijos y coordinación directa por WhatsApp con el conductor, apoyándose también en Yape, Plin y la web del colegio para su rutina diaria. Aunque confía en el servicio, le estresan el tráfico del distrito, la imprudencia vial y la falta de información ante imprevistos o choques, reconociendo además el riesgo que supone que el chofer se distraiga con el celular. Por ello, estaría dispuesta a pagar costos mensuales adicionales por una aplicación que le brinde rastreo GPS en tiempo real para optimizar sus mañanas, notifique el abordaje y llegada del niño al colegio, y garantice que los documentos o papeles del conductor estén al día.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"><h2>Entrevista #2</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Información del entrevistado</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Nombre Completo</b></td>
+      <td>Gabriela</td>
+    </tr>
+    <tr>
+      <td><b>Edad</b></td>
+      <td>35 años</td>
+    </tr>
+    <tr>
+      <td><b>Ocupación</b></td>
+      <td>Trabajadora</td>
+    </tr>
+    <tr>
+      <td><b>Distrito de residencia</b></td>
+      <td>Magdalena</td>
+    </tr>
+    <tr>
+      <td><b>Edad de su(s) hijo(s)</b></td>
+      <td>No especificado</td>
+    </tr>
+    <tr>
+      <td><b>Grado escolar de su(s) hijo(s)</b></td>
+      <td>No especificado</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Datos del Video</th>
+    </tr>
+    <tr>
+      <td><b>Enlace</b></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQD1AXwvDziBQJNjfqVNiPQWAeYMA26BAQOBC1tyKe_D9nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VWo0MB" target="_blank">Entrevista</a></td>
+    </tr>
+    <tr>
+      <td><b>Duración</b></td>
+      <td>No especificada</td>
     </tr>
     <tr>
       <td><b>Empieza en el:</b></td>
@@ -447,7 +723,7 @@ RESUMEN DE LA ENTREVISTA
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/screenshot-interview-NOMBRE.png" alt="screenshot-interview-NOMBRE" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista2-s3.png" alt="screenshot-interview-Gabriela" width="400">
       </td>
     </tr>
   </tbody>
@@ -455,10 +731,135 @@ RESUMEN DE LA ENTREVISTA
 
 **Entrevista Resumen**
 
-RESUMEN DE LA ENTREVISTA
+Gabriela, de 35 años y residente del distrito de Magdalena, cuenta desde hace años con un conductor de confianza para el traslado escolar, manteniendo una comunicación cercana con él. Sin embargo, menciona que en ocasiones se presentan pequeños inconvenientes o fricciones generados por factores externos como el clima, por lo que valora contar con una herramienta digital que le garantice visibilidad y certidumbre sobre lo que ocurre durante el trayecto. La propuesta de la aplicación le resulta atractiva y sugiere la implementación de un modelo de prueba o esquema *freemium* (*free-first*) para evaluar el funcionamiento y beneficio del servicio antes de contratar un plan de pago.
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"><h2>Entrevista #3</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Información del entrevistado</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Nombre Completo</b></td>
+      <td>Alejandro</td>
+    </tr>
+    <tr>
+      <td><b>Edad</b></td>
+      <td>34 años</td>
+    </tr>
+    <tr>
+      <td><b>Ocupación</b></td>
+      <td>No especificada</td>
+    </tr>
+    <tr>
+      <td><b>Distrito de residencia</b></td>
+      <td>Surco</td>
+    </tr>
+    <tr>
+      <td><b>Edad de su(s) hijo(s)</b></td>
+      <td>6 años</td>
+    </tr>
+    <tr>
+      <td><b>Grado escolar de su(s) hijo(s)</b></td>
+      <td>1° grado de primaria</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Datos del Video</th>
+    </tr>
+    <tr>
+      <td><b>Enlace</b></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQCneF6uJQneSbuVfMMPEvfKAdcXTo1sHeUy-SGF28JiP3g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f5sdCh" target="_blank">Entrevista</a></td>
+    </tr>
+    <tr>
+      <td><b>Duración</b></td>
+      <td>No especificada</td>
+    </tr>
+    <tr>
+      <td><b>Empieza en el:</b></td>
+      <td>0:00</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">Captura de pantalla</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="../assets/chapter-2/interviews/entrevista3-s3.png" alt="screenshot-interview-Alejandro" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### **2.2.3. Análisis de Entrevistas**
+**Entrevista Resumen**
+
+Alejandro, de 34 años y residente del distrito de Surco, es padre de un niño de 6 años que cursa el 1.º grado de primaria, a quien acostumbra acompañar durante sus traslados. Si bien considera que el conductor del servicio escolar es una persona responsable, manifiesta preocupación frente a contingencias e imprevistos en la vía, recordando un incidente previo en el que una llanta baja del vehículo lo obligó a buscar un taxi de emergencia para completar el trayecto. Asimismo, señala como punto de inquietud la posible distracción del chofer por el uso del teléfono móvil al conducir, por lo que valora positivamente las soluciones orientadas a reforzar la seguridad vehicular y el monitoreo en tiempo real.
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"><h2>Entrevista #4</h2></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2" align="left">Información del entrevistado</th>
+    </tr>
+    <tr>
+      <td width="30%"><b>Nombre Completo</b></td>
+      <td>Eduardo Osorio</td>
+    </tr>
+    <tr>
+      <td><b>Edad</b></td>
+      <td>32 años</td>
+    </tr>
+    <tr>
+      <td><b>Ocupación</b></td>
+      <td>No especificada</td>
+    </tr>
+    <tr>
+      <td><b>Distrito de residencia</b></td>
+      <td>Magdalena</td>
+    </tr>
+    <tr>
+      <td><b>Edad de su(s) hijo(s)</b></td>
+      <td>4 años</td>
+    </tr>
+    <tr>
+      <td><b>Grado escolar de su(s) hijo(s)</b></td>
+      <td>Inicial (4 años)</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">Datos del Video</th>
+    </tr>
+    <tr>
+      <td><b>Enlace</b></td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQDjMXK3n4smQaWYxZ2qTvKkAShiPN2nP5lMf1iIen8ONyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlhpOR" target="_blank">Entrevista</a></td>
+    </tr>
+    <tr>
+      <td><b>Duración</b></td>
+      <td>No especificada</td>
+    </tr>
+    <tr>
+      <td><b>Empieza en el:</b></td>
+      <td>0:00</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">Captura de pantalla</th>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="../assets/chapter-2/interviews/entrevista4-s3.png" alt="screenshot-interview-Eduardo-Osorio" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Entrevista Resumen**
+
+Eduardo Osorio, de 32 años y residente del distrito de Magdalena, es un padre comprometido que procura estar listo cinco minutos antes de la hora acordada para el recojo de su hijo de 4 años (nivel Inicial), esperando la misma puntualidad por parte del servicio. Manifiesta inquietud respecto a posibles accidentes o contingencias en la ruta, enfatizando la importancia de recibir información oportuna en tiempo real. En ese sentido, señala haber tenido una experiencia negativa en la que la movilidad no pasó a recoger a su hijo debido a una falla mecánica que no le fue comunicada a tiempo. Asimismo, considera un factor de riesgo relevante el hecho de que los conductores reciban constantes llamadas telefónicas mientras manejan, comprometiendo la seguridad del traslado.
 
 ### **2.2.3. Análisis de Entrevistas**
 
@@ -893,6 +1294,94 @@ RESUMEN DE LA ENTREVISTA
   <thead>
     <tr>
       <th colspan="4" align="center">
+        <h2>Segmento 3: Padres de Familia (Análisis Objetivo)</h2>
+      </th>
+    </tr>
+    <tr>
+      <th align="left" width="30%">Característica</th>
+      <th align="center" width="15%">Frecuencia en entrevistas</th>
+      <th align="center" width="10%">Porcentaje</th>
+      <th align="left" width="45%">Fuente en entrevistas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Incertidumbre constante por la falta de información en tiempo real durante el trayecto</b></td>
+      <td align="center">Mencionado por los 4</td>
+      <td align="center">100%</td>
+      <td>
+        <b>Pamela:</b> "me estresa no saber qué pasa cuando hay un imprevisto en la vía"<br>
+        <b>Gabriela:</b> "necesito visibilidad y certidumbre sobre lo que ocurre durante el trayecto"<br>
+        <b>Alejandro:</b> "me preocupan las contingencias e imprevistos en la vía"<br>
+        <b>Eduardo:</b> "es importante recibir información oportuna en tiempo real"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Deseo de recibir notificaciones automáticas (proximidad, abordaje y llegada)</b></td>
+      <td align="center">Mencionado por los 4</td>
+      <td align="center">100%</td>
+      <td>
+        <b>Pamela:</b> "una aplicación que notifique el abordaje y llegada del niño al colegio"<br>
+        <b>Gabriela:</b> "una herramienta que garantice visibilidad sobre lo que ocurre"<br>
+        <b>Alejandro:</b> "valoro soluciones orientadas al monitoreo en tiempo real"<br>
+        <b>Eduardo:</b> "necesito información oportuna en tiempo real para estar tranquilo"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Preocupación por la distracción del conductor al usar el celular mientras conduce</b></td>
+      <td align="center">Mencionado por 3/4</td>
+      <td align="center">75%</td>
+      <td>
+        <b>Pamela:</b> "reconozco el riesgo que supone que el chofer se distraiga con el celular"<br>
+        <b>Alejandro:</b> "me inquieta la posible distracción del chofer por el uso del teléfono móvil"<br>
+        <b>Eduardo:</b> "es un factor de riesgo que los conductores reciban llamadas mientras manejan"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Han experimentado incidentes o imprevistos con el servicio de transporte escolar</b></td>
+      <td align="center">Mencionado por 3/4</td>
+      <td align="center">75%</td>
+      <td>
+        <b>Pamela:</b> "me estresa la falta de información ante imprevistos o choques"<br>
+        <b>Alejandro:</b> "una llanta baja del vehículo me obligó a buscar un taxi de emergencia"<br>
+        <b>Eduardo:</b> "una vez la movilidad no pasó por una falla mecánica que no me fue comunicada a tiempo"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Uso de WhatsApp como canal principal de coordinación con el conductor</b></td>
+      <td align="center">Mencionado por 2/4</td>
+      <td align="center">50%</td>
+      <td>
+        <b>Pamela:</b> "coordino directamente por WhatsApp con el conductor"<br>
+        <b>Gabriela:</b> "mantengo una comunicación cercana con el conductor de confianza"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Disposición a pagar una mensualidad adicional por una solución que brinde seguridad</b></td>
+      <td align="center">Mencionado por 2/4</td>
+      <td align="center">50%</td>
+      <td>
+        <b>Pamela:</b> "estaría dispuesta a pagar costos mensuales adicionales por rastreo GPS en tiempo real"<br>
+        <b>Gabriela:</b> "la propuesta me resulta atractiva, sugiero un modelo freemium para probar antes de pagar"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Preocupación por la formalización y vigencia de documentos del conductor</b></td>
+      <td align="center">Mencionado por 1/4</td>
+      <td align="center">25%</td>
+      <td>
+        <b>Pamela:</b> "una aplicación que garantice que los documentos o papeles del conductor estén al día"
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="4" align="center">
         <h2>Segmento 3: Padres de Familia (Análisis Subjetivo)</h2>
       </th>
     </tr>
@@ -906,80 +1395,83 @@ RESUMEN DE LA ENTREVISTA
   <tbody>
     <tr>
       <td><b>Sienten ansiedad constante por la seguridad de sus hijos durante el traslado</b></td>
-      <td align="center">Mencionado por los 3</td>
+      <td align="center">Mencionado por los 4</td>
       <td align="center">100%</td>
       <td>
-        <b>Carmen:</b> "vivo con la preocupación de que algo le pase en el camino"<br>
-        <b>Patricia:</b> "no estoy tranquila hasta que me confirman que llegó"<br>
-        <b>Rosa:</b> "es una angustia diaria, aunque confíe en el chofer"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Desconfianza hacia los servicios de transporte escolar informales</b></td>
-      <td align="center">Mencionado por 2/3</td>
-      <td align="center">66.7%</td>
-      <td>
-        <b>Carmen:</b> "hay muchos choferes que no están formalizados y eso da miedo"<br>
-        <b>Rosa:</b> "prefiero pagar más con tal de que sea alguien de confianza"
+        <b>Pamela:</b> "me estresa el tráfico del distrito y la imprudencia vial"<br>
+        <b>Gabriela:</b> "factores externos como el clima me generan fricciones con el servicio"<br>
+        <b>Alejandro:</b> "me preocupan las contingencias e imprevistos en la vía"<br>
+        <b>Eduardo:</b> "manifiesto inquietud respecto a posibles accidentes en la ruta"
       </td>
     </tr>
     <tr>
       <td><b>Sensación de impotencia al no tener información en tiempo real</b></td>
-      <td align="center">Mencionado por los 3</td>
+      <td align="center">Mencionado por los 4</td>
       <td align="center">100%</td>
       <td>
-        <b>Carmen:</b> "me siento impotente cuando no sé dónde está mi hijo"<br>
-        <b>Patricia:</b> "no puedo hacer nada más que esperar y llamar"<br>
-        <b>Rosa:</b> "quisiera tener el control, pero no puedo estar detrás del chofer"
+        <b>Pamela:</b> "me estresa la falta de información ante imprevistos"<br>
+        <b>Gabriela:</b> "valoro una herramienta que me dé visibilidad y certidumbre"<br>
+        <b>Alejandro:</b> "recuerdo un incidente previo donde no tuve información a tiempo"<br>
+        <b>Eduardo:</b> "una falla mecánica no me fue comunicada a tiempo"
       </td>
     </tr>
     <tr>
-      <td><b>Desean sentir control sin ser invasivos con el conductor</b></td>
-      <td align="center">Mencionado por 2/3</td>
-      <td align="center">66.7%</td>
-      <td>
-        <b>Patricia:</b> "no quiero estar llamándolo cada rato, sé que lo distraigo"<br>
-        <b>Rosa:</b> "quisiera saber sin tener que preguntarle todo el tiempo"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Perciben que la tecnología puede mejorar la confianza en el servicio</b></td>
-      <td align="center">Mencionado por los 3</td>
+      <td><b>Perciben que la tecnología puede mejorar la confianza y profesionalismo del servicio</b></td>
+      <td align="center">Mencionado por los 4</td>
       <td align="center">100%</td>
       <td>
-        <b>Carmen:</b> "si tuviera una app que me muestre dónde va, confiaría más"<br>
-        <b>Patricia:</b> "una plataforma así daría más seguridad a todos"<br>
-        <b>Rosa:</b> "me gustaría que el servicio se vea más profesional con tecnología"
+        <b>Pamela:</b> "valoro una app que garantice documentos al día y rastreo GPS"<br>
+        <b>Gabriela:</b> "la propuesta de la aplicación me resulta atractiva"<br>
+        <b>Alejandro:</b> "valoro positivamente las soluciones orientadas a la seguridad vehicular"<br>
+        <b>Eduardo:</b> "considero importante recibir información oportuna en tiempo real"
       </td>
     </tr>
     <tr>
-      <td><b>Prefieren una solución discreta que notifique sin que tengan que estar pendientes</b></td>
-      <td align="center">Mencionado por 2/3</td>
-      <td align="center">66.7%</td>
+      <td><b>Confían en el conductor, pero necesitan mayor visibilidad y control</b></td>
+      <td align="center">Mencionado por 3/4</td>
+      <td align="center">75%</td>
       <td>
-        <b>Carmen:</b> "no quiero estar mirando el celular todo el tiempo"<br>
-        <b>Patricia:</b> "solo quiero que me avise cuando sea el momento de bajar"
+        <b>Pamela:</b> "aunque confío en el servicio, necesito saber qué pasa en el trayecto"<br>
+        <b>Gabriela:</b> "tengo un conductor de confianza, pero igual valoro la visibilidad"<br>
+        <b>Alejandro:</b> "considero que el conductor es responsable, pero me preocupan los imprevistos"
       </td>
     </tr>
     <tr>
       <td><b>Valoran la transparencia y la comunicación clara por parte del conductor o empresa</b></td>
-      <td align="center">Mencionado por 2/3</td>
-      <td align="center">66.7%</td>
+      <td align="center">Mencionado por 3/4</td>
+      <td align="center">75%</td>
       <td>
-        <b>Carmen:</b> "si me avisan con tiempo, yo puedo organizarme mejor"<br>
-        <b>Rosa:</b> "agradezco cuando el chofer avisa si va a llegar tarde"
+        <b>Gabriela:</b> "mantengo una comunicación cercana con el conductor"<br>
+        <b>Alejandro:</b> "el conductor es una persona responsable y valoro esa confianza"<br>
+        <b>Eduardo:</b> "espero la misma puntualidad que yo demuestro al estar listo a tiempo"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Prefieren una solución discreta que notifique sin tener que estar pendientes del celular</b></td>
+      <td align="center">Mencionado por 2/4</td>
+      <td align="center">50%</td>
+      <td>
+        <b>Pamela:</b> "una app que notifique el abordaje y llegada, sin tener que estar preguntando"<br>
+        <b>Gabriela:</b> "una herramienta que garantice visibilidad sin depender de llamadas constantes"
+      </td>
+    </tr>
+    <tr>
+      <td><b>Prefieren probar el servicio antes de contratar un plan de pago</b></td>
+      <td align="center">Mencionado por 1/4</td>
+      <td align="center">25%</td>
+      <td>
+        <b>Gabriela:</b> "sugiero un modelo de prueba o esquema freemium para evaluar antes de pagar"
       </td>
     </tr>
   </tbody>
 </table>
 
-En conclusión, este análisis de entrevistas de los tres segmentos revela que el problema central del transporte escolar no es la conducción en sí, sino la ineficiencia, el peligro y el estrés que genera la comunicación manual. La ansiedad de los padres por la falta de visibilidad obliga a los conductores a distraerse al volante y a los administradores a invertir horas actuando como intermediarios. Estos hallazgos validan la necesidad de desarrollar **Children Path**. Las entrevistas confirman que la implementación de un monitoreo GPS centralizado y un sistema de notificaciones automáticas de proximidad son los requisitos fundamentales de software para eliminar la incertidumbre familiar y optimizar la logística de las empresas operadoras.
+<br>
 
+En conclusión, este análisis de entrevistas de los tres segmentos revela que el problema central del transporte escolar no es la conducción en sí, sino la ineficiencia, el peligro y el estrés que genera la comunicación manual. La ansiedad de los padres por la falta de visibilidad obliga a los conductores a distraerse al volante y a los administradores a invertir horas actuando como intermediarios. Los cuatro padres entrevistados del Segmento 3 coinciden en que la incertidumbre durante el trayecto, la preocupación por la distracción del conductor y la falta de notificaciones automáticas son sus principales puntos de dolor. Estos hallazgos validan la necesidad de desarrollar <b>Children Path</b>. Las entrevistas confirman que la implementación de un monitoreo GPS centralizado y un sistema de notificaciones automáticas de proximidad son los requisitos fundamentales de software para eliminar la incertidumbre familiar y optimizar la logística de las empresas operadoras.
 ## **2.3. Needfinding**
 
 ### **2.3.1. User Persona**
-<img width="1050" height="1438" alt="Gabriela Morales" src="https://github.com/user-attachments/assets/261b87bb-a3d8-4d92-bdeb-2eb45be53822" />
-
 
 Los User Persona se han construido como representaciones de los principales tipos de usuarios de **Children Path**. Estos perfiles están basados directamente en los hallazgos obtenidos durante las entrevistas, donde se identificaron problemas recurrentes como el estrés, la dificultad para gestionar varias tareas al mismo tiempo y los riesgos de usar el teléfono mientras se conduce o se coordina una ruta.
 
@@ -1100,7 +1592,6 @@ El análisis de la User Task Matrix muestra una clara diferencia en las necesida
 
 Existe una clara diferencia entre los tres, pero también se revela un punto común clave: la comunicación entre los actores. Los Segmentos 1, 2 y 3 presentan una alta frecuencia en el envío y la recepción de información, lo que genera una carga operativa significativa. En el caso de los padres, esta carga se traduce en ansiedad y dependencia del celular; en el de los conductores, en distracciones al volante; y en el de las empresas, en horas perdidas coordinando manualmente. Esta coincidencia confirma que la automatización de las notificaciones de proximidad y el registro digital de asistencia abordan directamente el problema compartido por los tres segmentos, ya que reducen la necesidad de llamadas y mensajes. De esta manera, el conductor puede concentrarse en manejar sin distracciones, el administrador deja de depender de la coordinación manual y el padre obtiene la tranquilidad que busca, cumpliendo así con el objetivo central de la solución.
 
-### **2.3.3. User Journey Mapping**
 
 ### **2.3.3. User Journey Mapping**
 
