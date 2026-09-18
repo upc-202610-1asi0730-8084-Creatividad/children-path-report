@@ -311,40 +311,40 @@ Nuestros objetivos de diseño principales incluyen:
 
 ---
 
-**Wireframe 1: User Login** ![Wireframe 1](../assets/chapter-4/WIREFRAME%201.png)  
+**Wireframe 1: User Login** ![Wireframe 1](../assets/chapter-4/AppWeb-Wireframe1.png)  
 *Portal de autenticación seguro para padres, conductores y administradores de empresas de movilidad escolar.*
 
-**Wireframe 2: Parent Dashboard** ![Wireframe 2](../assets/chapter-4/WIREFRAME%202.png)  
+**Wireframe 2: Parent Dashboard** ![Wireframe 2](../assets/chapter-4/AppWeb-Wireframe2.png)  
 *Panel de control principal para padres, que muestra los servicios activos y el estado rápido del hijo.*
 
-**Wireframe 3: Live Tracking Map** ![Wireframe 3](../assets/chapter-4/WIREFRAME%203.png)  
+**Wireframe 3: Live Tracking Map** ![Wireframe 3](../assets/chapter-4/AppWeb-Wireframe3.png)  
 *Interfaz GPS en tiempo real que muestra la ubicación del bus y el tiempo estimado de llegada (ETA).*
 
-**Wireframe 4: Student Profile Management** ![Wireframe 4](../assets/chapter-4/WIREFRAME%204.png)  
+**Wireframe 4: Student Profile Management** ![Wireframe 4](../assets/chapter-4/AppWeb-Wireframe4.png)  
 *Sección dedicada a la gestión de la información del estudiante, contactos de emergencia y notas médicas.*
 
-**Wireframe 5: Trip History** ![Wireframe 5](../assets/chapter-4/WIREFRAME%205.png)  
+**Wireframe 5: Trip History** ![Wireframe 5](../assets/chapter-4/AppWeb-Wireframe5.png)  
 *Registro detallado de rutas anteriores, incluyendo marcas de tiempo de cada recojo y descenso.*
 
-**Wireframe 6: Driver Main Interface** ![Wireframe 6](../assets/chapter-4/WIREFRAME%206.png)  
+**Wireframe 6: Driver Main Interface** ![Wireframe 6](../assets/chapter-4/AppWeb-Wireframe6.png)  
 *Vista operativa para conductores con navegación de ruta activa y gestión de paradas.*
 
-**Wireframe 7: Attendance Checklist** ![Wireframe 7](../assets/chapter-4/WIREFRAME%207.png)  
+**Wireframe 7: Attendance Checklist** ![Wireframe 7](../assets/chapter-4/AppWeb-Wireframe7.png)  
 *Lista digital de estudiantes para la confirmación en tiempo real del abordaje y descenso.*
 
-**Wireframe 8: School Admin Overview** ![Wireframe 8](../assets/chapter-4/WIREFRAME%208.png)  
+**Wireframe 8: School Admin Overview** ![Wireframe 8](../assets/chapter-4/AppWeb-Wireframe8.png)  
 *Panel de monitoreo global para que las empresas de movilidad escolar rastreen múltiples unidades y su estado de seguridad.*
 
-**Wireframe 9: Route Optimization** ![Wireframe 9](../assets/chapter-4/WIREFRAME%209.png)  
+**Wireframe 9: Route Optimization** ![Wireframe 9](../assets/chapter-4/AppWeb-Wireframe9.png)  
 *Herramienta administrativa para crear nodos y optimizar las rutas de transporte.*
 
-**Wireframe 10: Incident Reporting** ![Wireframe 10](../assets/chapter-4/WIREFRAME%2010.png)  
+**Wireframe 10: Incident Reporting** ![Wireframe 10](../assets/chapter-4/AppWeb-Wireframe10.png)  
 *Formulario estandarizado para reportar retrasos, fallas mecánicas o alertas de comportamiento.*
 
-**Wireframe 11: Notification Settings** ![Wireframe 11](../assets/chapter-4/WIREFRAME%2011.png)  
+**Wireframe 11: Notification Settings** ![Wireframe 11](../assets/chapter-4/AppWeb-Wireframe11.png)  
 *Preferencias para notificaciones push, alertas por SMS y comunicación por correo electrónico.*
 
-**Wireframe 12: Analytics & Reports** ![Wireframe 12](../assets/chapter-4/WIREFRAME%2012.png)  
+**Wireframe 12: Analytics & Reports** ![Wireframe 12](../assets/chapter-4/AppWeb-Wireframe12.png)  
 *Panel de rendimiento de la flota que muestra viajes completados, asistencia promedio y métricas de incidencias.*
 
 
