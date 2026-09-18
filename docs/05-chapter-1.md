@@ -48,33 +48,33 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
     </tr>
           <tr>
       <td width="30%" align="center" valign="middle">
-        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <img src="../assets/chapter-1/img/diana-pareja.png" alt="Foto de Diana Pareja" width="180" style="border-radius: 8px;">
         <br>
         <i></i>
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
-        <h3>Luis Alonso Huaco Oliva</h3>
-        <p><b>Codigo de Estudiante: u202417743</b> </p>
+        <h3>Diana Pareja Caceres</h3>
+        <p><b>Codigo de Estudiante: u202422589</b> </p>
         <p><b>Age: 24</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
 <p><b>Sobre mí:</b></p>
-<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+<p>Estudiante de software con alta capacidad de aprendizaje y gusto por la excelencia técnica. Cuento con formación en lógica de programación, HTML y desarrollo de Aplicaciones Web. Me considero una persona meticulosa y orientada al detalle, enfocada en dominar las tecnologías desde su raíz para aplicarlas de forma versátil y con criterio en diversos contextos digitales.</p>
     </tr>
           <tr>
       <td width="30%" align="center" valign="middle">
-        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <img src="../assets/chapter-1/img/piero-razuri.png" alt="Foto de Piero Razuri" width="180" style="border-radius: 8px;">
         <br>
         <i></i>
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
-        <h3>Luis Alonso Huaco Oliva</h3>
-        <p><b>Codigo de Estudiante: u202417743</b> </p>
+        <h3>Piero Alejandro Razuri Ucañan</h3>
+        <p><b>Codigo de Estudiante: U202213484</b> </p>
         <p><b>Age: 24</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
 <p><b>Sobre mí:</b></p>
-<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+<p>Me apasiona la tecnología y el reto constante de superar mis propios límites. Aunque aún estoy construyendo mi camino y perfeccionando mis habilidades, cuento con bases en lógica de programación, HTML y actualmente continúo aprendiendo en Aplicaciones Web. Me defino como una persona constante y perseverante, con una enorme disposición para aprender de los errores, buscar soluciones con actitud positiva y dar siempre lo mejor de mí en cada proyecto.</p>
     </tr>
            <tr>
       <td width="30%" align="center" valign="middle">

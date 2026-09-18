@@ -183,31 +183,31 @@
   <!-- ROW 3.3 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.12
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      18/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Razuri, Piero
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Entregar su entrevista
     </td>
   </tr>
     <!-- ROW 3.4 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.1.0
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      18/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Huaco Oliva Luis Alonso
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        
     </td>
   </tr>
     <!-- ROW 3.5 -->

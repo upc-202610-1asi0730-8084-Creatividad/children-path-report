@@ -154,8 +154,8 @@ Desktop Landing Page:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/Landing_Wireframe1.png" style="max-width:100%; max-height:950px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe1.png" style="max-width:100%; max-height:950px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -165,8 +165,8 @@ Desktop Landing Page:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/Landing_Wireframe3.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/Landing_Wireframe4.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe3.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe4.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -176,7 +176,7 @@ Desktop Landing Page:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/Landing_Wireframe5.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe5.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -214,8 +214,8 @@ Mobile Web Wireframes
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/W_Landing_Wireframe1.png" style="max-width:100%; max-height:10000px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/W_Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe1.png" style="max-width:100%; max-height:10000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -225,8 +225,8 @@ Mobile Web Wireframes
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/W_Landing_Wireframe3.png" style="max-width:100%; max-height:3000px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/W_Landing_Wireframe4.png" style="max-width:100%; max-height:2000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe3.png" style="max-width:100%; max-height:3000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe4.png" style="max-width:100%; max-height:2000px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -236,8 +236,8 @@ Mobile Web Wireframes
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/W_Landing_Wireframe5.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/W_Landing_Wireframe6.png" style="max-width:100%; max-height:3600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe5.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe6.png" style="max-width:100%; max-height:3600px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -270,15 +270,15 @@ Mobile Web Wireframes
 
 El Mockup de alta fidelidad representa la interfaz final de **Children Path**, integrando todos los elementos de la identidad visual y la arquitectura de información definida previamente. Este diseño busca equilibrar la funcionalidad técnica con una experiencia de usuario (UX) intuitiva y reconfortante para los padres.
 
-<img width="1291" height="6231" alt="children path - landing page mock-up" src="https://github.com/user-attachments/assets/ba634ca7-714b-4d6b-b23a-3d2643741c3a" />
+<img width="1291" height="6231" alt="children path - landing page mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup1.png" />
 
-<img width="1291" height="3399" alt="Children path -Nosotros mock-up" src="https://github.com/user-attachments/assets/6f9abbeb-64a8-4622-b679-c0de804d068b" />
+<img width="1291" height="3399" alt="Children path -Nosotros mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup2.png" />
 
-<img width="1291" height="2040" alt="Children path - contacto mock-up" src="https://github.com/user-attachments/assets/801a3a89-774e-487f-a796-c70fefad7ec2" />
+<img width="1291" height="2040" alt="Children path - contacto mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup3.png" />
 
-<img width="1291" height="900" alt="Childre path - iniciar sesion  mock-up" src="https://github.com/user-attachments/assets/e9a76eda-345d-470d-ad7a-1a4e506c17d6" />
+<img width="1291" height="900" alt="Childre path - iniciar sesion  mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup4.png" />
 
-<img width="1291" height="2642" alt="children path - terminos y condiciones mock-up" src="https://github.com/user-attachments/assets/a7954bb4-f17f-4c0f-8353-c4290e8d8288" />
+<img width="1291" height="2642" alt="children path - terminos y condiciones mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup5.png" />
 
 
 #### Análisis del Diseño Final:
@@ -355,7 +355,7 @@ El siguiente diagrama de wireflow ilustra la arquitectura de navegación y la l�
 
 ---
 
-**Wireflow Diagram: System Interaction Logic** ![Children Path Wireflow](../assets/chapter-4/DIAGRAMA_WIREFLOW.png)
+**Wireflow Diagram: System Interaction Logic** ![Children Path Wireflow](../assets/chapter-4/section-4-2/wireflow-diagram.png)
 
 ---
 
@@ -418,7 +418,7 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 ---
 
-**User Flow Diagram: Core Platform Interactions** ![User Flow](../assets/chapter-4/USER_FLOW.png)  
+**User Flow Diagram: Core Platform Interactions** ![User Flow](../assets/chapter-4/section-4-4/userflow-diagram.png)  
 *Este diagrama detalla los nodos de decisión y las rutas de acción para Padres, Conductores y Administradores dentro del ecosistema web.*
 
 ---
@@ -517,7 +517,7 @@ Hemos priorizado los siguientes tres flujos críticos:
 - Children Path Context Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/context-diagram/context-diagram.png" width="70%" alt="context-diagram">
+<img src="../assets/chapter-4/section-6-4/children-path-context.png" width="70%" alt="children-path-context">
 </p>
 
 ### **4.6.3. Software Architecture Container Diagrams**
@@ -525,7 +525,7 @@ Hemos priorizado los siguientes tres flujos críticos:
 - Children Path Container Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/container-diagram/container-diagram.png" width="70%" alt="container-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-container.png" width="70%" alt="container-diagram">
 </p>
 
 ### **4.6.4. Software Architecture Components Diagrams**
@@ -533,103 +533,85 @@ Hemos priorizado los siguientes tres flujos críticos:
 - Children Path Web Application Component Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/web-application-component-diagram.png" width="70%" alt="web-application-component-diagram">
-</p>
-
-- Identity & Access Management Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/identity-access-component-diagram.png" width="70%" alt="identity-access-component-diagram">
-</p>
-
-- User Profiles Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/user-profiles-component-diagram.png" width="70%" alt="user-profiles-component-diagram">
-</p>
-
-- Subscription & Payments Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/subscription-payments-component-diagram.png" width="70%" alt="subscription-payments-component-diagram">
-</p>
-
-- Dashboard Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/dashboard-component-diagram.png" width="70%" alt="dashboard-component-diagram">
-</p>
-
-- Fleet Management Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/fleet-management-component-diagram.png" width="70%" alt="fleet-management-component-diagram">
-</p>
-
-- Driver Management Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/driver-management-component-diagram.png" width="70%" alt="driver-management-component-diagram">
-</p>
-
-- Route Management Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/route-management-component-diagram.png" width="70%" alt="route-management-component-diagram">
-</p>
-
-- Student Management Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/student-management-component-diagram.png" width="70%" alt="student-management-component-diagram">
-</p>
-
-- Assignment Management Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/assignment-management-component-diagram.png" width="70%" alt="assignment-management-component-diagram">
-</p>
-
-- Real-Time Tracking Component Diagram:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/real-time-tracking-component-diagram.png" width="70%" alt="real-time-tracking-component-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-web-application.png" width="70%" alt="web-application-component-diagram">
 </p>
 
 - Trip Management Component Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/trip-management-component-diagram.png" width="70%" alt="trip-management-component-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-trip-management.png" width="70%" alt="trip-management-component-diagram">
 </p>
 
-- Attendance Tracking Component Diagram:
+- Subscription & Payments Component Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/attendance-tracking-component-diagram.png" width="70%" alt="attendance-tracking-component-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-subscription-payments.png" width="70%" alt="subscription-payments-component-diagram">
 </p>
 
-- Alerts & Notifications Component Diagram:
+- Student Management Component Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/alerts-notifications-component-diagram.png" width="70%" alt="alerts-notifications-component-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-student-management.png" width="70%" alt="student-management-component-diagram">
 </p>
 
-- Incident Management Component Diagram:
+- Route  Management Component Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/incident-management-component-diagram.png" width="70%" alt="incident-management-component-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-route-management.png" width="70%" alt="route-management-component-diagram">
 </p>
 
-- Analytics & Reports Component Diagram:
+- Real Time Tracking Component Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/analytics-reports-component-diagram.png" width="70%" alt="analytics-reports-component-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-real-time-tracking.png" width="70%" alt="real-time-tracking-component-diagram">
+</p>
+
+- Fleet Management Component Diagram:
+
+<p align="center">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-fleet-management.png" width="70%" alt="fleet-management-component-diagram">
+</p>
+
+- Driver Management Component Diagram:
+
+<p align="center">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-driver-management.png" width="70%" alt="driver-management-component-diagram">
+</p>
+
+- Dashboard Component Diagram:
+
+<p align="center">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-dashboard.png" width="70%" alt="dashboard-component-diagram">
 </p>
 
 - Company Management Component Diagram:
 
 <p align="center">
-  <img src="../assets/chapter-4/software-architecture/components-diagram/company-management-component-diagram.png" width="70%" alt="company-management-component-diagram">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-company-management.png" width="70%" alt="company-management-component-diagram">
+</p>
+
+- Attendance Tracking Component Diagram:
+
+<p align="center">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-attendance-tracking.png" width="70%" alt="attendance-tracking-component-diagram">
+</p>
+
+- Assignment Management Component Diagram:
+
+<p align="center">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-assignment-management.png" width="70%" alt="assignment-management-component-diagram">
+</p>
+
+- Analytics & Reports Component Diagram:
+
+<p align="center">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-assigment-management.png" width="70%" alt="analytics-reports-component-diagram">
+</p>
+
+- Alerts & Notifications Component Diagram:
+
+<p align="center">
+  <img src="../assets/chapter-4/section-6-4/children-path-component-alerts-notifications.png" width="70%" alt="alerts-notifications-component-diagram">
 </p>
 
 ## **4.7. Object-Oriented Design Software**
