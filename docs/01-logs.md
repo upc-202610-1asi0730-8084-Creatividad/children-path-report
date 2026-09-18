@@ -189,10 +189,10 @@
       18/09/2026
     </td>
     <td style="text-align: center;">
-      Razuri, Piero
+      Soto Palacios, Brandon Wilder
     </td>
     <td style="text-align: justify;">
-        Entregar su entrevista
+        Añadido de wireframes y mockups de app web, userflows y modificaciones al capitulo 4
     </td>
   </tr>
     <!-- ROW 3.4 -->
