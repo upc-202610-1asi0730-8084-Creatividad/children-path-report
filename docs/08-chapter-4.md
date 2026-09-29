@@ -626,97 +626,97 @@ Esta sección presenta el diseño orientado a objetos de la plataforma <strong>C
 - Diagrama de Clases de Gestión de Identidad y Acceso:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/identity-access-management-class-diagram.png" width="70%" alt="identity-access-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/01-identity-access-management-class-diagram.png" width="70%" alt="identity-access-class-diagram">
 </p>
 
 - Diagrama de Clases de Perfiles de Usuario:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/user-profiles-class-diagram.png" width="70%" alt="user-profiles-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/02-user-profiles-class-diagram.png" width="70%" alt="user-profiles-class-diagram">
 </p>
 
 - Diagrama de Clases de Suscripciones y Pagos:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/subscription-payments-class-diagram.png" width="70%" alt="subscription-payments-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/03-subscription-payments-class-diagram.png" width="70%" alt="subscription-payments-class-diagram">
 </p>
 
 - Diagrama de Clases del Dashboard:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/dashboard-class-diagram.png" width="70%" alt="dashboard-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/04-dashboard-class-diagram.png" width="70%" alt="dashboard-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Flota:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/fleet-management-class-diagram.png" width="70%" alt="fleet-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/05-fleet-management-class-diagram.png" width="70%" alt="fleet-management-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Conductores:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/driver-management-class-diagram.png" width="70%" alt="driver-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/06-driver-management-class-diagram.png" width="70%" alt="driver-management-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Rutas:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/route-management-class-diagram.png" width="70%" alt="route-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/07-route-management-class-diagram.png" width="70%" alt="route-management-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Estudiantes:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/student-management-class-diagram.png" width="70%" alt="student-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/08-student-management-class-diagram.png" width="70%" alt="student-management-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Asignaciones:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/assignment-management-class-diagram.png" width="70%" alt="assignment-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/09-assignment-management-class-diagram.png" width="70%" alt="assignment-management-class-diagram">
 </p>
 
 - Diagrama de Clases de Rastreo en Tiempo Real:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/real-time-tracking-class-diagram.png" width="70%" alt="real-time-tracking-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/10-real-time-tracking-class-diagram.png" width="70%" alt="real-time-tracking-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Viajes:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/trip-management-class-diagram.png" width="70%" alt="trip-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/11-trip-management-class-diagram.png" width="70%" alt="trip-management-class-diagram">
 </p>
 
 - Diagrama de Clases de Control de Asistencia:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/attendance-tracking-class-diagram.png" width="70%" alt="attendance-tracking-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/12-attendance-tracking-class-diagram.png" width="70%" alt="attendance-tracking-class-diagram">
 </p>
 
 - Diagrama de Clases de Alertas y Notificaciones:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/alerts-notifications-class-diagram.png" width="70%" alt="alerts-notifications-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/13-alerts-notifications-class-diagram.png" width="70%" alt="alerts-notifications-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Incidencias:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/incident-management-class-diagram.png" width="70%" alt="incident-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/14-incident-management-class-diagram.png" width="70%" alt="incident-management-class-diagram">
 </p>
 
 - Diagrama de Clases de Analítica y Reportes:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/analytics-reports-class-diagram.png" width="70%" alt="analytics-reports-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/15-analytics-reports-class-diagram.png" width="70%" alt="analytics-reports-class-diagram">
 </p>
 
 - Diagrama de Clases de Gestión de Empresas:
 
 <p align="center">
-  <img src="../assets/chapter-4/design-software/class-diagrams/company-management-class-diagram.png" width="70%" alt="company-management-class-diagram">
+  <img src="../assets/chapter-4/section-7-1/16-company-management-class-diagram.png" width="70%" alt="company-management-class-diagram">
 </p>
 
 ## **4.8. Database Design**
@@ -727,105 +727,104 @@ Esta sección define el diseño de la base de datos de la plataforma <strong>Chi
 
 ### **4.8.1. Database Diagrams**
 
-- Diagrama de Base de Datos de Children Path:
+- Diagrama de Base de Datos General de Children Path:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/kidway-database-diagram.png" width="70%" alt="kidway-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/01-children-path-database-diagram.png" width="70%" alt="children-path-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Identidad y Acceso:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/identity-access-management-database-diagram.png" width="70%" alt="identity-access-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/02-identity-access-management-database-diagram.png" width="70%" alt="identity-access-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Perfiles de Usuario:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/user-profiles-database-diagram.png" width="70%" alt="user-profiles-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/03-user-profiles-database-diagram.png" width="70%" alt="user-profiles-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Suscripciones y Pagos:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/subscription-payments-database-diagram.png" width="70%" alt="subscription-payments-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/04-subscription-payments-database-diagram.png" width="70%" alt="subscription-payments-database-diagram">
 </p>
 
 - Diagrama de Base de Datos del Dashboard:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/dashboard-database-diagram.png" width="70%" alt="dashboard-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/05-dashboard-database-diagram.png" width="70%" alt="dashboard-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Flota:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/fleet-management-database-diagram.png" width="70%" alt="fleet-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/06-fleet-management-database-diagram.png" width="70%" alt="fleet-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Conductores:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/driver-management-database-diagram.png" width="70%" alt="driver-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/07-driver-management-database-diagram.png" width="70%" alt="driver-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Rutas:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/route-management-database-diagram.png" width="70%" alt="route-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/08-route-management-database-diagram.png" width="70%" alt="route-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Estudiantes:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/student-management-database-diagram.png" width="70%" alt="student-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/09-student-management-database-diagram.png" width="70%" alt="student-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Asignaciones:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/assignment-management-database-diagram.png" width="70%" alt="assignment-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/10-assignment-management-database-diagram.png" width="70%" alt="assignment-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Rastreo en Tiempo Real:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/real-time-tracking-database-diagram.png" width="70%" alt="real-time-tracking-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/11-real-time-tracking-database-diagram.png" width="70%" alt="real-time-tracking-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Viajes:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/trip-management-database-diagram.png" width="70%" alt="trip-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/12-trip-management-database-diagram.png" width="70%" alt="trip-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Control de Asistencia:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/attendance-tracking-database-diagram.png" width="70%" alt="attendance-tracking-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/13-attendance-tracking-database-diagram.png" width="70%" alt="attendance-tracking-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Alertas y Notificaciones:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/alerts-notifications-database-diagram.png" width="70%" alt="alerts-notifications-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/14-alerts-notifications-database-diagram.png" width="70%" alt="alerts-notifications-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Incidencias:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/incident-management-database-diagram.png" width="70%" alt="incident-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/15-incident-management-database-diagram.png" width="70%" alt="incident-management-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Analítica y Reportes:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/analytics-reports-database-diagram.png" width="70%" alt="analytics-reports-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/16-analytics-reports-database-diagram.png" width="70%" alt="analytics-reports-database-diagram">
 </p>
 
 - Diagrama de Base de Datos de Gestión de Empresas:
 
 <p align="center">
-  <img src="../assets/chapter-4/database-design/database-diagram/company-management-database-diagram.png" width="70%" alt="company-management-database-diagram">
+  <img src="../assets/chapter-4/section-8-1/17-company-management-database-diagram.png" width="70%" alt="company-management-database-diagram">
 </p>
-
