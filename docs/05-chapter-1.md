@@ -183,17 +183,13 @@ El estado actual del sector de transporte escolar en Lima Metropolitana se ha en
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 
-*  Hypothesis Statement 01 (Seguimiento GPS en tiempo real):
-Creemos que lograremos una tasa de adopción y consulta diaria activa superior al 75% por parte de los padres de familia registrados dentro del piloto   Si los padres de familia   Obtienen certidumbre continua y reducen la ansiedad cotidiana al visualizar la posición exacta del transporte escolar durante todo el trayecto   A través de un mapa interactivo con seguimiento GPS en tiempo real. 
+* Creemos que lograremos una tasa de adopción y consulta diaria activa superior al 75% por parte de los padres de familia registrados dentro del piloto   Si los padres de familia   Obtienen certidumbre continua y reducen la ansiedad cotidiana al visualizar la posición exacta del transporte escolar durante todo el trayecto   A través de un mapa interactivo con seguimiento GPS en tiempo real. 
 
-* Hypothesis Statement 02 (Alertas automatizadas de proximidad):
-Creemos que lograremos reducir en al menos un 80% las llamadas y mensajes dirigidos al conductor durante la ruta y disminuir el tiempo de espera por parada a menos de 3 minutos   Si los padres de familia y conductores de movilidad escolar   Obtienen la capacidad de anticipar con precisión la llegada de la unidad para tener a los estudiantes listos en la puerta sin demoras   A través de un sistema de alertas automatizadas de proximidad mediante geocercas. 
+* Creemos que lograremos reducir en al menos un 80% las llamadas y mensajes dirigidos al conductor durante la ruta y disminuir el tiempo de espera por parada a menos de 3 minutos   Si los padres de familia y conductores de movilidad escolar   Obtienen la capacidad de anticipar con precisión la llegada de la unidad para tener a los estudiantes listos en la puerta sin demoras   A través de un sistema de alertas automatizadas de proximidad mediante geocercas. 
 
-* Hypothesis Statement 03 (Registro de asistencia en un toque):
-Creemos que lograremos una retención superior al 85% de los conductores independientes afiliados tras los primeros tres meses de uso continuo   Si los conductores de movilidad escolar   Obtienen un método ágil y digital para registrar el abordaje o inasistencia de los alumnos que evite planillas en papel y no genere distracciones al volante   A través de una interfaz táctil simplificada de registro de asistencia en un solo toque. 
+* Creemos que lograremos una retención superior al 85% de los conductores independientes afiliados tras los primeros tres meses de uso continuo   Si los conductores de movilidad escolar   Obtienen un método ágil y digital para registrar el abordaje o inasistencia de los alumnos que evite planillas en papel y no genere distracciones al volante   A través de una interfaz táctil simplificada de registro de asistencia en un solo toque. 
 
-* Hypothesis Statement 04 (Gestión de rutas e incidencias operativas):
-Creemos que lograremos consolidar a la plataforma como la herramienta operativa estándar del servicio, disminuyendo retrasos y reclamos operativos   Si los administradores de movilidad escolar y conductores   Obtienen la supervisión centralizada del cumplimiento de itinerarios y la comunicación oportuna de imprevistos o congestión vehicular   A través de un módulo centralizado de gestión de rutas e incidencias operativas en tiempo real. 
+* Creemos que lograremos consolidar a la plataforma como la herramienta operativa estándar del servicio, disminuyendo retrasos y reclamos operativos   Si los administradores de movilidad escolar y conductores   Obtienen la supervisión centralizada del cumplimiento de itinerarios y la comunicación oportuna de imprevistos o congestión vehicular   A través de un módulo centralizado de gestión de rutas e incidencias operativas en tiempo real. 
 
 #### **1.2.2.4. Lean UX Canvas**
 
