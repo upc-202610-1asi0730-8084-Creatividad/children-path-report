@@ -287,7 +287,7 @@ Se presentan, se pide consentimiento para entrevistar al participante y se comie
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista1-s1.png" alt="screenshot-interview-carlos-mansilla" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista1-s1.png" alt="screenshot-interview-carlos-mansilla" width="300">
       </td>
     </tr>
   </tbody>
@@ -295,9 +295,7 @@ Se presentan, se pide consentimiento para entrevistar al participante y se comie
 
 **Resumen de la Entrevista**
 
-Carlos es un conductor de transporte escolar con poca experiencia en el rubro, por lo que aún depende de herramientas como Waze o Google Maps para organizar sus rutas y evitar errores. En su rutina diaria, se enfoca en recoger a los estudiantes, mantener la puntualidad y coordinar constantemente con los padres a través de WhatsApp. Sin embargo, enfrenta varios problemas como la falta de puntualidad de algunos estudiantes, lo que afecta toda su ruta, y el denso tráfico de Lima, que incrementa su estrés y dificulta cumplir con los horarios. Además, le preocupa su imagen frente a los padres porque, al ser un conductor nuevo, siente mayor presión por demostrar responsabilidad y generar confianza.
-
-Otro punto crítico es la comunicación con los padres, ya que recibe constantemente mensajes y llamadas preguntando por su ubicación. Esto lo obliga a responder mientras conduce, generando distracciones peligrosas. Ante esta situación, valora mucho una solución que automatice las alertas de proximidad, lo que le ayudaría a concentrarse en la conducción y reducir el estrés. También enfatiza que la herramienta debe ser muy sencilla de usar, con mínima interacción, porque está al volante. Finalmente, espera que dicha solución le ayude a mejorar su reputación, optimizar su tiempo y reducir costos como el consumo de combustible causado por esperas innecesarias.
+Carlos es un conductor de transporte escolar con poca experiencia en el rubro. En su rutina diaria utiliza aplicaciones de navegación como Waze y Google Maps para organizar sus rutas y evitar errores, además de WhatsApp como canal principal para coordinar con los padres. Su dispositivo principal es el smartphone Android con plan de datos móviles y su nivel de adopción tecnológica es medio (usa apps de navegación y mensajería, pero no herramientas avanzadas de gestión). Enfrenta varios problemas como la falta de puntualidad de algunos estudiantes, el denso tráfico de Lima que incrementa su estrés, y la presión de demostrar responsabilidad por ser nuevo. Recibe constantemente mensajes y llamadas preguntando por su ubicación, lo que lo obliga a responder mientras conduce, generando distracciones peligrosas. Por ello, valora mucho una solución que automatice las alertas de proximidad, con mínima interacción, y espera que le ayude a mejorar su reputación, optimizar su tiempo y reducir costos como el consumo de combustible.
 
 <table width="100%">
   <thead>
@@ -345,7 +343,7 @@ Otro punto crítico es la comunicación con los padres, ya que recibe constantem
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista2-s1.png" alt="screenshot-interview-mateo-de-mendiburu" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista2-s1.png" alt="screenshot-interview-mateo-de-mendiburu" width="300">
       </td>
     </tr>
   </tbody>
@@ -353,11 +351,7 @@ Otro punto crítico es la comunicación con los padres, ya que recibe constantem
 
 **Resumen de la Entrevista**
 
-Mateo es un conductor de transporte escolar con aproximadamente dos años de experiencia que opera principalmente en distritos como Surco. En su rutina diaria, combina el uso de herramientas digitales como Google Maps con su propio conocimiento de las rutas, además de usar un calendario para organizar sus viajes. Esta mezcla de soporte tecnológico y experiencia le permite optimizar su trabajo, aunque todavía depende de las condiciones del entorno, especialmente el tráfico en hora punta, que representa uno de sus mayores desafíos y afecta directamente su puntualidad y su nivel de estrés.
-
-Durante sus rutas, uno de los principales problemas que enfrenta es la falta de puntualidad de algunos estudiantes cuando los padres no le avisan con anticipación, lo que genera retrasos acumulados y desorden en toda la ruta. A esto se suma la comunicación constante con los padres, quienes frecuentemente lo contactan no solo para preguntar por su ubicación, sino también por situaciones imprevistas como objetos olvidados. Esta situación lo obliga a dividir su atención entre conducir, responder mensajes y supervisar a los estudiantes dentro del vehículo, creando una sobrecarga que afecta tanto su desempeño como la seguridad durante el viaje.
-
-En este contexto, Mateo valora muy positivamente una solución que automatice la comunicación con los padres, especialmente mediante alertas de proximidad, ya que reduciría significativamente las interrupciones y le permitiría concentrarse en la conducción. Además, destaca la importancia de que la aplicación sea simple, visual y fácil de usar, con elementos grandes que no causen distracción. Finalmente, espera que una herramienta como **Children Path** le ayude a optimizar su tiempo, reducir el consumo de combustible y hacer su trabajo más eficiente, mejorando también la experiencia de padres y estudiantes y fortaleciendo su servicio.
+Mateo es un conductor con aproximadamente dos años de experiencia que opera en distritos como Surco. En su rutina diaria utiliza Google Maps y Waze para navegar, además de un calendario digital para organizar sus viajes y WhatsApp para comunicarse con los padres. Su dispositivo principal es el smartphone Android, y su nivel de adopción tecnológica es medio-alto, ya que combina múltiples apps para optimizar su trabajo. A pesar de esto, depende de las condiciones del entorno, especialmente el tráfico en hora punta, que afecta su puntualidad y su nivel de estrés. Durante sus rutas, enfrenta falta de puntualidad de los estudiantes cuando los padres no avisan con anticipación, generando retrasos acumulados. Además, la comunicación constante por WhatsApp con los padres lo obliga a dividir su atención entre conducir, responder mensajes y supervisar a los estudiantes, creando una sobrecarga que afecta la seguridad del viaje. Valora positivamente una solución que automatice la comunicación mediante alertas de proximidad, con una interfaz simple, visual y de botones grandes. Espera que Children Path le ayude a optimizar su tiempo, reducir el consumo de combustible y mejorar la experiencia de los padres
 
 <table width="100%">
   <thead>
@@ -405,7 +399,7 @@ En este contexto, Mateo valora muy positivamente una solución que automatice la
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista3-s1.png" alt="screenshot-interview-joao-jimenez" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista3-s1.png" alt="screenshot-interview-joao-jimenez" width="300">
       </td>
     </tr>
   </tbody>
@@ -413,9 +407,7 @@ En este contexto, Mateo valora muy positivamente una solución que automatice la
 
 **Resumen de la Entrevista**
 
-Joao es un conductor de transporte escolar con varios años de experiencia, lo que le permite organizar sus rutas principalmente de memoria, recurriendo ocasionalmente a herramientas como Waze para evitar el tráfico. Su rutina diaria consiste en recoger a los estudiantes respetando los horarios establecidos, aunque las condiciones del tráfico en Lima suelen generarle estrés y retrasos. A diferencia de algunos conductores más nuevos, maneja mejor la dinámica del servicio relacionada con la puntualidad, pero aún se ve afectado cuando los estudiantes no están listos a tiempo, ya que esto puede alterar su planificación, aunque trata de adaptarse a la situación.
-
-Uno de los principales desafíos que enfrenta es la comunicación constante con los padres, recibiendo varias llamadas al día preguntando por su ubicación. Esto lo pone en una situación difícil porque, aunque entiende la preocupación de los padres, responder mientras conduce representa un riesgo para él y para los estudiantes. Por esta razón, considera que una solución que automatice las alertas sería de mucha ayuda, ya que reduciría las interrupciones y le permitiría concentrarse en la conducción. También destaca la importancia de que la aplicación sea simple y accesible para todo tipo de conductores. Finalmente, menciona que espera que dicha herramienta le ayude a ahorrar tiempo en sus rutas, evitar retrasos y mejorar su reputación, incluso permitiéndole asumir más servicios.
+Joao es un conductor con varios años de experiencia que organiza sus rutas principalmente de memoria, recurriendo ocasionalmente a Waze para evitar el tráfico. Su dispositivo principal es el smartphone y utiliza WhatsApp como canal principal con los padres. Su nivel de adopción tecnológica es medio, priorizando su experiencia sobre las herramientas digitales. Su rutina consiste en recoger a los estudiantes respetando los horarios, aunque el tráfico en Lima suele generarle estrés y retrasos. A diferencia de conductores más nuevos, maneja mejor la dinámica de puntualidad, pero aún se ve afectado cuando los estudiantes no están listos a tiempo. El principal desafío es la comunicación constante con los padres, recibiendo varias llamadas al día preguntando por su ubicación, lo que lo pone en una situación difícil porque responder mientras conduce representa un riesgo para él y los estudiantes. Considera que una solución que automatice las alertas reduciría las interrupciones y le permitiría concentrarse en la conducción. Espera que la aplicación sea simple y accesible para todo tipo de conductores, y que le ayude a ahorrar tiempo, evitar retrasos y mejorar su reputación.
 
 **Segmento 2: Empresas Dedicadas al Transporte Escolar**
 
@@ -465,7 +457,7 @@ Uno de los principales desafíos que enfrenta es la comunicación constante con 
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista1-s2.png" alt="screenshot-interview-dery-estrella" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista1-s2.png" alt="screenshot-interview-dery-estrella" width="150">
       </td>
     </tr>
   </tbody>
@@ -527,7 +519,7 @@ Dery ve un alto valor en contar con un sistema más organizado, como un panel ce
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista2-s2.png" alt="screenshot-interview-cheyla-paredes" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista2-s2.png" alt="screenshot-interview-cheyla-paredes" width="150">
       </td>
     </tr>
   </tbody>
@@ -587,7 +579,7 @@ Cheyla considera que un panel centralizado sería clave para mejorar su gestión
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista3-s2.png" alt="screenshot-interview-luis-becerra" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista3-s2.png" alt="screenshot-interview-luis-becerra" width="300">
       </td>
     </tr>
   </tbody>
@@ -659,7 +651,7 @@ Luis cree que contar con un panel centralizado podría ser clave para mejorar la
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista1-s3.png" alt="screenshot-interview-Pamela-Paredes" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista1-s3.png" alt="screenshot-interview-Pamela-Paredes" width="300">
       </td>
     </tr>
   </tbody>
@@ -723,7 +715,7 @@ Pamela, una madre de 41 años residente de Santa Anita, organiza el transporte e
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista2-s3.png" alt="screenshot-interview-Gabriela" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista2-s3.png" alt="screenshot-interview-Gabriela" width="300">
       </td>
     </tr>
   </tbody>
@@ -787,7 +779,7 @@ Gabriela, de 35 años y residente del distrito de Magdalena, cuenta desde hace a
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista3-s3.png" alt="screenshot-interview-Alejandro" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista3-s3.png" alt="screenshot-interview-Alejandro" width="300">
       </td>
     </tr>
   </tbody>
@@ -851,7 +843,7 @@ Alejandro, de 34 años y residente del distrito de Surco, es padre de un niño d
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista4-s3.png" alt="screenshot-interview-Eduardo-Osorio" width="400">
+        <img src="../assets/chapter-2/interviews/entrevista4-s3.png" alt="screenshot-interview-Eduardo-Osorio" width="300">
       </td>
     </tr>
   </tbody>
