@@ -270,16 +270,70 @@ Mobile Web Wireframes
 
 El Mockup de alta fidelidad representa la interfaz final de **Children Path**, integrando todos los elementos de la identidad visual y la arquitectura de información definida previamente. Este diseño busca equilibrar la funcionalidad técnica con una experiencia de usuario (UX) intuitiva y reconfortante para los padres.
 
-<img width="1291" height="6231" alt="children path - landing page mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup1.png" />
+Desktop Mockups
 
-<img width="1291" height="3399" alt="Children path -Nosotros mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup2.png" />
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup1.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup2.png" style="max-width:100%; max-height:700px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
 
-<img width="1291" height="2040" alt="Children path - contacto mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup3.png" />
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup3.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup4.png" style="max-width:100%; max-height:700px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup5.png" style="max-width:100%; max-height:500px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
 
-<img width="1291" height="900" alt="Childre path - iniciar sesion  mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup4.png" />
+Mobile Mockups:
 
-<img width="1291" height="2642" alt="children path - terminos y condiciones mock-up" src="assets/chapter-4/section-3-2/Landing_Mockup5.png" />
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Landing Page_ChildrenPath.png" style="max-width:100%; max-height:8000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Landing Page_Labeling.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
 
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Nosotros.png" style="max-width:100%; max-height:3000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Contact.png" style="max-width:100%; max-height:2000px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Log In.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Terminos y condiciones.png" style="max-width:100%; max-height:3600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
 
 #### Análisis del Diseño Final:
 
@@ -376,7 +430,7 @@ Elementos visuales clave aplicados:
 **Mock-up 2: Parent Dashboard** ![Mock-up 2](../assets/chapter-4/APMockup2.png)  
 *Vista general codificada por colores para padres con indicadores de estado en tiempo real.*
 
-**Mock-up 3: Live Tracking Map** ![Mock-up 3](../assets/chapter-4/APMockup13.png)  
+**Mock-up 3: Live Tracking Map** ![Mock-up 3](../assets/chapter-4/APMockup3.png)  
 *Interfaz de mapa interactivo con marcadores personalizados del bus y tarjetas dinámicas de tiempo estimado de llegada (ETA).*
 
 **Mock-up 4: Student Profile Management** ![Mock-up 4](../assets/chapter-4/APMockup4.png)  
