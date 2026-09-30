@@ -2,37 +2,25 @@
 <img src="../assets/cover/upc-logo.png" alt="UPC Logo" style="width: 150px; height: auto; display: block; margin: 0 auto;"/>
 
   <p>
-    UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+    Universidad Peruana De Ciencias Aplicadas, Ingeniería de Software, 5to Ciclo
   </p>
   <p>
-    Facultad de ingeniería
+    1ASI0730 , Aplicaciones Web
   </p>
   <p>
-    Ingeniería de Software
-  </p>
-  <p>
-    Ciclo: 202620
-  </p>
-  <p>
-    Codigo del Curso: 1ASI0730
-  </p>
-  <p>
-    Nombre del Curso: Aplicaciones Web
-  </p>
-  <p>
-    NRC: 8084
+    8084
   </p>
   <p>
     Profesor: Angel Augusto Velasquez Nuñez
   </p>
   <p>
-    AV1 Reporte de Trabajo
+    "Informe del Trabajo Final"
   </p>
   <p>
-    Nombre de la Startup: Creatividad
+    Creatividad
   </p>
   <p>
-    Nombre del Producto: Children Path
+    Children Path
   </p>
 
   <table style="border-collapse: collapse; width: auto; min-width: 60px;">
@@ -63,14 +51,10 @@
         <td style="padding: 8px;">U202315640</td>
         <td style="text-align: center; padding: 8px;">Soto Palacios, Brandon Wilder</td>
       </tr>
-      <tr>
-        <td style="padding: 8px;">XXXXXXX</td>
-        <td style="text-align: center; padding: 8px;">XXXXXXX</td>
-      </tr>
     </tbody>
   </table>
 
   <p>
-    Setiembre 2026
+    Octubre 2026
   </p>
 </div>

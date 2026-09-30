@@ -198,7 +198,7 @@
     <!-- ROW 3.4 -->
   <tr>
     <td style="text-align: center;">
-      0.1.0
+      0.1.1
     </td>
     <td style="text-align: center;">
       18/09/2026
@@ -207,7 +207,7 @@
       Huaco Oliva Luis Alonso
     </td>
     <td style="text-align: justify;">
-        
+      Agregar en momento atrasado la sección 4.7 y 4.8
     </td>
   </tr>
     <!-- ROW 3.5 -->
