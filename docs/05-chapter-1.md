@@ -90,21 +90,7 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
         <br>
 <p><b>Sobre mí:</b></p>
 <p>Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo intereses en la tecnología y su constante evolución. Tengo conocimientos de programación en lenguajes como C++, Python, JavaScript, HTML y CSS. Soy un poco reservado, pero con muchas de ganas de aprender nuevas cosas.</p>
-    </tr>
-      <tr>
-      <td width="30%" align="center" valign="middle">
-        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
-        <br>
-        <i></i>
       </td>
-      <td width="70%" valign="top" style="padding-left: 20px;">
-        <h3>Luis Alonso Huaco Oliva</h3>
-        <p><b>Codigo de Estudiante: u202417743</b> </p>
-        <p><b>Age: 24</b> </p>
-        <p><b>Especialidad: Ingeniería de Software</b> </p>
-        <br>
-<p><b>Sobre mí:</b></p>
-<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
     </tr>
   </tbody>
 </table>
@@ -150,73 +136,64 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
 ### **1.2.2 Lean UX Process**
 #### **1.2.2.1. Lean UX Problem Statements**
 
-Los servicios de transporte escolar en Perú, especialmente aquellos gestionados por conductores independientes o pequeñas empresas, aún hacen un uso limitado de la tecnología para controlar y dar seguimiento a las rutas diarias. Esto afecta directamente la tranquilidad de los padres, ya que a menudo no saben con certeza dónde se encuentran sus hijos, y también complica la labor de los conductores.
+El estado actual del sector de transporte escolar en Lima Metropolitana se ha enfocado principalmente en padres de familia, conductores independientes y administradores de empresas de movilidad escolar, quienes lidian con la incertidumbre sobre el trayecto de los estudiantes, el estrés generado por la congestión vehicular y las distracciones peligrosas al volante provocadas por la coordinación manual de rutas y asistencia mediante llamadas telefónicas, cuadernos y mensajes de WhatsApp. Lo que los productos y servicios existentes no logran resolver es la ausencia de una solución integrada, accesible y de bajo costo que proporcione alertas automatizadas de proximidad y trazabilidad de abordaje en tiempo real sin obligar al conductor a manipular dispositivos móviles mientras opera el vehículo. Nuestro producto, Children Path, abordará esta brecha mediante una plataforma web y móvil que automatiza las notificaciones de llegada y paradas, registra digitalmente la asistencia con mínima interacción del chofer y centraliza el monitoreo en vivo para brindar tranquilidad a las familias y optimizar la logística vehicular. Nuestro enfoque inicial se centrará en conductores independientes y padres de familia de colegios privados en distritos de alta demanda de Lima Metropolitana. Sabremos que hemos tenido éxito cuando veamos, en nuestro grupo de prueba piloto, que al menos el 70% de los padres registrados consulten el estado de la ruta mediante la plataforma, una reducción perceptible en las llamadas directas al conductor durante los trayectos activos, y que el tiempo promedio de espera por parada no supere los 3 minutos. 
 
-Actualmente, la comunicación se basa en llamadas o mensajes, y el control de asistencia suele realizarse de forma manual, lo que lo hace propenso a posibles errores. Esto puede generar confusiones, demoras y una mala coordinación cuando ocurre un imprevisto, como cuando un padre olvida notificar que su hijo no asistirá o cuando un estudiante tarda más de lo esperado.
-
-Además, existen factores que dificultan la mejora de este servicio, como el tráfico en ciudades como Lima, donde se pierde gran cantidad de tiempo durante las horas punta, lo que dificulta cumplir con horarios exactos. Otro factor es que el conductor no debería usar el celular mientras conduce, ya que representa un riesgo; sin embargo, actualmente se ven obligados a hacerlo cuando los padres preguntan por sus hijos mediante mensajes o llamadas.
-
-En respuesta a esta situación, proponemos **Children Path**, una solución que busca facilitar el seguimiento del transporte escolar a través de una aplicación fácil de usar. Permitirá a los padres conocer la ubicación del vehículo y recibir notificaciones sobre el viaje, además de registrar digitalmente la asistencia de los estudiantes sin que el conductor tenga que interactuar constantemente con el sistema.
-
-De esta manera, pretendemos mejorar la organización del servicio y brindar mayor tranquilidad tanto a padres como a conductores.
-
-¿Cómo podemos ayudar a los padres y conductores de transporte escolar a tener un mejor control de la ruta, proporcionando información clara y segura sin crear distracciones ni dificultar el uso del sistema?
 
 #### **1.2.2.2. Lean UX Assumptions**
 
-**Resultados de Negocio**
-* Establecer a Creatividad como la herramienta tecnológica estándar para el transporte escolar en Lima Metropolitana.
-* Aumentar la retención de conductores afiliados demostrando ahorros en tiempo y combustible.
-* Generar ingresos recurrentes a través de un modelo SaaS dirigido a empresas de transporte y conductores independientes.
-* Promover la formalización y profesionalización del sector de transporte escolar.
+**Business Assumptions**
+* Creemos que existe una demanda insatisfecha y creciente en Lima Metropolitana de padres y conductores que requieren digitalizar y dar trazabilidad al transporte escolar.
+* Creemos que los conductores independientes y empresas de movilidad están dispuestos a pagar una tarifa de suscripción mensual accesible a cambio de reducir el estrés operativo y optimizar sus tiempos de ruta.
+* Creemos que la principal ventaja competitiva de Children Path frente a soluciones informales (grupos de WhatsApp) o GPS genéricos radica en la automatización de alertas de proximidad y el registro rápido de asistencia en una sola plataforma especializada.
+* Creemos que la estrategia más efectiva para adquirir clientes iniciales es la recomendación directa entre conductores de las mismas zonas escolares y la presentación del servicio ante asociaciones de padres de familia (APAFA) de colegios privados.
 
-**Beneficios para los Usuarios**
-* **Padres**
+**Business Outcome Assumptions**
+* Lograremos alcanzar una retención superior al 85% de conductores independientes y movilidades afiliadas tras los primeros tres meses de uso continuo.
+* Reduciremos en al menos un 80% las llamadas telefónicas y mensajes de mensajería instantánea dirigidos al conductor durante la marcha del vehículo.
+* Disminuiremos los tiempos promedio de espera y detención del vehículo en cada punto de recogida a menos de 3 minutos.
+* Conseguiremos una tasa de adopción y consulta diaria activa superior al 75% por parte de los padres de familia registrados dentro del piloto.
 
-  Eliminar la incertidumbre al conocer la ubicación exacta y el estado del transporte de su hijo en tiempo real.
-* **Conductores**
+**User Assumptions**
+* Padres de familia: Padres y tutores con hijos en edad escolar (colegios inicial, primaria y secundaria) que trabajan o tienen agendas ajustadas, poseen smartphones con acceso a datos móviles y sienten constante preocupación por la seguridad y puntualidad de sus hijos en los trayectos diarios.
+* Conductores de movilidad escolar: Choferes formales o independientes con rutas fijas de colegios que necesitan concentrarse plenamente en el volante sin manipular el celular constantemente para responder consultas de los padres.
+* Administradores de empresas de transporte escolar: Encargados de coordinar múltiples unidades vehiculares que requieren supervisar la puntualidad, cumplimiento de itinerarios y control de asistencia de la flota.
 
-  Ahorrar tiempo en cada parada y reducir el consumo de combustible al evitar esperas innecesarias y disminuir tareas manuales como atender llamadas o mensajes.
 
-**Suposiciones**
-* Creemos que los padres tienen una necesidad urgente de visibilidad y control sobre el transporte escolar.
-* Estas necesidades pueden resolverse con una plataforma centralizada que automatice las notificaciones de la ruta sin distraer al conductor.
-* Nuestros clientes iniciales son conductores independientes y padres de colegios privados que buscan modernizar su servicio.
-* Lo que los padres desean de nuestro servicio es tranquilidad, mientras que los conductores esperan eficiencia y reducción de tareas.
-* Conseguiremos nuestros primeros clientes a través de alianzas con asociaciones de padres de familia y recomendaciones de boca a boca entre conductores de la misma zona.
-* Generaremos ingresos mediante planes de suscripción mensual pagados por conductores independientes o empresas de transporte.
-* Nuestros principales competidores actuales son métodos informales como grupos de WhatsApp y algunas plataformas genéricas de rastreo GPS vehicular.
-* Nuestro mayor riesgo es la resistencia al cambio por parte de conductores mayores o la pérdida de señal GPS/Internet en ciertas zonas urbanas.
+**User Outcome and Benefit Assumptions**
+* Para los Padres:
+* Obtienen tranquilidad y reducen el estrés cotidiano al visualizar la posición del transporte escolar en tiempo real sin tener que interrumpir al conductor.
+* Anticipan la salida del hogar mediante notificaciones automáticas previas a la llegada de la unidad, optimizando sus tiempos matutinos.
+* Cuentan con confirmación inmediata del abordaje y llegada del menor al colegio o domicilio
+  
+* Para los Conductores:
+* Conducen con mayor seguridad al volante eliminando la necesidad de responder llamadas o audios de WhatsApp en pleno tráfico.
+* Ahorran tiempo en paradas y reducen el consumo innecesario de combustible al encontrar a los alumnos listos en la puerta gracias a las alertas de proximidad.
+* Simplifican el pase de lista diario a un solo toque en pantalla en lugar de planillas manuales en papel.
+* Para los Administradores:
+* Visualizan el estado consolidado de su flota en un panel centralizado para detectar demoras e imprevistos de forma proactiva.
 
-**Conclusiones de las suposiciones**
-* **¿Quién es el usuario?**
+**Feature Assumptions**
 
-  Principalmente padres preocupados por la seguridad de sus hijos y conductores de transporte escolar que buscan optimizar su tiempo y ofrecer un mejor servicio.
-* **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-  En días escolares. Para los padres, encaja mientras están en casa o en el trabajo esperando una notificación del conductor sobre su hijo. Para los conductores, encaja dentro de su vehículo durante todo el trayecto, desde que los estudiantes suben hasta que son dejados en sus hogares.
-* **¿Qué problemas tiene nuestro producto y cómo pueden resolverse?**
-
-  Un problema grave podría ser la distracción del conductor al usar la aplicación. Esto se resolverá automatizando alertas de proximidad para que el conductor no tenga que tocar la pantalla ni escribir manualmente. Otro problema es la dependencia de datos móviles; se resolverá optimizando la aplicación para que consuma el mínimo ancho de banda y admita funcionamiento básico en segundo plano.
-* **¿Cuándo y cómo se usa nuestro producto?**
-
-  Se usa intensivamente durante las ventanas de transporte escolar, tanto por la mañana como por la tarde. El conductor lo usa activamente en un soporte para teléfono en el tablero del auto, mientras que los padres lo usan a través de notificaciones en sus dispositivos móviles.
-* **¿Qué características son importantes?**
-
-  Alta precisión del GPS, notificaciones rápidas y automáticas, bajo consumo de batería en el dispositivo del conductor y un registro claro de quién subió y bajó del vehículo en todo momento.
-* **¿Cómo debería verse y comportarse nuestro producto?**
-
-  Para los padres, debe verse confiable, limpio y transmitir seguridad. Para los conductores, debe ser altamente práctico, incluir modo oscuro como opción, tener tipografía grande y comportarse de manera fluida, sin requerir más de un toque por acción, para que los conductores no tarden en aprender o usar la aplicación.
+* Seguimiento GPS en tiempo real: Creemos que proporcionar un mapa interactivo con la ubicación en vivo del vehículo brindará certidumbre continua a los padres durante el recorrido.
+* Alertas automatizadas de proximidad (Geocercas): Creemos que enviar notificaciones automáticas cuando la movilidad se encuentre a 5 o 3 minutos de la parada reducirá los tiempos de espera y el uso del claxon en zonas residenciales.
+* Registro de asistencia y abordaje en un toque: Creemos que una interfaz táctil rápida y simplificada permitirá al conductor registrar si el alumno abordó, descendió o faltó sin distraer su atención del trayecto.
+* Gestión de rutas e incidencias operativas: Creemos que permitir a los administradores registrar rutas optimizadas y comunicar incidencias (tráfico pesado, desvíos) mejorará la coordinación general entre conductores y familias.
+  
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 
-* Creemos que implementar alertas automáticas de proximidad ayudará a los conductores y padres a tener un mejor control de la ruta, reduciendo los tiempos de espera y la necesidad de comunicación constante. Sabremos que funciona si el tiempo de parada se reduce a menos de 2 minutos y las llamadas o mensajes disminuyen en un 80%.
+*  Hypothesis Statement 01 (Seguimiento GPS en tiempo real):
+Creemos que lograremos una tasa de adopción y consulta diaria activa superior al 75% por parte de los padres de familia registrados dentro del piloto   Si los padres de familia   Obtienen certidumbre continua y reducen la ansiedad cotidiana al visualizar la posición exacta del transporte escolar durante todo el trayecto   A través de un mapa interactivo con seguimiento GPS en tiempo real. 
 
-* Creemos que desarrollar un panel web para padres les permitirá tener un mejor control del vehículo escolar y sus rutas. Sabremos que funciona si al menos un conductor independiente acepta probar la plataforma durante el primer trimestre.
+* Hypothesis Statement 02 (Alertas automatizadas de proximidad):
+Creemos que lograremos reducir en al menos un 80% las llamadas y mensajes dirigidos al conductor durante la ruta y disminuir el tiempo de espera por parada a menos de 3 minutos   Si los padres de familia y conductores de movilidad escolar   Obtienen la capacidad de anticipar con precisión la llegada de la unidad para tener a los estudiantes listos en la puerta sin demoras   A través de un sistema de alertas automatizadas de proximidad mediante geocercas. 
 
-* Creemos que tener un registro de asistencia digital automático dará a los padres mayor tranquilidad, al saber si sus hijos abordaron o llegaron correctamente. Sabremos que funciona si la satisfacción del usuario y el uso diario de la aplicación superan el 80% durante el primer mes.
+* Hypothesis Statement 03 (Registro de asistencia en un toque):
+Creemos que lograremos una retención superior al 85% de los conductores independientes afiliados tras los primeros tres meses de uso continuo   Si los conductores de movilidad escolar   Obtienen un método ágil y digital para registrar el abordaje o inasistencia de los alumnos que evite planillas en papel y no genere distracciones al volante   A través de una interfaz táctil simplificada de registro de asistencia en un solo toque. 
 
-* Creemos que diseñar una interfaz simple y fácil de usar para los conductores reducirá las distracciones y facilitará su uso durante el trabajo. Sabremos que funciona si el 90% de los conductores considera la aplicación intuitiva y afirma que no afecta su atención al conducir.
+* Hypothesis Statement 04 (Gestión de rutas e incidencias operativas):
+Creemos que lograremos consolidar a la plataforma como la herramienta operativa estándar del servicio, disminuyendo retrasos y reclamos operativos   Si los administradores de movilidad escolar y conductores   Obtienen la supervisión centralizada del cumplimiento de itinerarios y la comunicación oportuna de imprevistos o congestión vehicular   A través de un módulo centralizado de gestión de rutas e incidencias operativas en tiempo real. 
 
 #### **1.2.2.4. Lean UX Canvas**
 
