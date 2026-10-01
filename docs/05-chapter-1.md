@@ -193,11 +193,14 @@ El estado actual del sector de transporte escolar en Lima Metropolitana se ha en
 
 #### **1.2.2.4. Lean UX Canvas**
 
-![Lean UX Canvas](../assets/chapter-1/img/lean-ux-canvas.png)
+<img width="1142" height="874" alt="children path- lean ux canvas" src="https://github.com/user-attachments/assets/b0bd3e34-d111-4275-833c-fe57021d2272" />
 
-El Lean UX Canvas de Children Path identifica claramente los principales problemas en el servicio de transporte escolar, destacando la falta de digitalización como el eje central. Esto resulta en rutas desorganizadas, tiempos de espera innecesarios y situaciones de riesgo, ya que los conductores deben usar sus celulares mientras conducen para comunicarse con los padres. En respuesta a esta situación, se propone una solución basada en una plataforma web dirigida a padres y conductores, junto con un panel para padres que les permita conocer la ubicación en tiempo real y recibir notificaciones automáticas sin requerir interacción constante.
 
-Con base en esta propuesta, el objetivo es mejorar la organización del servicio, reducir distracciones al volante y brindar mayor tranquilidad a las familias. Además, se considera viable un modelo de ingresos por suscripción a largo plazo. El plan es desarrollar un MVP enfocado en funcionalidades clave como la ubicación en tiempo real y las alertas de proximidad, que se probará en una ruta real para validar su utilidad y verificar si realmente mejora la experiencia tanto de conductores como de padres.
+El Lean UX Canvas de Children Path sintetiza los principales problemas identificados en el servicio de transporte escolar en Lima Metropolitana, destacando la falta de digitalización y la dependencia de procesos manuales como el eje central. Esta situación genera rutas desorganizadas, tiempos de espera prolongados e incertidumbre en las familias, además de crear situaciones de alto riesgo al volante cuando los conductores deben atender llamadas o mensajes mientras conducen.
+
+En respuesta, se plantea una solución integral basada en una plataforma web y móvil para padres y conductores que articula tres funcionalidades clave: seguimiento GPS en tiempo real, notificaciones automáticas de proximidad y un registro de asistencia táctil de un solo toque.   El objetivo de negocio se centra en validar un modelo SaaS viable, proyectando una reducción del 80% en llamadas y mensajes hacia el chofer, tiempos de parada inferiores a 3 minutos y una tasa de uso diario superior al 75% en el grupo piloto.
+
+Para mitigar la hipótesis más riesgosa —verificar si los conductores adoptan la herramienta sin generar distracciones en ruta—, se define un MVP centrado en el monitoreo satelital y las alertas automatizadas, el cual será validado en un trayecto de prueba real para evaluar de manera directa la experiencia de conductores y familias.
 
 ## **1.3. Segmentos objetivo**
 ### Segmento #1: Conductores Independientes
