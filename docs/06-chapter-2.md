@@ -351,7 +351,7 @@ Carlos es un conductor de transporte escolar con poca experiencia en el rubro. E
 
 **Resumen de la Entrevista**
 
-Mateo es un conductor con aproximadamente dos años de experiencia que opera en distritos como Surco. En su rutina diaria utiliza Google Maps y Waze para navegar, además de un calendario digital para organizar sus viajes y WhatsApp para comunicarse con los padres. Su dispositivo principal es el smartphone Android, y su nivel de adopción tecnológica es medio-alto, ya que combina múltiples apps para optimizar su trabajo. A pesar de esto, depende de las condiciones del entorno, especialmente el tráfico en hora punta, que afecta su puntualidad y su nivel de estrés. Durante sus rutas, enfrenta falta de puntualidad de los estudiantes cuando los padres no avisan con anticipación, generando retrasos acumulados. Además, la comunicación constante por WhatsApp con los padres lo obliga a dividir su atención entre conducir, responder mensajes y supervisar a los estudiantes, creando una sobrecarga que afecta la seguridad del viaje. Valora positivamente una solución que automatice la comunicación mediante alertas de proximidad, con una interfaz simple, visual y de botones grandes. Espera que Children Path le ayude a optimizar su tiempo, reducir el consumo de combustible y mejorar la experiencia de los padres
+Mateo es un conductor con aproximadamente dos años de experiencia que opera en distritos como Surco. En su rutina diaria utiliza Google Maps y Waze para navegar, además de un calendario digital para organizar sus viajes y WhatsApp para comunicarse con los padres. Su dispositivo principal es el smartphone Android, y su nivel de adopción tecnológica es medio-alto, ya que combina múltiples apps para optimizar su trabajo. A pesar de esto, depende de las condiciones del entorno, especialmente el tráfico en hora punta, que afecta su puntualidad y su nivel de estrés. Durante sus rutas, enfrenta falta de puntualidad de los estudiantes cuando los padres no avisan con anticipación, generando retrasos acumulados. Además, la comunicación constante por WhatsApp con los padres lo obliga a dividir su atención entre conducir, responder mensajes y supervisar a los estudiantes, creando una sobrecarga que afecta la seguridad del viaje. Valora positivamente una solución que automatice la comunicación mediante alertas de proximidad, con una interfaz simple, visual y de botones grandes. Espera que Children Path le ayude a optimizar su tiempo, reducir el consumo de combustible y mejorar la experiencia de los padres.
 
 <table width="100%">
   <thead>
@@ -465,13 +465,7 @@ Joao es un conductor con varios años de experiencia que organiza sus rutas prin
 
 **Resumen de la Entrevista**
 
-Dery Estrella Perez es la dueña y conductora de una pequeña empresa familiar de transporte escolar con una flota de cinco unidades, que opera principalmente en Los Olivos y San Martín de Porres. En su rutina diaria, enfrenta desafíos como evitar zonas con obras viales constantes y mantener la puntualidad al recoger y dejar a los estudiantes. Al ser un equipo pequeño, la coordinación es bastante directa, apoyándose en llamadas entre conductores para reportar retrasos o problemas en la ruta.
-
-La supervisión de las unidades es completamente manual y depende de la comunicación constante entre el equipo. Asimismo, los registros de asistencia se llevan en cuadernos individuales por cada conductor, lo que crea un sistema poco centralizado y propenso a errores o pérdida de información. Aunque esta forma de trabajar es funcional, limita la capacidad de tener una visión general en tiempo real del servicio.
-
-En cuanto a los costos, los principales problemas están relacionados con el consumo de combustible y las multas, que intentan reducir buscando rutas alternas para evitar el tráfico. Desde el lado de la atención al cliente, el principal punto de tensión es la incertidumbre de los padres, ya que llaman con frecuencia cuando perciben retrasos, generando presión adicional en los conductores mientras están al volante.
-
-Dery ve un alto valor en contar con un sistema más organizado, como un panel centralizado que le permita ver la ubicación de sus unidades y reaccionar rápidamente ante imprevistos, como fallas mecánicas. También cree que una aplicación para padres brindaría tranquilidad y mejoraría la seguridad percibida del servicio. Esperaría que nuestra solución incluya reportes claros sobre incidencias en ruta y asistencia mensual, ayudándole a mantener un mejor control operativo y administrativo.
+Dery Estrella Perez es dueña y conductora de una pequeña empresa familiar con 5 unidades, operando en Los Olivos y San Martín de Porres. En su rutina utiliza WhatsApp como canal principal para coordinar con conductores y padres, y llamadas telefónicas para reportar retrasos. Su dispositivo principal es el smartphone y su nivel de adopción tecnológica es medio-bajo, ya que la empresa carece de herramientas digitales de gestión. La supervisión de unidades es completamente manual y depende de la comunicación constante. Los registros de asistencia se llevan en cuadernos individuales, lo que genera un sistema poco centralizado y propenso a errores o pérdida de información. Los principales problemas son el consumo de combustible y las multas, y la incertidumbre de los padres que llaman con frecuencia cuando perciben retrasos. Dery ve alto valor en un panel centralizado que le permita ver la ubicación de sus unidades y reaccionar ante imprevistos, así como una app para padres. Esperaría reportes claros sobre incidencias en ruta y asistencia mensual.
 
 <table width="100%">
   <thead>
@@ -527,11 +521,7 @@ Dery ve un alto valor en contar con un sistema más organizado, como un panel ce
 
 **Resumen de la Entrevista**
 
-Cheyla Paredes Mattos administra una empresa de transporte escolar en Santa Clara con una flota de 15 minibuses que operan principalmente en La Molina y Ate. En su rutina diaria, enfrenta desafíos como la congestión vehicular, especialmente en la avenida Javier Prado, y la necesidad de reaccionar rápidamente ante cambios de última hora por ausencias. Actualmente, la supervisión de rutas es manual y dispersa, ya que depende de un GPS básico y de reportes por WhatsApp enviados por los conductores. El control de asistencia también es mixto, combinando registros en papel con fotos enviadas como respaldo digital.
-
-A nivel operativo, uno de sus costos más altos proviene del mantenimiento correctivo debido a las condiciones de las vías, que intenta reducir mediante inspecciones preventivas. En cuanto al servicio, las principales quejas de los padres están relacionadas con la falta de sincronización en los horarios, ya sea por llegadas anticipadas o retrasos sin previo aviso, lo que afecta la calidad percibida del servicio.
-
-Cheyla considera que un panel centralizado sería clave para mejorar su gestión, ya que le permitiría monitorear todas las unidades en tiempo real sin depender de múltiples canales de comunicación. Además, ve valor en ofrecer a los padres una aplicación como diferenciador competitivo que proyecte mayor seguridad y modernidad. Para adoptar una solución como **Children Path**, esperaría reportes claros y útiles, como indicadores de puntualidad de conductores y consumo estimado de combustible por ruta.
+Cheyla administra una empresa en Santa Clara con 15 minibuses que operan en La Molina y Ate. Utiliza WhatsApp para reportes de conductores y un GPS básico exigido por la aseguradora, además de llamadas telefónicas para coordinación. Su dispositivo principal es el smartphone y la computadora de oficina, con un nivel de adopción tecnológica medio. Actualmente la supervisión es manual y dispersa: depende de reportes por WhatsApp, y el control de asistencia es mixto (registros en papel + fotos enviadas digitalmente). Sus principales desafíos son la congestión vehicular (especialmente en Javier Prado) y los cambios de última hora por ausencias. Las principales quejas de los padres se relacionan con la falta de sincronización en horarios (llegadas anticipadas o retrasos sin aviso). Cheyla considera que un panel centralizado sería clave para monitorear todas las unidades en tiempo real, y valora ofrecer a los padres una app como diferenciador competitivo. Esperaría reportes claros de puntualidad de conductores y consumo estimado de combustible por ruta.
 
 <table width="100%">
   <thead>
@@ -587,13 +577,7 @@ Cheyla considera que un panel centralizado sería clave para mejorar su gestión
 
 **Resumen de la Entrevista**
 
-Luis Becerra Ninahuanca, de 25 años, es coordinador de operaciones en Rutas Escolares S.A., una empresa con una flota de 10 minivans que operan en distritos como Surco, San Borja y la zona de Monterrico. En su rutina diaria, enfrenta problemas como el tráfico impredecible y los tiempos muertos cuando los estudiantes no están listos, lo que termina afectando toda la planificación de la ruta. Su rol requiere coordinar múltiples unidades al mismo tiempo, incrementando la complejidad operativa.
-
-Actualmente, la empresa utiliza un GPS básico que solo proporciona una ubicación general, mientras que la supervisión real depende de grupos de WhatsApp donde los conductores reportan manualmente su avance. Este proceso es ineficiente y además fomenta la distracción al conducir. El control de asistencia también es manual, ya que se registra en listas físicas que se revisan días después, limitando la capacidad de reaccionar ante cualquier incidente.
-
-A nivel operativo, el costo más alto es el combustible, que intentan reducir sin mucho éxito debido a la falta de herramientas que optimicen las rutas en tiempo real. Desde el lado de los clientes, el principal problema es la falta de información, ya que los padres suelen preocuparse y llamar incluso ante retrasos mínimos, generando presión adicional en el equipo.
-
-Luis cree que contar con un panel centralizado podría ser clave para mejorar la gestión, ya que le permitiría monitorear todas las unidades en tiempo real sin depender de llamadas constantes. Asimismo, ve un gran valor en ofrecer una aplicación a los padres, ya que aumentaría la confianza y reduciría la incertidumbre durante los viajes. Para usar **Children Path**, esperaría reportes claros sobre puntualidad, comportamiento de conducción y asistencia digital, que le ayuden a optimizar tanto las operaciones como los procesos administrativos.
+Luis, de 25 años, es coordinador de operaciones en Rutas Escolares S.A., con 10 minivans operando en Surco, San Borja y Monterrico. Utiliza WhatsApp como canal principal para supervisión, complementado con GPS básico. Su dispositivo principal es el smartphone y la computadora, con un nivel de adopción tecnológica medio. Enfrenta tráfico impredecible y tiempos muertos cuando los estudiantes no están listos, lo que afecta toda la planificación. La empresa usa GPS básico que solo da ubicación general, mientras que la supervisión real depende de grupos de WhatsApp donde los conductores reportan manualmente, lo que fomenta distracción al conducir. El control de asistencia es manual en listas físicas que se revisan días después, limitando la reacción ante incidentes. Sus principales problemas son el combustible y la falta de información en tiempo real hacia los padres. Luis cree que un panel centralizado mejoraría la gestión y valora una app para padres que aumente la confianza. Esperaría reportes claros sobre puntualidad, comportamiento de conducción y asistencia digital.
 
 **Segmento 3: Padre de Familia**
 
@@ -659,8 +643,7 @@ Luis cree que contar con un panel centralizado podría ser clave para mejorar la
 
 **Entrevista Resumen**
 
-Pamela, una madre de 41 años residente de Santa Anita, organiza el transporte escolar de su hijo de 11 años de manera empírica mediante horarios fijos y coordinación directa por WhatsApp con el conductor, apoyándose también en Yape, Plin y la web del colegio para su rutina diaria. Aunque confía en el servicio, le estresan el tráfico del distrito, la imprudencia vial y la falta de información ante imprevistos o choques, reconociendo además el riesgo que supone que el chofer se distraiga con el celular. Por ello, estaría dispuesta a pagar costos mensuales adicionales por una aplicación que le brinde rastreo GPS en tiempo real para optimizar sus mañanas, notifique el abordaje y llegada del niño al colegio, y garantice que los documentos o papeles del conductor estén al día.
-
+Pamela, madre de 41 años residente de Santa Anita, organiza el transporte de su hijo de 11 años mediante horarios fijos y WhatsApp como canal principal con el conductor. En su rutina utiliza Yape y Plin para pagos digitales, la web del colegio para tareas, y aplicaciones móviles para comunicarse. Su dispositivo principal es el smartphone Android, con un nivel de adopción tecnológica medio-alto. Aunque confía en el servicio, le estresan el tráfico del distrito, la imprudencia vial y la falta de información en tiempo real ante imprevistos. Reconoce además el riesgo de que el chofer se distraiga con el celular. Por ello, estaría dispuesta a pagar una suscripción mensual adicional por una app que le brinde rastreo GPS en tiempo real, notificaciones del abordaje y llegada, y verificación de los documentos del conductor al día.
 <table width="100%">
   <thead>
     <tr>
@@ -723,7 +706,7 @@ Pamela, una madre de 41 años residente de Santa Anita, organiza el transporte e
 
 **Entrevista Resumen**
 
-Gabriela, de 35 años y residente del distrito de Magdalena, cuenta desde hace años con un conductor de confianza para el traslado escolar, manteniendo una comunicación cercana con él. Sin embargo, menciona que en ocasiones se presentan pequeños inconvenientes o fricciones generados por factores externos como el clima, por lo que valora contar con una herramienta digital que le garantice visibilidad y certidumbre sobre lo que ocurre durante el trayecto. La propuesta de la aplicación le resulta atractiva y sugiere la implementación de un modelo de prueba o esquema *freemium* (*free-first*) para evaluar el funcionamiento y beneficio del servicio antes de contratar un plan de pago.
+Gabriela, de 35 años, residente de Magdalena, cuenta desde años con un conductor de confianza, manteniendo comunicación cercana por WhatsApp. Utiliza WhatsApp y apps bancarias en su día a día, así como Google Maps para movilizarse. Su dispositivo principal es el smartphone y su nivel de adopción tecnológica es medio. Menciona que en ocasiones surgen fricciones por factores externos como el clima, por lo que valora una herramienta digital que le garantice visibilidad y certidumbre durante el trayecto. La propuesta de la aplicación le resulta atractiva y sugiere un modelo freemium o de prueba gratuita para evaluar el funcionamiento antes de contratar un plan de pago.
 
 <table width="100%">
   <thead>
@@ -787,7 +770,7 @@ Gabriela, de 35 años y residente del distrito de Magdalena, cuenta desde hace a
 
 **Entrevista Resumen**
 
-Alejandro, de 34 años y residente del distrito de Surco, es padre de un niño de 6 años que cursa el 1.º grado de primaria, a quien acostumbra acompañar durante sus traslados. Si bien considera que el conductor del servicio escolar es una persona responsable, manifiesta preocupación frente a contingencias e imprevistos en la vía, recordando un incidente previo en el que una llanta baja del vehículo lo obligó a buscar un taxi de emergencia para completar el trayecto. Asimismo, señala como punto de inquietud la posible distracción del chofer por el uso del teléfono móvil al conducir, por lo que valora positivamente las soluciones orientadas a reforzar la seguridad vehicular y el monitoreo en tiempo real.
+Alejandro, de 34 años y residente de Surco, es padre de un niño de 6 años en 1.° de primaria, a quien acostumbra acompañar en sus traslados. Utiliza WhatsApp y apps de movilidad en su día a día, con un nivel de adopción tecnológica medio. Si bien considera al conductor una persona responsable, manifiesta preocupación por contingencias e imprevistos en la vía, recordando un incidente previo con una llanta baja que lo obligó a buscar un taxi de emergencia. Señala como punto crítico la posible distracción del chofer por el uso del celular, por lo que valora positivamente soluciones orientadas a reforzar la seguridad vehicular y el monitoreo en tiempo real.
 
 <table width="100%">
   <thead>
@@ -800,7 +783,7 @@ Alejandro, de 34 años y residente del distrito de Surco, es padre de un niño d
       <th colspan="2" align="left">Información del entrevistado</th>
     </tr>
     <tr>
-      <td width="30%"><b>Nombre Completo</b></td>
+      <td width="30%"><b>Nombre Completo</b></td>:
       <td>Eduardo Osorio</td>
     </tr>
     <tr>
@@ -851,7 +834,7 @@ Alejandro, de 34 años y residente del distrito de Surco, es padre de un niño d
 
 **Entrevista Resumen**
 
-Eduardo Osorio, de 32 años y residente del distrito de Magdalena, es un padre comprometido que procura estar listo cinco minutos antes de la hora acordada para el recojo de su hijo de 4 años (nivel Inicial), esperando la misma puntualidad por parte del servicio. Manifiesta inquietud respecto a posibles accidentes o contingencias en la ruta, enfatizando la importancia de recibir información oportuna en tiempo real. En ese sentido, señala haber tenido una experiencia negativa en la que la movilidad no pasó a recoger a su hijo debido a una falla mecánica que no le fue comunicada a tiempo. Asimismo, considera un factor de riesgo relevante el hecho de que los conductores reciban constantes llamadas telefónicas mientras manejan, comprometiendo la seguridad del traslado.
+Eduardo, de 32 años y residente de Magdalena, es un padre comprometido que procura estar listo cinco minutos antes de la hora acordada para el recojo de su hijo de 4 años (Inicial). Utiliza WhatsApp como canal principal con el conductor y apps bancarias para el pago del servicio. Su dispositivo principal es el smartphone con nivel de adopción tecnológica medio-alto. Manifiesta inquietud ante posibles accidentes en la ruta, enfatizando la importancia de información oportuna en tiempo real. Tuvo una experiencia negativa cuando la movilidad no pasó por una falla mecánica que no le fue comunicada a tiempo. Considera un factor de riesgo que los conductores reciban llamadas mientras manejan.
 
 ### **2.2.3. Análisis de Entrevistas**
 
@@ -963,6 +946,37 @@ Eduardo Osorio, de 32 años y residente del distrito de Magdalena, es un padre c
         <b>Marcelo:</b> "dejarían de escribirme tanto y yo solo me enfocaría en conducir bien"
       </td>
     </tr>
+<tr>
+  <td><b>Uso diario de aplicaciones de mensajería (WhatsApp) como canal principal con padres</b></td>
+  <td align="center">Mencionado por los 3</td>
+  <td align="center">100%</td>
+  <td>
+    <b>Joao:</b> "WhatsApp para todo"<br>
+    <b>Mateo:</b> "lo que más uso es WhatsApp"<br>
+    <b>Marcelo:</b> "WhatsApp con los grupos de padres"
+  </td>
+</tr>
+<tr>
+  <td><b>Uso de apps de navegación (Waze / Google Maps) para planificar rutas</b></td>
+  <td align="center">Mencionado por 2/3</td>
+  <td align="center">66.7%</td>
+  <td>
+    <b>Mateo:</b> "organizo mi ruta con Google Maps"<br>
+    <b>Marcelo:</b> "uso Waze para marcar los puntos"
+  </td>
+</tr>
+<tr>
+  <td><b>Dispositivo principal: smartphone Android con datos móviles</b></td>
+  <td align="center">Mencionado por los 3</td>
+  <td align="center">100%</td>
+  <td>Los tres entrevistados dependen de su smartphone para su operación diaria.</td>
+</tr>
+<tr>
+  <td><b>Nivel de adopción tecnológica medio (apps de mensajería y navegación, sin herramientas de gestión)</b></td>
+  <td align="center">Mencionado por los 3</td>
+  <td align="center">100%</td>
+  <td>Los tres usan apps básicas pero no herramientas digitales de gestión de rutas o asistencia.</td>
+</tr>
   </tbody>
 </table>
 
@@ -1118,6 +1132,41 @@ Eduardo Osorio, de 32 años y residente del distrito de Magdalena, es un padre c
         <b>Luis:</b> "un reporte de puntualidad... y otro sobre la velocidad del conductor"
       </td>
     </tr>
+<tr>
+  <td><b>Uso intensivo de WhatsApp y llamadas telefónicas para supervisión operativa</b></td>
+  <td align="center">Mencionado por los 3</td>
+  <td align="center">100%</td>
+  <td>
+    <b>Cheyla:</b> "dependemos de reportes por WhatsApp"<br>
+    <b>Dery:</b> "nos supervisamos con llamadas constantes"<br>
+    <b>Luis:</b> "la supervisión real es por WhatsApp"
+  </td>
+</tr>
+<tr>
+  <td><b>Uso de GPS básico exigido por terceros (aseguradoras) como monitoreo secundario</b></td>
+  <td align="center">Mencionado por 2/3</td>
+  <td align="center">66.7%</td>
+  <td>
+    <b>Cheyla:</b> "GPS de la aseguradora"<br>
+    <b>Luis:</b> "GPS básico, solo ubicación general"
+  </td>
+</tr>
+<tr>
+  <td><b>Registro de asistencia manual (papel / cuadernos), sin digitalización centralizada</b></td>
+  <td align="center">Mencionado por los 3</td>
+  <td align="center">100%</td>
+  <td>
+    <b>Cheyla:</b> "lista en papel con foto de respaldo"<br>
+    <b>Dery:</b> "cada conductor tiene su cuaderno"<br>
+    <b>Luis:</b> "listas físicas revisadas días después"
+  </td>
+</tr>
+<tr>
+  <td><b>Dispositivo principal: smartphone y computadora de oficina</b></td>
+  <td align="center">Mencionado por los 3</td>
+  <td align="center">100%</td>
+  <td>Los tres combinan el smartphone para reportes en campo con la computadora para administración.</td>
+</tr>
   </tbody>
 </table>
 
@@ -1277,6 +1326,42 @@ Eduardo Osorio, de 32 años y residente del distrito de Magdalena, es un padre c
         <b>Rosa:</b> "me ahorraría estar asomada a la ventana todo el tiempo"
       </td>
     </tr>
+<tr>
+  <td><b>Uso diario de WhatsApp como canal principal de coordinación con el conductor</b></td>
+  <td align="center">Mencionado por los 4</td>
+  <td align="center">100%</td>
+  <td>
+    <b>Pamela:</b> "coordino directamente por WhatsApp con el conductor"<br>
+    <b>Gabriela:</b> "mantengo comunicación cercana por WhatsApp"<br>
+    <b>Alejandro:</b> "uso WhatsApp con el chofer"<br>
+    <b>Eduardo:</b> "WhatsApp con el conductor para coordinar"
+  </td>
+</tr>
+<tr>
+  <td><b>Uso de apps de navegación (Google Maps / Waze) en su rutina diaria</b></td>
+  <td align="center">Mencionado por 3/4</td>
+  <td align="center">75%</td>
+  <td>
+    <b>Pamela:</b> "Waze para moverme"<br>
+    <b>Gabriela:</b> "Google Maps en el día a día"<br>
+    <b>Eduardo:</b> "Waze cuando salgo"
+  </td>
+</tr>
+<tr>
+  <td><b>Uso de apps bancarias y pagos digitales (Yape, Plin, banca móvil)</b></td>
+  <td align="center">Mencionado por 2/4</td>
+  <td align="center">50%</td>
+  <td>
+    <b>Pamela:</b> "uso Yape y Plin"<br>
+    <b>Gabriela:</b> "apps de banco para pagos"
+  </td>
+</tr>
+<tr>
+  <td><b>Dispositivo principal: smartphone con nivel de adopción tecnológica medio-alto</b></td>
+  <td align="center">Mencionado por los 4</td>
+  <td align="center">100%</td>
+  <td>Los cuatro entrevistados usan apps móviles a diario (WhatsApp, navegación, banca móvil).</td>
+</tr>
   </tbody>
 </table>
 
@@ -1365,6 +1450,42 @@ Eduardo Osorio, de 32 años y residente del distrito de Magdalena, es un padre c
         <b>Pamela:</b> "una aplicación que garantice que los documentos o papeles del conductor estén al día"
       </td>
     </tr>
+<tr>
+  <td><b>Uso diario de WhatsApp como canal principal de coordinación con el conductor</b></td>
+  <td align="center">Mencionado por los 4</td>
+  <td align="center">100%</td>
+  <td>
+    <b>Pamela:</b> "coordino directamente por WhatsApp con el conductor"<br>
+    <b>Gabriela:</b> "mantengo comunicación cercana por WhatsApp"<br>
+    <b>Alejandro:</b> "uso WhatsApp con el chofer"<br>
+    <b>Eduardo:</b> "WhatsApp con el conductor para coordinar"
+  </td>
+</tr>
+<tr>
+  <td><b>Uso de apps de navegación (Google Maps / Waze) en su rutina diaria</b></td>
+  <td align="center">Mencionado por 3/4</td>
+  <td align="center">75%</td>
+  <td>
+    <b>Pamela:</b> "Waze para moverme"<br>
+    <b>Gabriela:</b> "Google Maps en el día a día"<br>
+    <b>Eduardo:</b> "Waze cuando salgo"
+  </td>
+</tr>
+<tr>
+  <td><b>Uso de apps bancarias y pagos digitales (Yape, Plin, banca móvil)</b></td>
+  <td align="center">Mencionado por 2/4</td>
+  <td align="center">50%</td>
+  <td>
+    <b>Pamela:</b> "uso Yape y Plin"<br>
+    <b>Gabriela:</b> "apps de banco para pagos"
+  </td>
+</tr>
+<tr>
+  <td><b>Dispositivo principal: smartphone con nivel de adopción tecnológica medio-alto</b></td>
+  <td align="center">Mencionado por los 4</td>
+  <td align="center">100%</td>
+  <td>Los cuatro entrevistados usan apps móviles a diario (WhatsApp, navegación, banca móvil).</td>
+</tr>
   </tbody>
 </table>
 
@@ -1455,6 +1576,45 @@ Eduardo Osorio, de 32 años y residente del distrito de Magdalena, es un padre c
         <b>Gabriela:</b> "sugiero un modelo de prueba o esquema freemium para evaluar antes de pagar"
       </td>
     </tr>
+<tr>
+  <td><b>Perciben la tecnología como aliada para reducir su ansiedad con el servicio</b></td>
+  <td align="center">Mencionado por los 4</td>
+  <td align="center">100%</td>
+  <td>
+    <b>Pamela:</b> "una app me daría tranquilidad"<br>
+    <b>Gabriela:</b> "valoro una herramienta digital"<br>
+    <b>Alejandro:</b> "valoro soluciones tecnológicas"<br>
+    <b>Eduardo:</b> "información en tiempo real es clave"
+  </td>
+</tr>
+<tr>
+  <td><b>Confían más en un servicio que use tecnología moderna (GPS, notificaciones, verificación digital)</b></td>
+  <td align="center">Mencionado por 3/4</td>
+  <td align="center">75%</td>
+  <td>
+    <b>Pamela:</b> "una app que garantice documentos al día"<br>
+    <b>Gabriela:</b> "la propuesta de la app me resulta atractiva"<br>
+    <b>Eduardo:</b> "considero importante la información oportuna"
+  </td>
+</tr>
+<tr>
+  <td><b>Prefieren una solución digital discreta que notifique sin obligarlos a estar pendientes del celular</b></td>
+  <td align="center">Mencionado por 3/4</td>
+  <td align="center">75%</td>
+  <td>
+    <b>Pamela:</b> "que notifique sola el abordaje"<br>
+    <b>Gabriela:</b> "visibilidad sin depender de llamadas"<br>
+    <b>Eduardo:</b> "recibir la información sin tener que preguntar"
+  </td>
+</tr>
+<tr>
+  <td><b>Prefieren probar el servicio antes de contratar un plan de pago (modelo freemium)</b></td>
+  <td align="center">Mencionado por 1/4</td>
+  <td align="center">25%</td>
+  <td>
+    <b>Gabriela:</b> "sugiero un modelo de prueba o esquema freemium antes de pagar"
+  </td>
+</tr>
   </tbody>
 </table>
 
@@ -1635,47 +1795,9 @@ El análisis del entorno y las emociones de María revela que su principal fuent
 
 ## **2.4. Big Picture Event Storming**
 
-Para garantizar la comprensión por parte de todos los miembros del equipo, se utilizó la siguiente notación estándar de colores:
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="15%">Color</th>
-      <th align="left" width="25%">Elemento</th>
-      <th align="left" width="60%">Descripción</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color: #FFA500; color: #fff;"><b>Naranja</b></td>
-      <td><b>Evento de Dominio</b></td>
-      <td>Un hecho relevante que ya ocurrió. Se escribe en <b>pasado</b> (ej. "Viaje Iniciado").</td>
-    </tr>
-    <tr>
-      <td style="background-color: #4FC3F7; color: #fff;"><b>Azul</b></td>
-      <td><b>Comando</b></td>
-      <td>La intención o acción que desencadena un evento. Se escribe en <b>presente</b> (ej. "Iniciar Viaje").</td>
-    </tr>
-    <tr>
-      <td style="background-color: #FFEB3B;"><b>Amarillo</b></td>
-      <td><b>Actor / Agente</b></td>
-      <td>La persona o rol que ejecuta un comando (Padre, Conductor, Administrador).</td>
-    </tr>
-    <tr>
-      <td style="background-color: #F44336; color: #fff;"><b>Rojo</b></td>
-      <td><b>Punto Caliente (Hotspot)</b></td>
-      <td>Un problema, duda, riesgo o conflicto que necesita ser discutido.</td>
-    </tr>
-  </tbody>
-</table>
-
-<img src="../assets/chapter-2/event-storming.png" alt="Big Picture Event Storming - Children Path" width="100%">
+<img src="../assets/chapter-2/big-event-storming.jpg" alt="Big Picture Event Storming - Children Path" width="100%">
 
 El Big Picture Event Storming permitió al equipo de **Creatividad** obtener una visión holística del dominio del transporte escolar, identificando los seis dominios clave que estructuran el negocio de **Children Path**. La sesión evidenció que el problema central no es la conducción en sí, sino la **comunicación manual y la falta de visibilidad en tiempo real**, lo que genera estrés en los padres, distracciones peligrosas en los conductores y sobrecarga operativa en los administradores.
-
-Asimismo, el ejercicio confirmó que los tres segmentos objetivo comparten un mismo punto de dolor: la dependencia de canales informales (WhatsApp, llamadas) para coordinar el servicio. Esta convergencia valida la necesidad de una plataforma centralizada que automatice las notificaciones, digitalice la asistencia y ofrezca visibilidad en tiempo real a todos los actores.
-
-Finalmente, los hotspots y oportunidades identificados durante la sesión servirán como insumo directo para las siguientes fases del proyecto, incluyendo el diseño de la arquitectura de software, la definición de historias de usuario y la priorización del backlog del producto.
 
 ## **2.5. Ubiquitous Language**
 
