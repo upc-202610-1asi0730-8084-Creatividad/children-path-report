@@ -55,7 +55,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
         <b>Pareja Cáceres, Diana</b><br>
         <i><b>AV1:</b></i> Impulsó sesiones de lluvia de ideas abiertas y respetuosas, asegurando que los hallazgos de cada entrevista fueran debatidos e integrados equitativamente en los perfiles de usuario.<br>
-        <i><b>TB1:</b></i> Promovió la inclusión en el diseño de la solución asegurando criterios de accesibilidad (a11y) y arquitectura inclusiva para todos los tipos de usuarios durante la especificación de componentes web.<br>
+        <i><b>TB1:</b></i> Promovió la inclusión en el diseño de la solución asegurando criterios de accesibilidad y arquitectura inclusiva para todos los tipos de usuarios durante la especificación de componentes web.<br>
         <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
         <b>Razuri Ucañan, Piero Alejandro</b><br>
         <i><b>AV1:</b></i> Mantuvo espacios colaborativos en línea para la co-creación de interfaces, permitiendo revisiones simultáneas de los artefactos visuales.<br>
