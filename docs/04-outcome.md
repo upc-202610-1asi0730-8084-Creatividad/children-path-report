@@ -1,202 +1,74 @@
-﻿# **Student Outcome**
+# Student Outcome
 
-<p style="text-align: justify;">
-Este curso contribuye al logro del Student Outcome 5 de ABET:
-</p>
+El curso contribuye al cumplimiento del Student Outcome ABET:
 
-<p style="text-align: justify;">
-  <b>ABET – EAC - Student Outcome 3</b>
+**ABET - EAC - Student Outcome 5**  
+**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
-Criterio: Habilidad de comunicarse efectivamente con una variedad de audiencias.
-</p>
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 5.
 
-<table style="width: 100%; border-collapse: collapse;">
-  <!-- ROW 0 -->
-  <tr>
-    <th style="text-align: center;">
-      Criterio específico
-    </th>
-    <th style="text-align: center;">
-      Acciones realizadas
-    </th>
-    <th style="text-align: center;">
-      Conclusiones
-    </th>
-  </tr>
-
-  <!-- ROW 1 -->
-  <tr>
-    <td style="text-align: justify; vertical-align: top;">
-      <b>
-        Trabaja en equipo para proporcionar liderazgo en forma conjunta
-      </b>
-    </td>
-    <td style="text-align: justify;">
-      <b>
-        Huaco Oliva, Luis Alonso
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br>
-      Asumió el rol de líder del equipo, coordinando las reuniones de planificación y distribuyendo las tareas de investigación. Lideró la definición de los tres segmentos objetivo (conductores independientes, empresas de movilidad escolar y padres de familia) y guio la elaboración del análisis competitivo y la arquitectura de información del producto Children Path.
-      <br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-        ------------------------------------
-      <br><br>
-      <b>
-        Pareja, Diana
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br> 
-      Lideró la redacción del Startup Profile y la descripción del producto Children Path. Aportó en la definición de la misión, visión y valores de la startup Creatividad, así como en la elaboración de los perfiles de los segmentos objetivo.
-      <br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-        ------------------------------------
-      <br><br>
-      <b>
-        XXXXXXXX, XXXXXXXX
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br> 
-      XXXXXXXX
-      <br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-        ------------------------------------
-      <br><br>
-      <b>
-        Soto Palacios, Brandon Wilder 
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br> 
-      Lideró la elaboración del Lean UX Canvas y las declaraciones de hipótesis, coordinando con el equipo la validación de los supuestos de negocio. Aportó en la definición del método 5W+2H y en el análisis de la problemática del transporte escolar en Lima.      <br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-        ------------------------------------
-      <br><br>
-      <b>
-        Razuri, Piero
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br> 
-      Lideró el diseño de los wireframes y mockups del producto en Figma, así como la definición de la identidad visual de Children Path (paleta de colores, tipografía y componentes UI). Aportó en la elaboración de los User Journey Maps y Empathy Maps de los tres segmentos.
-      <br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-    </td>
-  </tr>
-
-  <!-- ROW 2 -->
-  <tr>
-    <td style="text-align: justify; vertical-align: top;">
-      <b>
-        Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.
-      </b>
-    </td>
-    <td style="text-align: justify;">
-      <b>
-        Huaco Oliva, Luis Alonso
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br>Estableció las metas semanales del equipo y organizó las reuniones de coordinación. Promovió un ambiente de trabajo inclusivo donde todos los miembros pudieron aportar sus ideas en la definición de los segmentos objetivo y la propuesta de solución de Children Path.<br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-        ------------------------------------
-      <br><br>
-      <b>
-        Pareja, Diana
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br> 
-      Fomentó la colaboración mediante la organización de sesiones de lluvia de ideas para la redacción del Startup Profile y la propuesta de valor. Contribuyó a mantener un ambiente de respeto y apertura donde las opiniones de todos fueron consideradas.
-      <br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-        ------------------------------------
-      <br><br>
-      <b>
-        Soto Palacios, Brandon Wilder
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br>
-      Contribuyó a la planificación de las tareas del equipo, apoyando en la organización del cronograma de entregas. Promovió la inclusión al integrar las perspectivas de los tres segmentos objetivo en el análisis Lean UX.<br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-        ------------------------------------
-      <br><br>
-      <b>
-        Razuri, Piero
-      </b>
-      <br><br>
-      <b><i>
-        AV1
-      </i></b>
-      <br> 
-      Coordinó las sesiones de diseño colaborativo en Figma, permitiendo que todos los miembros del equipo pudieran revisar y comentar los wireframes y mockups. Aseguró que la identidad visual de Children Path reflejara los valores de confianza y seguridad del producto.
-      <br><br>
-      <b><i>
-        TB1
-      </i></b>
-      <br>
-        XXXXXXXX
-      <br><br>
-    </td>
-  </tr>
+<table style="width: 100%; border-collapse: collapse;" border="1">
+  <thead>
+    <tr style="background-color: #2b2d42; color: #ffffff;">
+      <th style="text-align: center; width: 22%; padding: 10px;">Criterio específico</th>
+      <th style="text-align: center; width: 48%; padding: 10px;">Acciones realizadas</th>
+      <th style="text-align: center; width: 30%; padding: 10px;">Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- CRITERIO 1 -->
+    <tr>
+      <td style="text-align: left; vertical-align: top; padding: 10px;">
+        <b>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</b>
+      </td>
+      <td style="text-align: justify; vertical-align: top; padding: 10px;">
+        <b>Huaco Oliva, Luis Alonso</b><br>
+        <i><b>AV1:</b></i> Asumió el rol de facilitador general, coordinando las reuniones iniciales de alineamiento y la distribución equitativa de las actividades de elicitación. Lideró la estructuración de los tres segmentos objetivo y supervisó el análisis competitivo preliminar.<br>
+        <i><b>TB1:</b></i> Lideró la planificación del Sprint 2 en el marco de trabajo Scrum, facilitando la sesión de Sprint Planning 2 y velando por el cumplimiento de las metas técnicas asociadas a la arquitectura de información y la consolidación del backlog general.<br>
+        <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
+        <b>Pareja Cáceres, Diana</b><br>
+        <i><b>AV1:</b></i> Lideró la redacción del Startup Profile, definiendo la misión, visión y valores de Creatividad. Asimismo, coordinó la recolección y análisis de datos derivados de las entrevistas a los segmentos objetivo.<br>
+        <i><b>TB1:</b></i> Asumió el liderazgo en el diseño y documentación de la arquitectura de la información (Organization Systems y Labeling Systems), guiando las decisiones de diseño de interfaz web para garantizar coherencia entre el Landing Page y la aplicación web.<br>
+        <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
+        <b>Razuri Ucañan, Piero Alejandro</b><br>
+        <i><b>AV1:</b></i> Lideró la estandarización visual en Figma, dirigiendo la elaboración de los Style Guidelines preliminares y los artefactos de Needfinding (Journey Maps y Empathy Maps).<br>
+        <i><b>TB1:</b></i> Asumió el rol de referente en el prototipado web responsivo, guiando la definición de componentes interactivos y coordinando la entrega de los wireflows y mockups del frontend web.<br>
+        <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
+        <b>Soto Palacios, Brandon Wilder</b><br>
+        <i><b>AV1:</b></i> Lideró el proceso de Lean UX, guiando al equipo en la formulación de hipótesis, supuestos de negocio y la redacción del Lean UX Canvas.<br>
+        <i><b>TB1:</b></i> Dirigió el refinamiento de los User Stories con sintaxis Gherkin para el Sprint Backlog 2 y coordinó la validación cruzada del avance técnico en los repositorios de GitHub conforme a GitFlow.<br>
+      </td>
+      <td style="text-align: justify; vertical-align: top; padding: 10px;">
+        <b>AV1:</b> El equipo evidenció liderazgo compartido al descentralizar la toma de decisiones según las fortalezas técnicas de cada integrante. La rotación activa de responsabilidades permitió mantener un ritmo de avance constante, asegurando que cada sección del informe cuente con un responsable claro y apoyo mutuo.<br><br>
+        <b>TB1:</b> Durante el Sprint 2, el liderazgo conjunto se consolidó mediante la matriz de líderes y colaboradores (LACX), permitiendo una coordinación técnica fluida en el desarrollo del frontend y el despliegue del Landing Page, superando bloqueos de integración sin depender de un único mando central.
+      </td>
+    </tr>
+    <!-- CRITERIO 2 -->
+    <tr>
+      <td style="text-align: left; vertical-align: top; padding: 10px;">
+        <b>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</b>
+      </td>
+      <td style="text-align: justify; vertical-align: top; padding: 10px;">
+        <b>Huaco Oliva, Luis Alonso</b><br>
+        <i><b>AV1:</b></i> Organizó los tableros colaborativos y definió el calendario de sesiones de trabajo grupal, propiciando espacios de retroalimentación constructiva para todo el equipo.<br>
+        <i><b>TB1:</b></i> Gestionó el seguimiento de tareas del Sprint 2 mediante el Sprint Backlog, monitoreando el estado de los work-items asignados y asegurando el cumplimiento de las metas dentro de los plazos establecidos.<br>
+        <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
+        <b>Pareja Cáceres, Diana</b><br>
+        <i><b>AV1:</b></i> Impulsó sesiones de lluvia de ideas abiertas y respetuosas, asegurando que los hallazgos de cada entrevista fueran debatidos e integrados equitativamente en los perfiles de usuario.<br>
+        <i><b>TB1:</b></i> Promovió la inclusión en el diseño de la solución asegurando criterios de accesibilidad (a11y) y arquitectura inclusiva para todos los tipos de usuarios durante la especificación de componentes web.<br>
+        <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
+        <b>Razuri Ucañan, Piero Alejandro</b><br>
+        <i><b>AV1:</b></i> Mantuvo espacios colaborativos en línea para la co-creación de interfaces, permitiendo revisiones simultáneas de los artefactos visuales.<br>
+        <i><b>TB1:</b></i> Planificó y ejecutó las tareas vinculadas a la consistencia de estilos entre el Landing Page y la aplicación web, integrando las sugerencias de los compañeros en las iteraciones de los mock-ups.<br>
+        <hr style="border: 0.5px solid #ccc; margin: 8px 0;">
+        <b>Soto Palacios, Brandon Wilder</b><br>
+        <i><b>AV1:</b></i> Estableció acuerdos de trabajo y estimaciones temporales realistas para la formulación de los supuestos de Lean UX, asegurando que todos los miembros comprendieran los objetivos.<br>
+        <i><b>TB1:</b></i> Planificó las tareas de descomposición de User Stories en work-items específicos para el equipo, promoviendo un ambiente transparente de revisión de código y buenas prácticas de GitFlow.<br>
+      </td>
+      <td style="text-align: justify; vertical-align: top; padding: 10px;">
+        <b>AV1:</b> Se construyó una dinámica de trabajo inclusiva y transparente sustentada en canales de comunicación síncronos y asíncronos. La fijación colectiva de metas permitió alcanzar los entregables de diseño y análisis de requisitos en el tiempo previsto y con rigor académico.<br><br>
+        <b>TB1:</b> El establecimiento de objetivos claros a través del Sprint Goal 2 y la descomposición estructurada de tareas en horas permitió al equipo gestionar eficientemente la carga de trabajo. La colaboración activa en GitHub garantizó trazabilidad, inclusión en las decisiones técnicas y un cumplimiento efectivo de los compromisos de entrega.
+      </td>
+    </tr>
+  </tbody>
 </table>
