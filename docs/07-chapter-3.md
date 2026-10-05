@@ -926,7 +926,9 @@
 
 ## **3.2. Impact Mapping**
 
-<img alt="Impact map 60" src="assets/chapter-3/impact-mapping-UXPRESSIA.png" />
+<img width="1240" height="12991" alt="Impact map 60 (3)" src="https://github.com/user-attachments/assets/bbeff8a8-f5b3-423e-8955-b3df6a8d844d" />
+
+
 
 [Ver artefacto en uxpressia](https://uxpressia.com/w/v8FzI/i/Fy0pk?tagId=EaWxj)
 
