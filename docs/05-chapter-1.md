@@ -39,8 +39,8 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
         <h3>Luis Alonso Huaco Oliva</h3>
-        <p><b>Codigo de Estudiante: u202417743</b> </p>
-        <p><b>Age: 24</b> </p>
+        <p><b>Código de Estudiante: u202417743</b> </p>
+        <p><b>Edad: 24</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
 <p><b>Sobre mí:</b></p>
@@ -54,8 +54,8 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
         <h3>Diana Pareja Caceres</h3>
-        <p><b>Codigo de Estudiante: u202422589</b> </p>
-        <p><b>Age: 24</b> </p>
+        <p><b>Código de Estudiante: u202422589</b> </p>
+        <p><b>Edad: 24</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
 <p><b>Sobre mí:</b></p>
@@ -69,8 +69,8 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
         <h3>Piero Alejandro Razuri Ucañan</h3>
-        <p><b>Codigo de Estudiante: U202213484</b> </p>
-        <p><b>Age: 24</b> </p>
+        <p><b>Código de Estudiante: U202213484</b> </p>
+        <p><b>Edad: 24</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
 <p><b>Sobre mí:</b></p>
@@ -84,8 +84,8 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
         <h3>Brandon Wilder Soto Palacios</h3>
-        <p><b>Codigo de Estudiante: u202315640</b> </p>
-        <p><b>Age: 21</b> </p>
+        <p><b>Código de Estudiante: u202315640</b> </p>
+        <p><b>Edad: 21</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
 <p><b>Sobre mí:</b></p>
@@ -136,8 +136,15 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
 ### **1.2.2 Lean UX Process**
 #### **1.2.2.1. Lean UX Problem Statements**
 
-El estado actual del sector de transporte escolar en Lima Metropolitana se ha enfocado principalmente en padres de familia, conductores independientes y administradores de empresas de movilidad escolar, quienes lidian con la incertidumbre sobre el trayecto de los estudiantes, el estrés generado por la congestión vehicular y las distracciones peligrosas al volante provocadas por la coordinación manual de rutas y asistencia mediante llamadas telefónicas, cuadernos y mensajes de WhatsApp. Lo que los productos y servicios existentes no logran resolver es la ausencia de una solución integrada, accesible y de bajo costo que proporcione alertas automatizadas de proximidad y trazabilidad de abordaje en tiempo real sin obligar al conductor a manipular dispositivos móviles mientras opera el vehículo. Nuestro producto, Children Path, abordará esta brecha mediante una plataforma web y móvil que automatiza las notificaciones de llegada y paradas, registra digitalmente la asistencia con mínima interacción del chofer y centraliza el monitoreo en vivo para brindar tranquilidad a las familias y optimizar la logística vehicular. Nuestro enfoque inicial se centrará en conductores independientes y padres de familia de colegios privados en distritos de alta demanda de Lima Metropolitana. Sabremos que hemos tenido éxito cuando veamos, en nuestro grupo de prueba piloto, que al menos el 70% de los padres registrados consulten el estado de la ruta mediante la plataforma, una reducción perceptible en las llamadas directas al conductor durante los trayectos activos, y que el tiempo promedio de espera por parada no supere los 3 minutos. 
+**El estado actual del** sector de transporte escolar en Lima Metropolitana **se ha enfocado principalmente en** padres de familia, conductores independientes y administradores de empresas de movilidad escolar, quienes lidian con la incertidumbre sobre el trayecto de los estudiantes, el estrés generado por la congestión vehicular y las distracciones peligrosas al volante provocadas por la coordinación manual de rutas y asistencia mediante llamadas telefónicas, cuadernos y mensajes de WhatsApp.
 
+**Lo que los productos y servicios existentes no logran resolver es** la ausencia de una solución integrada, accesible y de bajo costo que proporcione alertas automatizadas de proximidad y trazabilidad de abordaje en tiempo real sin obligar al conductor a manipular dispositivos móviles mientras opera el vehículo.
+
+**Nuestro producto, Children Path, abordará esta brecha mediante** una plataforma web y móvil que automatiza las notificaciones de llegada y paradas, registra digitalmente la asistencia con mínima interacción del chofer y centraliza el monitoreo en vivo para brindar tranquilidad a las familias y optimizar la logística vehicular.
+
+**Nuestro enfoque inicial se centrará en** conductores independientes y padres de familia de colegios privados en distritos de alta demanda de Lima Metropolitana.
+
+**Sabremos que hemos tenido éxito cuando veamos**, en nuestro grupo de prueba piloto, que al menos el 70% de los padres registrados consulten el estado de la ruta mediante la plataforma, una reducción perceptible de al menos 80% en las llamadas directas al conductor durante los trayectos activos, y que el tiempo promedio de espera por parada no supere los 3 minutos.
 
 #### **1.2.2.2. Lean UX Assumptions**
 
@@ -183,13 +190,29 @@ El estado actual del sector de transporte escolar en Lima Metropolitana se ha en
 
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 
-* Creemos que lograremos una tasa de adopción y consulta diaria activa superior al 75% por parte de los padres de familia registrados dentro del piloto   Si los padres de familia   Obtienen certidumbre continua y reducen la ansiedad cotidiana al visualizar la posición exacta del transporte escolar durante todo el trayecto   A través de un mapa interactivo con seguimiento GPS en tiempo real. 
+* **Hipótesis 1:**  
+  **Creemos que** lograremos una tasa de adopción y consulta diaria activa superior al 75% por parte de los padres de familia registrados dentro del piloto.  
+  **Si** los padres de familia  
+  **Obtienen** certidumbre continua y reducen la ansiedad cotidiana al visualizar la posición exacta del transporte escolar durante todo el trayecto  
+  **Con** un mapa interactivo con seguimiento GPS en tiempo real integrado en la plataforma web.
 
-* Creemos que lograremos reducir en al menos un 80% las llamadas y mensajes dirigidos al conductor durante la ruta y disminuir el tiempo de espera por parada a menos de 3 minutos   Si los padres de familia y conductores de movilidad escolar   Obtienen la capacidad de anticipar con precisión la llegada de la unidad para tener a los estudiantes listos en la puerta sin demoras   A través de un sistema de alertas automatizadas de proximidad mediante geocercas. 
+* **Hipótesis 2:**  
+  **Creemos que** lograremos reducir en al menos un 80% las llamadas y mensajes dirigidos al conductor durante la ruta y disminuir el tiempo de espera por parada a menos de 3 minutos.  
+  **Si** los padres de familia y conductores de movilidad escolar  
+  **Obtienen** la capacidad de anticipar con precisión la llegada de la unidad para tener a los estudiantes listos en la puerta sin demoras  
+  **Con** un sistema de alertas automatizadas de proximidad mediante geocercas.
 
-* Creemos que lograremos una retención superior al 85% de los conductores independientes afiliados tras los primeros tres meses de uso continuo   Si los conductores de movilidad escolar   Obtienen un método ágil y digital para registrar el abordaje o inasistencia de los alumnos que evite planillas en papel y no genere distracciones al volante   A través de una interfaz táctil simplificada de registro de asistencia en un solo toque. 
+* **Hipótesis 3:**  
+  **Creemos que** lograremos una retención superior al 85% de los conductores independientes afiliados tras los primeros tres meses de uso continuo.  
+  **Si** los conductores de movilidad escolar  
+  **Obtienen** un método ágil y digital para registrar el abordaje o inasistencia de los alumnos que evite planillas en papel y no genere distracciones al volante  
+  **Con** una interfaz táctil simplificada de registro de asistencia en un solo toque.
 
-* Creemos que lograremos consolidar a la plataforma como la herramienta operativa estándar del servicio, disminuyendo retrasos y reclamos operativos   Si los administradores de movilidad escolar y conductores   Obtienen la supervisión centralizada del cumplimiento de itinerarios y la comunicación oportuna de imprevistos o congestión vehicular   A través de un módulo centralizado de gestión de rutas e incidencias operativas en tiempo real. 
+* **Hipótesis 4:**  
+  **Creemos que** lograremos consolidar a la plataforma como la herramienta operativa estándar del servicio, disminuyendo retrasos y reclamos operativos.  
+  **Si** los administradores de movilidad escolar y conductores  
+  **Obtienen** la supervisión centralizada del cumplimiento de itinerarios y la comunicación oportuna de imprevistos o congestión vehicular  
+  **Con** un módulo centralizado de gestión de rutas e incidencias operativas en tiempo real.
 
 #### **1.2.2.4. Lean UX Canvas**
 
