@@ -656,7 +656,7 @@ Pamela, madre de 41 años residente de Santa Anita, organiza el transporte de su
     </tr>
     <tr>
       <td width="30%"><b>Nombre Completo</b></td>
-      <td>Gabriela</td>
+      <td>Gabriela Paredes</td>
     </tr>
     <tr>
       <td><b>Edad</b></td>
@@ -672,7 +672,7 @@ Pamela, madre de 41 años residente de Santa Anita, organiza el transporte de su
     </tr>
     <tr>
       <td><b>Edad de su(s) hijo(s)</b></td>
-      <td>No especificado</td>
+      <td>6 años </td>
     </tr>
     <tr>
       <td><b>Grado escolar de su(s) hijo(s)</b></td>
@@ -687,7 +687,7 @@ Pamela, madre de 41 años residente de Santa Anita, organiza el transporte de su
     </tr>
     <tr>
       <td><b>Duración</b></td>
-      <td>No especificada</td>
+      <td>07:19 </td>
     </tr>
     <tr>
       <td><b>Empieza en el:</b></td>
@@ -751,7 +751,7 @@ Gabriela, de 35 años, residente de Magdalena, cuenta desde años con un conduct
     </tr>
     <tr>
       <td><b>Duración</b></td>
-      <td>No especificada</td>
+      <td>05:10 </td>
     </tr>
     <tr>
       <td><b>Empieza en el:</b></td>
@@ -815,7 +815,7 @@ Alejandro, de 34 años y residente de Surco, es padre de un niño de 6 años en 
     </tr>
     <tr>
       <td><b>Duración</b></td>
-      <td>No especificada</td>
+      <td>03:26 </td>
     </tr>
     <tr>
       <td><b>Empieza en el:</b></td>
@@ -946,37 +946,6 @@ Eduardo, de 32 años y residente de Magdalena, es un padre comprometido que proc
         <b>Marcelo:</b> "dejarían de escribirme tanto y yo solo me enfocaría en conducir bien"
       </td>
     </tr>
-<tr>
-  <td><b>Uso diario de aplicaciones de mensajería (WhatsApp) como canal principal con padres</b></td>
-  <td align="center">Mencionado por los 3</td>
-  <td align="center">100%</td>
-  <td>
-    <b>Joao:</b> "WhatsApp para todo"<br>
-    <b>Mateo:</b> "lo que más uso es WhatsApp"<br>
-    <b>Marcelo:</b> "WhatsApp con los grupos de padres"
-  </td>
-</tr>
-<tr>
-  <td><b>Uso de apps de navegación (Waze / Google Maps) para planificar rutas</b></td>
-  <td align="center">Mencionado por 2/3</td>
-  <td align="center">66.7%</td>
-  <td>
-    <b>Mateo:</b> "organizo mi ruta con Google Maps"<br>
-    <b>Marcelo:</b> "uso Waze para marcar los puntos"
-  </td>
-</tr>
-<tr>
-  <td><b>Dispositivo principal: smartphone Android con datos móviles</b></td>
-  <td align="center">Mencionado por los 3</td>
-  <td align="center">100%</td>
-  <td>Los tres entrevistados dependen de su smartphone para su operación diaria.</td>
-</tr>
-<tr>
-  <td><b>Nivel de adopción tecnológica medio (apps de mensajería y navegación, sin herramientas de gestión)</b></td>
-  <td align="center">Mencionado por los 3</td>
-  <td align="center">100%</td>
-  <td>Los tres usan apps básicas pero no herramientas digitales de gestión de rutas o asistencia.</td>
-</tr>
   </tbody>
 </table>
 
@@ -1132,41 +1101,6 @@ Eduardo, de 32 años y residente de Magdalena, es un padre comprometido que proc
         <b>Luis:</b> "un reporte de puntualidad... y otro sobre la velocidad del conductor"
       </td>
     </tr>
-<tr>
-  <td><b>Uso intensivo de WhatsApp y llamadas telefónicas para supervisión operativa</b></td>
-  <td align="center">Mencionado por los 3</td>
-  <td align="center">100%</td>
-  <td>
-    <b>Cheyla:</b> "dependemos de reportes por WhatsApp"<br>
-    <b>Dery:</b> "nos supervisamos con llamadas constantes"<br>
-    <b>Luis:</b> "la supervisión real es por WhatsApp"
-  </td>
-</tr>
-<tr>
-  <td><b>Uso de GPS básico exigido por terceros (aseguradoras) como monitoreo secundario</b></td>
-  <td align="center">Mencionado por 2/3</td>
-  <td align="center">66.7%</td>
-  <td>
-    <b>Cheyla:</b> "GPS de la aseguradora"<br>
-    <b>Luis:</b> "GPS básico, solo ubicación general"
-  </td>
-</tr>
-<tr>
-  <td><b>Registro de asistencia manual (papel / cuadernos), sin digitalización centralizada</b></td>
-  <td align="center">Mencionado por los 3</td>
-  <td align="center">100%</td>
-  <td>
-    <b>Cheyla:</b> "lista en papel con foto de respaldo"<br>
-    <b>Dery:</b> "cada conductor tiene su cuaderno"<br>
-    <b>Luis:</b> "listas físicas revisadas días después"
-  </td>
-</tr>
-<tr>
-  <td><b>Dispositivo principal: smartphone y computadora de oficina</b></td>
-  <td align="center">Mencionado por los 3</td>
-  <td align="center">100%</td>
-  <td>Los tres combinan el smartphone para reportes en campo con la computadora para administración.</td>
-</tr>
   </tbody>
 </table>
 
@@ -1234,136 +1168,6 @@ Eduardo, de 32 años y residente de Magdalena, es un padre comprometido que proc
   </tbody>
 </table>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th colspan="4" align="center">
-        <h2>Segmento 3: Padres de Familia (Análisis Objetivo)</h2>
-      </th>
-    </tr>
-    <tr>
-      <th align="left" width="30%">Característica</th>
-      <th align="center" width="15%">Frecuencia en entrevistas</th>
-      <th align="center" width="10%">Porcentaje</th>
-      <th align="left" width="45%">Fuente en entrevistas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Uso intensivo de WhatsApp para coordinar con el conductor del transporte escolar</b></td>
-      <td align="center">Mencionado por los 3</td>
-      <td align="center">100%</td>
-      <td>
-        <b>Carmen:</b> "todo lo coordinamos por WhatsApp, es lo único que tenemos"<br>
-        <b>Patricia:</b> "le escribo al chofer para saber si ya pasó por mi hija"<br>
-        <b>Rosa:</b> "el grupo de WhatsApp del aula sirve para avisar retrasos"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Incertidumbre constante sobre la ubicación y el estado de sus hijos durante el trayecto</b></td>
-      <td align="center">Mencionado por los 3</td>
-      <td align="center">100%</td>
-      <td>
-        <b>Carmen:</b> "no sé si mi hijo ya subió a la van o sigue esperando en la puerta"<br>
-        <b>Patricia:</b> "cuando pasan los minutos y no llega, me preocupo mucho"<br>
-        <b>Rosa:</b> "mi mayor miedo es no saber si llegó bien al colegio"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Realizan llamadas o envían mensajes al conductor cuando perciben retrasos</b></td>
-      <td align="center">Mencionado por los 3</td>
-      <td align="center">100%</td>
-      <td>
-        <b>Carmen:</b> "si a las 7:10 no ha llegado, ya estoy llamando"<br>
-        <b>Patricia:</b> "le escribo al chofer para preguntarle dónde está"<br>
-        <b>Rosa:</b> "cuando se retrasa más de 5 minutos, llamo sin pensarlo"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Preocupación por la distracción del conductor al usar el celular mientras conduce</b></td>
-      <td align="center">Mencionado por 2/3</td>
-      <td align="center">66.7%</td>
-      <td>
-        <b>Carmen:</b> "me da miedo que conteste el celular mientras maneja con los niños"<br>
-        <b>Rosa:</b> "sé que responde mensajes mientras conduce y eso me inquieta"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Disposición a pagar por una solución que les brinde tranquilidad y seguridad</b></td>
-      <td align="center">Mencionado por 2/3</td>
-      <td align="center">66.7%</td>
-      <td>
-        <b>Patricia:</b> "pagaría una mensualidad con tal de estar tranquila"<br>
-        <b>Rosa:</b> "si me da seguridad, sí estaría dispuesta a pagar"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Utilizan aplicaciones móviles a diario (WhatsApp, Waze, apps del colegio)</b></td>
-      <td align="center">Mencionado por los 3</td>
-      <td align="center">100%</td>
-      <td>
-        <b>Carmen:</b> "uso WhatsApp y la app del colegio para las tareas"<br>
-        <b>Patricia:</b> "Waze para moverme y WhatsApp para todo"<br>
-        <b>Rosa:</b> "WhatsApp, Facebook y la app del banco, todos los días"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Han experimentado confusión o retrasos con el servicio de transporte escolar</b></td>
-      <td align="center">Mencionado por 2/3</td>
-      <td align="center">66.7%</td>
-      <td>
-        <b>Patricia:</b> "una vez no pasaron por mi hija y nadie me avisó"<br>
-        <b>Rosa:</b> "hubo un cambio de ruta y nos enteramos recién en la mañana"
-      </td>
-    </tr>
-    <tr>
-      <td><b>Desean recibir notificaciones automáticas cuando el vehículo esté cerca de casa</b></td>
-      <td align="center">Mencionado por los 3</td>
-      <td align="center">100%</td>
-      <td>
-        <b>Carmen:</b> "sería ideal que me avise cuando esté a 5 minutos"<br>
-        <b>Patricia:</b> "así ya sabría cuándo bajar a la puerta"<br>
-        <b>Rosa:</b> "me ahorraría estar asomada a la ventana todo el tiempo"
-      </td>
-    </tr>
-<tr>
-  <td><b>Uso diario de WhatsApp como canal principal de coordinación con el conductor</b></td>
-  <td align="center">Mencionado por los 4</td>
-  <td align="center">100%</td>
-  <td>
-    <b>Pamela:</b> "coordino directamente por WhatsApp con el conductor"<br>
-    <b>Gabriela:</b> "mantengo comunicación cercana por WhatsApp"<br>
-    <b>Alejandro:</b> "uso WhatsApp con el chofer"<br>
-    <b>Eduardo:</b> "WhatsApp con el conductor para coordinar"
-  </td>
-</tr>
-<tr>
-  <td><b>Uso de apps de navegación (Google Maps / Waze) en su rutina diaria</b></td>
-  <td align="center">Mencionado por 3/4</td>
-  <td align="center">75%</td>
-  <td>
-    <b>Pamela:</b> "Waze para moverme"<br>
-    <b>Gabriela:</b> "Google Maps en el día a día"<br>
-    <b>Eduardo:</b> "Waze cuando salgo"
-  </td>
-</tr>
-<tr>
-  <td><b>Uso de apps bancarias y pagos digitales (Yape, Plin, banca móvil)</b></td>
-  <td align="center">Mencionado por 2/4</td>
-  <td align="center">50%</td>
-  <td>
-    <b>Pamela:</b> "uso Yape y Plin"<br>
-    <b>Gabriela:</b> "apps de banco para pagos"
-  </td>
-</tr>
-<tr>
-  <td><b>Dispositivo principal: smartphone con nivel de adopción tecnológica medio-alto</b></td>
-  <td align="center">Mencionado por los 4</td>
-  <td align="center">100%</td>
-  <td>Los cuatro entrevistados usan apps móviles a diario (WhatsApp, navegación, banca móvil).</td>
-</tr>
-  </tbody>
-</table>
 
 <br>
 
@@ -1450,42 +1254,6 @@ Eduardo, de 32 años y residente de Magdalena, es un padre comprometido que proc
         <b>Pamela:</b> "una aplicación que garantice que los documentos o papeles del conductor estén al día"
       </td>
     </tr>
-<tr>
-  <td><b>Uso diario de WhatsApp como canal principal de coordinación con el conductor</b></td>
-  <td align="center">Mencionado por los 4</td>
-  <td align="center">100%</td>
-  <td>
-    <b>Pamela:</b> "coordino directamente por WhatsApp con el conductor"<br>
-    <b>Gabriela:</b> "mantengo comunicación cercana por WhatsApp"<br>
-    <b>Alejandro:</b> "uso WhatsApp con el chofer"<br>
-    <b>Eduardo:</b> "WhatsApp con el conductor para coordinar"
-  </td>
-</tr>
-<tr>
-  <td><b>Uso de apps de navegación (Google Maps / Waze) en su rutina diaria</b></td>
-  <td align="center">Mencionado por 3/4</td>
-  <td align="center">75%</td>
-  <td>
-    <b>Pamela:</b> "Waze para moverme"<br>
-    <b>Gabriela:</b> "Google Maps en el día a día"<br>
-    <b>Eduardo:</b> "Waze cuando salgo"
-  </td>
-</tr>
-<tr>
-  <td><b>Uso de apps bancarias y pagos digitales (Yape, Plin, banca móvil)</b></td>
-  <td align="center">Mencionado por 2/4</td>
-  <td align="center">50%</td>
-  <td>
-    <b>Pamela:</b> "uso Yape y Plin"<br>
-    <b>Gabriela:</b> "apps de banco para pagos"
-  </td>
-</tr>
-<tr>
-  <td><b>Dispositivo principal: smartphone con nivel de adopción tecnológica medio-alto</b></td>
-  <td align="center">Mencionado por los 4</td>
-  <td align="center">100%</td>
-  <td>Los cuatro entrevistados usan apps móviles a diario (WhatsApp, navegación, banca móvil).</td>
-</tr>
   </tbody>
 </table>
 
@@ -1576,45 +1344,6 @@ Eduardo, de 32 años y residente de Magdalena, es un padre comprometido que proc
         <b>Gabriela:</b> "sugiero un modelo de prueba o esquema freemium para evaluar antes de pagar"
       </td>
     </tr>
-<tr>
-  <td><b>Perciben la tecnología como aliada para reducir su ansiedad con el servicio</b></td>
-  <td align="center">Mencionado por los 4</td>
-  <td align="center">100%</td>
-  <td>
-    <b>Pamela:</b> "una app me daría tranquilidad"<br>
-    <b>Gabriela:</b> "valoro una herramienta digital"<br>
-    <b>Alejandro:</b> "valoro soluciones tecnológicas"<br>
-    <b>Eduardo:</b> "información en tiempo real es clave"
-  </td>
-</tr>
-<tr>
-  <td><b>Confían más en un servicio que use tecnología moderna (GPS, notificaciones, verificación digital)</b></td>
-  <td align="center">Mencionado por 3/4</td>
-  <td align="center">75%</td>
-  <td>
-    <b>Pamela:</b> "una app que garantice documentos al día"<br>
-    <b>Gabriela:</b> "la propuesta de la app me resulta atractiva"<br>
-    <b>Eduardo:</b> "considero importante la información oportuna"
-  </td>
-</tr>
-<tr>
-  <td><b>Prefieren una solución digital discreta que notifique sin obligarlos a estar pendientes del celular</b></td>
-  <td align="center">Mencionado por 3/4</td>
-  <td align="center">75%</td>
-  <td>
-    <b>Pamela:</b> "que notifique sola el abordaje"<br>
-    <b>Gabriela:</b> "visibilidad sin depender de llamadas"<br>
-    <b>Eduardo:</b> "recibir la información sin tener que preguntar"
-  </td>
-</tr>
-<tr>
-  <td><b>Prefieren probar el servicio antes de contratar un plan de pago (modelo freemium)</b></td>
-  <td align="center">Mencionado por 1/4</td>
-  <td align="center">25%</td>
-  <td>
-    <b>Gabriela:</b> "sugiero un modelo de prueba o esquema freemium antes de pagar"
-  </td>
-</tr>
   </tbody>
 </table>
 
@@ -1653,87 +1382,122 @@ Esta sección presenta la User Task Matrix, una herramienta que reúne las princ
 
 Las tareas han sido evaluadas según dos variables: frecuencia, es decir, qué tan seguido se realiza la tarea, que puede ser Alta, Media o Baja; e importancia, es decir, qué tan crítica es la tarea para el éxito de su trabajo o su tranquilidad, que también puede medirse como Alta, Media o Baja.
 
-<table width="100%">
+<table width="100%" border="1" style="border-collapse: collapse;">
   <thead>
     <tr>
-      <th align="left" width="40%">Tareas del Usuario</th>
-      <th align="center" width="20%">Segmento 1: Carlos<br>(Conductor Independiente)</th>
-      <th align="center" width="20%">Segmento 2: Valeria<br>(Administradora de Flota)</th>
-      <th align="center" width="20%">Segmento 3: María<br>(Madre de Familia)</th>
+      <th rowspan="2" align="left" width="34%">Tareas del Usuario (Tasks)</th>
+      <th colspan="2" align="center" width="22%">Segmento 1: Carlos<br>(Conductor Independiente)</th>
+      <th colspan="2" align="center" width="22%">Segmento 2: Valeria<br>(Administradora de Flota)</th>
+      <th colspan="2" align="center" width="22%">Segmento 3: María<br>(Madre de Familia)</th>
+    </tr>
+    <tr>
+      <th align="center">Frecuencia</th>
+      <th align="center">Importancia</th>
+      <th align="center">Frecuencia</th>
+      <th align="center">Importancia</th>
+      <th align="center">Frecuencia</th>
+      <th align="center">Importancia</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Navegar por el tráfico y seguir la ruta establecida</b></td>
+      <td><b>Navegar por el tráfico y seguir la ruta escolar</b></td>
+      <td align="center">Alta</td>
       <td align="center">Alta</td>
       <td align="center">Baja</td>
+      <td align="center">Media</td>
       <td align="center">Nunca</td>
+      <td align="center">Baja</td>
     </tr>
     <tr>
       <td><b>Registrar la asistencia de los estudiantes al subir o bajar</b></td>
       <td align="center">Alta</td>
+      <td align="center">Alta</td>
       <td align="center">Nunca</td>
+      <td align="center">Alta</td>
       <td align="center">Media</td>
+      <td align="center">Alta</td>
     </tr>
     <tr>
       <td><b>Monitorear el estado y la ubicación de múltiples unidades</b></td>
       <td align="center">Nunca</td>
+      <td align="center">Baja</td>
+      <td align="center">Alta</td>
       <td align="center">Alta</td>
       <td align="center">Baja</td>
+      <td align="center">Media</td>
     </tr>
     <tr>
       <td><b>Enviar notificaciones de proximidad o retraso a los padres</b></td>
       <td align="center">Alta</td>
       <td align="center">Alta</td>
+      <td align="center">Alta</td>
+      <td align="center">Alta</td>
       <td align="center">Nunca</td>
+      <td align="center">Alta</td>
     </tr>
     <tr>
-      <td><b>Responder llamadas de padres ansiosos preguntando por la ubicación</b></td>
+      <td><b>Atender llamadas de padres consultando ubicación de la unidad</b></td>
       <td align="center">Alta</td>
+      <td align="center">Media</td>
       <td align="center">Alta</td>
+      <td align="center">Media</td>
       <td align="center">Nunca</td>
+      <td align="center">Baja</td>
     </tr>
     <tr>
       <td><b>Coordinar cambios de ruta y reasignar vehículos por averías</b></td>
       <td align="center">Baja</td>
       <td align="center">Alta</td>
+      <td align="center">Alta</td>
+      <td align="center">Alta</td>
       <td align="center">Nunca</td>
+      <td align="center">Baja</td>
     </tr>
     <tr>
-      <td><b>Preparar reportes de asistencia para la facturación de fin de mes</b></td>
+      <td><b>Preparar reportes de asistencia para conciliación y cobranza</b></td>
+      <td align="center">Baja</td>
+      <td align="center">Media</td>
+      <td align="center">Alta</td>
+      <td align="center">Alta</td>
+      <td align="center">Nunca</td>
+      <td align="center">Baja</td>
+    </tr>
+    <tr>
+      <td><b>Consultar la ubicación del transporte escolar en tiempo real</b></td>
+      <td align="center">Nunca</td>
+      <td align="center">Baja</td>
+      <td align="center">Media</td>
+      <td align="center">Alta</td>
+      <td align="center">Alta</td>
+      <td align="center">Alta</td>
+    </tr>
+    <tr>
+      <td><b>Esperar alertas de proximidad para salir al punto de recojo</b></td>
+      <td align="center">Nunca</td>
+      <td align="center">Baja</td>
+      <td align="center">Nunca</td>
       <td align="center">Baja</td>
       <td align="center">Alta</td>
-      <td align="center">Nunca</td>
-    </tr>
-    <tr>
-      <td><b>Consultar la ubicación del vehículo escolar en tiempo real</b></td>
-      <td align="center">Nunca</td>
-      <td align="center">Media</td>
       <td align="center">Alta</td>
     </tr>
     <tr>
-      <td><b>Esperar notificaciones automáticas de proximidad para bajar a la puerta</b></td>
-      <td align="center">Nunca</td>
-      <td align="center">Nunca</td>
+      <td><b>Confirmar que el escolar abordó o llegó a su destino</b></td>
+      <td align="center">Media</td>
+      <td align="center">Alta</td>
+      <td align="center">Media</td>
+      <td align="center">Alta</td>
+      <td align="center">Alta</td>
       <td align="center">Alta</td>
     </tr>
     <tr>
-      <td><b>Coordinar con el conductor sobre el recojo o la entrega del estudiante</b></td>
+      <td><b>Avisar ausencias o cambios imprevistos en la asistencia</b></td>
+      <td align="center">Media</td>
+      <td align="center">Alta</td>
+      <td align="center">Alta</td>
       <td align="center">Alta</td>
       <td align="center">Media</td>
       <td align="center">Alta</td>
-    </tr>
-    <tr>
-      <td><b>Confirmar que su hijo abordó el vehículo o llegó al colegio</b></td>
-      <td align="center">Media</td>
-      <td align="center">Media</td>
-      <td align="center">Alta</td>
-    </tr>
-    <tr>
-      <td><b>Avisar cambios de última hora, como que el estudiante no asistirá</b></td>
-      <td align="center">Media</td>
-      <td align="center">Alta</td>
-      <td align="center">Media</td>
     </tr>
   </tbody>
 </table>
@@ -1803,13 +1567,13 @@ El Big Picture Event Storming permitió al equipo de **Creatividad** obtener una
 
 Ubiquitous Language is a common and standardized vocabulary shared by the development team and domain experts, who in this case are school transportation drivers, administrators, and parents. It is a type of glossary that ensures all stakeholders share the same understanding of the key business concepts, reducing ambiguity in requirements specification and source code.
 
-* **Administrator** is the user responsible for the logistical management of the fleet. Their main role is to monitor routes, resolve incidents, and manage high-level communication with customers.
-* **Proximity Alert** is the automated push notification generated by the system and sent to the guardian's mobile device when the unit is at a predetermined distance or time from the pickup point.
-* **Parent** is the final customer who hires the school transportation service and requires visibility over the transportation status of their minor child.
-* **Attendance** is the record of the exact moment when a student boards or gets off the vehicle.
-* **Driver** is the user responsible for driving the vehicle, executing the established route, and ensuring the physical safety of students during the trip.
-* **Dashboard** is the centralized web or tablet interface, designed for administrators and parents, that shows the real-time location, speed, and status of all active units through GPS integration.
-* **Student** is the passenger who will be transported.
-* **Fleet** is the total set of operational vehicles managed by the same school transportation company.
-* **Route** is the planned path of pickup and drop-off points.
-* **Unit** is the physical transportation vehicle assigned to a driver and to a specific route
+* **Administrator (Administrador):** User responsible for the logistical management and monitoring of the school transportation fleet, handling route changes and customer support.
+* **Proximity Alert (Alerta de Proximidad):** Automated push notification triggered when a vehicle crosses a virtual geofence, indicating it is near a designated student pickup or drop-off location.
+* **Parent / Guardian (Padre de Familia / Tutor):** Customer and legal representative who contracts the service and monitors the safe transit of the registered student.
+* **Attendance (Registro de Asistencia):** Digital timestamp verifying the exact moment a student boards or safely leaves the school vehicle.
+* **Driver (Conductor):** Authorized person operating the vehicle along the scheduled route, responsible for road safety and confirming student check-ins.
+* **Dashboard (Panel de Control):** Centralized web interface displaying real-time vehicle telemetry, active routes, driver status, and historical logs.
+* **Student (Estudiante):** School passenger enrolled in the daily pickup and delivery service.
+* **Fleet (Flota):** Group of authorized transport units operated and scheduled under the same provider or company.
+* **Route (Ruta):** Sequenced set of scheduled pickup and drop-off waypoints optimized for daily transit.
+* **Transport Unit (Unidad de Transporte):** Physical motor vehicle registered and certified to provide school transportation services.
