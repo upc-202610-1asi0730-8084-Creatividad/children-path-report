@@ -218,6 +218,9 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
 
 <img width="1142" height="874" alt="children path- lean ux canvas" src="https://github.com/user-attachments/assets/b0bd3e34-d111-4275-833c-fe57021d2272" />
 
+Link del artefacto:
+https://miro.com/app/board/uXjVHm5y9BY=/?share_link_id=575806922546
+
 
 El Lean UX Canvas de Children Path sintetiza los principales problemas identificados en el servicio de transporte escolar en Lima Metropolitana, destacando la falta de digitalización y la dependencia de procesos manuales como el eje central. Esta situación genera rutas desorganizadas, tiempos de espera prolongados e incertidumbre en las familias, además de crear situaciones de alto riesgo al volante cuando los conductores deben atender llamadas o mensajes mientras conducen.
 
