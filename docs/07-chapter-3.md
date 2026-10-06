@@ -1,6 +1,8 @@
 # **Chapter III: Requirements Specification**
 ## **3.1. User Stories** 
 
+En esta sección se definen los requisitos funcionales del sistema mediante Epics y User Stories orientadas al valor de los diferentes actores de la solución: Apoderados, Conductores de Movilidad Escolar, Administradores de Empresa y Visitantes del Sitio Web. Asimismo, se contemplan Historias Técnicas para la integración de la API RESTful. Los Criterios de Aceptación han sido redactados en tiempo presente, tercera persona y bajo la estructura formal de Gherkin, garantizando que sean comprobables y desacoplados de detalles visuales.
+
 <table>
     <thead>
         <tr>
@@ -12,6 +14,20 @@
         </tr>
     </thead>
     <tbody>
+      <!-- EPIC 0 - LANDING PAGE -->
+        <tr>
+            <td class="epic-id" style="text-align:center">EP00</td>
+            <td style="text-align:center">Portal Web Informativo y Captación (Landing Page)</td>
+            <td>Como <strong>visitante del sitio web</strong>, quiero conocer la propuesta de valor, planes de suscripción y canales de contacto de Children Path, para evaluar la adopción del servicio.</td>
+            <td class="acceptance-criteria">
+                <ul>
+                    <li><strong>Dado que</strong> un visitante accede a la dirección web pública, <strong>cuando</strong> carga la página principal, <strong>entonces</strong> el sistema expone el propósito de la plataforma, los beneficios clave por rol y botones de llamada a la acción (CTA).</li>
+                    <li><strong>Dado que</strong> el visitante consulta la sección de tarifas, <strong>cuando</strong> revisa la comparativa, <strong>entonces</strong> el sistema muestra los límites y costos de cada plan.</li>
+                    <li><strong>Dado que</strong> el visitante envía un formulario de contacto válido, <strong>cuando</strong> el sistema procesa la solicitud, <strong>entonces</strong> registra los datos de prospección y emite una confirmación en pantalla.</li>
+                </ul>
+            </td>
+            <td style="text-align:center">-</td>
+        </tr>  
         <!-- EPIC 1 - BOTH -->
 <tr>
     <td class="epic-id" style="text-align:center">EP01</td>
@@ -73,6 +89,7 @@
     </td>
     <td style="text-align:center">-</td>
 </tr>
+
 <!-- EPIC 5A - INDEPENDENT DRIVER ONLY (Personal reports) -->
 <tr>
     <td class="epic-id" style="text-align:center">EP05A</td>
@@ -118,6 +135,19 @@
     </td>
     <td style="text-align:center">-</td>
 </tr>
+<!-- EPIC 7 - RESTFUL API -->
+        <tr>
+            <td class="epic-id" style="text-align:center">EP07</td>
+            <td style="text-align:center">Servicios de Integración Backend (RESTful API)</td>
+            <td>Como <strong>developer</strong>, quiero disponer de endpoints estandarizados con respuestas HTTP adecuadas, para conectar las aplicaciones cliente con los servicios del dominio.</td>
+            <td class="acceptance-criteria">
+                <ul>
+                    <li><strong>Dado que</strong> un cliente HTTP realiza una solicitud válida a un endpoint REST, <strong>cuando</strong> el backend procesa la petición, <strong>entonces</strong> retorna códigos de estado HTTP semánticos (200, 201, 202, 400, 401, 404, 500) y payloads en formato JSON.</li>
+                    <li><strong>Dado que</strong> un endpoint requiere credenciales de seguridad, <strong>cuando</strong> la solicitud carece de un token JWT válido en la cabecera Authorization, <strong>entonces</strong> el servicio rechaza la petición con código HTTP 401 Unauthorized.</li>
+                </ul>
+            </td>
+            <td style="text-align:center">-</td>
+        </tr>
 <!-- USER STORY 01 - Record student boarding -->
 <tr>
     <td class="user-story-id" style="text-align:center">US01</td>
@@ -920,6 +950,72 @@
     </td>
     <td style="text-align:center">EP06</td>
 </tr>
+<!-- USER STORY 59 - Landing Page Value Proposition -->
+        <tr>
+            <td class="user-story-id" style="text-align:center">US59</td>
+            <td style="text-align:center">Visualizar propuesta de valor en Landing Page</td>
+            <td>Como <strong>visitante interesado</strong>, quiero explorar las secciones informativas de la plataforma en la web, para comprender cómo el sistema automatiza la seguridad del transporte escolar.</td>
+            <td class="acceptance-criteria">
+                <ul>
+                    <li><strong>Dado que</strong> un usuario navega hacia la dirección web pública, <strong>cuando</strong> la página de inicio termina de cargar, <strong>entonces</strong> el sistema presenta el encabezado principal con la propuesta de valor, los beneficios diferenciados por rol (padres, conductores, colegios) y botones de llamada a la acción (Call to Action).</li>
+                    <li><strong>Dado que</strong> el visitante interactúa con el menú de navegación superior, <strong>cuando</strong> selecciona una sección específica, <strong>entonces</strong> la vista se desplaza fluidamente hacia el bloque correspondiente.</li>
+                </ul>
+            </td>
+            <td style="text-align:center">EP00</td>
+        </tr>
+        <!-- USER STORY 60 - Subscription Plans and Lead Form -->
+        <tr>
+            <td class="user-story-id" style="text-align:center">US60</td>
+            <td style="text-align:center">Consultar planes y solicitar contacto</td>
+            <td>Como <strong>visitante del segmento empresa de transporte o colegio</strong>, quiero revisar la tabla comparativa de planes y enviar un formulario de contacto, para solicitar una demostración comercial del servicio.</td>
+            <td class="acceptance-criteria">
+                <ul>
+                    <li><strong>Dado que</strong> el visitante se encuentra en la sección de tarifas, <strong>cuando</strong> visualiza la tabla de planes, <strong>entonces</strong> el sistema expone de forma clara los límites de vehículos, alumnos y el costo mensual de cada nivel.</li>
+                    <li><strong>Dado que</strong> el visitante completa el formulario con datos válidos y presiona enviar, <strong>cuando</strong> el sistema procesa la solicitud, <strong>entonces</strong> almacena el registro de prospección y muestra un mensaje de confirmación exitoso.</li>
+                    <li><strong>Dado que</strong> el visitante envía el formulario omitiendo campos obligatorios, <strong>cuando</strong> intenta procesar la solicitud, <strong>entonces</strong> el sistema resalta los campos faltantes sin recargar la página.</li>
+                </ul>
+            </td>
+            <td style="text-align:center">EP00</td>
+        </tr>
+       <!-- USER STORY 61 - Authentication Endpoint -->
+        <tr>
+            <td class="user-story-id" style="text-align:center">US61</td>
+            <td style="text-align:center">Endpoint de autenticación y emisión de tokens JWT</td>
+            <td>Como <strong>developer</strong>, quiero disponer de un endpoint POST <code>/api/v1/authentication/sign-in</code>, para validar credenciales y emitir tokens de sesión estructurados.</td>
+            <td class="acceptance-criteria">
+                <ul>
+                    <li><strong>Dado que</strong> el cliente envía una petición POST con correo y contraseña válidos, <strong>cuando</strong> el servicio autentica la cuenta, <strong>entonces</strong> retorna código de estado HTTP 200 con el token JWT y los datos de perfil en el cuerpo de la respuesta.</li>
+                    <li><strong>Dado que</strong> el cliente envía credenciales inválidas o no registradas, <strong>cuando</strong> el servicio procesa la solicitud, <strong>entonces</strong> responde con código de estado HTTP 401 Unauthorized y un objeto de error detallado.</li>
+                </ul>
+            </td>
+            <td style="text-align:center">EP07</td>
+        </tr>
+        <!-- USER STORY 62 - Attendance Check Endpoint -->
+        <tr>
+            <td class="user-story-id" style="text-align:center">US62</td>
+            <td style="text-align:center">Endpoint para registro de asistencia en un solo toque</td>
+            <td>Como <strong>developer</strong>, quiero disponer de un endpoint PUT <code>/api/v1/attendance-records/{id}</code>, para actualizar el estado de abordaje y persistir marcas temporales.</td>
+            <td class="acceptance-criteria">
+                <ul>
+                    <li><strong>Dado que</strong> el cliente envía una petición PUT válida con el identificador del registro y el nuevo estado (<code>on_board</code>, <code>arrived</code>, <code>absent</code>), <strong>cuando</strong> la solicitud es procesada, <strong>entonces</strong> el servidor actualiza la entidad de asistencia y responde con código HTTP 200 y el recurso modificado.</li>
+                    <li><strong>Dado que</strong> se provee un identificador inexistente, <strong>cuando</strong> se ejecuta la consulta, <strong>entonces</strong> el servidor devuelve un código HTTP 404 Not Found.</li>
+                </ul>
+            </td>
+            <td style="text-align:center">EP07</td>
+        </tr>
+        <!-- USER STORY 63 - Telemetry and Geofence Endpoint -->
+        <tr>
+            <td class="user-story-id" style="text-align:center">US63</td>
+            <td style="text-align:center">Endpoint para telemetría y geocercas en tiempo real</td>
+            <td>Como <strong>developer</strong>, quiero un endpoint POST <code>/api/v1/trips/{id}/location</code>, para recibir coordenadas GPS periódicas y disparar alertas de proximidad automáticas.</td>
+            <td class="acceptance-criteria">
+                <ul>
+                    <li><strong>Dado que</strong> el dispositivo móvil del conductor transmite latitud y longitud válidas, <strong>cuando</strong> el servicio verifica las geocercas configuradas, <strong>entonces</strong> registra la posición, evalúa los radios de alerta y responde con código HTTP 202 Accepted.</li>
+                    <li><strong>Dado que</strong> la carga de datos presenta valores numéricos nulos o fuera de rango, <strong>cuando</strong> el validador inspecciona la petición, <strong>entonces</strong> retorna código HTTP 400 Bad Request.</li>
+                </ul>
+            </td>
+            <td style="text-align:center">EP07</td>
+        </tr>
     </tbody>
 </table>
 
@@ -932,62 +1028,69 @@
 
 ## **3.3. Product Backlog**
 
-| Orden | ID de Historia de Usuario | Título | Descripción | Puntos de Historia |
-|-------|---------------------------|--------|-------------|--------------------|
-| 1 | US01 | Registrar abordaje del estudiante | Como conductor, quiero registrar el momento en que un estudiante aborda el vehículo en cada parada, para mantener un registro digital de asistencia. | 3 |
-| 2 | US02 | Notificación automática de ausencia | Como conductor, quiero que el sistema detecte automáticamente cuando un estudiante no se presenta en su parada, para no tener que esperar más de lo necesario ni llamar manualmente al padre. | 3 |
-| 3 | US14 | Registrar abordaje | Como conductor, quiero marcar rápidamente cuándo un estudiante sube al vehículo, para llevar el control del viaje. | 2 |
-| 4 | US15 | Registrar ausencia | Como conductor, quiero marcar cuándo un estudiante no sube al vehículo, para evitar esperas innecesarias. | 2 |
-| 5 | US12 | Visualizar lista de estudiantes por ruta | Como conductor, quiero ver la lista de estudiantes asignados a mi ruta, para saber a quiénes debo recoger. | 2 |
-| 6 | US13 | Visualizar estudiantes por parada | Como conductor, quiero ver qué estudiantes corresponden a cada parada, para organizar el recojo. | 2 |
-| 7 | US18 | Confirmación visual rápida | Como conductor, quiero identificar rápidamente quién ya subió y quién no, para tomar decisiones rápidas. | 1 |
-| 8 | US16 | Edición rápida de estado | Como conductor, quiero corregir el estado de un estudiante en caso de error, para mantener la información precisa. | 2 |
-| 9 | US17 | Funcionalidad sin conexión | Como conductor, quiero poder registrar abordajes sin conexión a internet, para no depender de la señal. | 5 |
-| 10 | US03 | Visualizar ruta diaria optimizada | Como conductor, quiero visualizar la ruta del día con el orden de las paradas y los tiempos estimados, para reducir los tiempos de espera y el consumo de combustible. | 3 |
-| 11 | US19 | Visualizar ruta asignada | Como conductor, quiero visualizar la ruta asignada del día, para conocer el orden del recorrido. | 2 |
-| 12 | US20 | Visualizar paradas en el mapa | Como conductor, quiero ver las paradas de mi ruta en un mapa, para ubicarme fácilmente durante el recorrido. | 3 |
-| 13 | US21 | Navegación entre paradas | Como conductor, quiero recibir indicaciones para llegar a cada parada, para optimizar mi recorrido. | 3 |
-| 14 | US22 | Marcar parada como completada | Como conductor, quiero marcar una parada como completada, para avanzar en mi ruta de manera ordenada. | 1 |
-| 15 | US24 | Visualizar estado de la ruta | Como conductor, quiero ver el progreso de mi ruta, para saber cuánto falta por completar. | 2 |
-| 16 | US04 | Reordenar ruta por ausencia | Como conductor, quiero que la ruta se reordene automáticamente cuando un estudiante está ausente, para no perder tiempo pasando por una parada vacía. | 3 |
-| 17 | US23 | Reordenamiento básico de ruta | Como conductor, quiero ajustar el orden de las paradas en caso de imprevistos, para adaptarme a cambios en el recorrido. | 3 |
-| 18 | US25 | Funcionalidad de ruta sin conexión | Como conductor, quiero acceder a mi ruta sin conexión a internet, para no depender de la señal. | 5 |
-| 19 | US05 | Registrar incidencia en la ruta | Como conductor, quiero registrar cualquier incidencia que ocurra durante el viaje (retraso, accidente, cambio de ruta), para mantener la trazabilidad del servicio. | 3 |
-| 20 | US26 | Registro rápido de incidencia | Como conductor, quiero registrar una incidencia en pocos pasos, para no distraerme durante el recorrido. | 2 |
-| 21 | US28 | Seleccionar tipo de incidencia | Como conductor, quiero elegir el tipo de incidencia, para clasificar correctamente el evento. | 2 |
-| 22 | US29 | Registrar detalle opcional | Como conductor, quiero agregar un comentario opcional, para proporcionar más contexto si es necesario. | 1 |
-| 23 | US30 | Asociar incidencia con parada o estudiante | Como conductor, quiero vincular la incidencia a una parada o estudiante, para mayor precisión en el registro. | 2 |
-| 24 | US31 | Registro automático de hora y ubicación | Como conductor, quiero que el sistema registre automáticamente la hora y la ubicación, para no tener que hacerlo manualmente. | 2 |
-| 25 | US32 | Visualizar historial de incidencias | Como conductor, quiero ver las incidencias registradas, para hacer seguimiento del recorrido. | 2 |
-| 26 | US33 | Editar o corregir incidencia | Como conductor, quiero corregir una incidencia en caso de error, para mantener la información precisa. | 2 |
-| 27 | US34 | Funcionalidad de incidencias sin conexión | Como conductor, quiero registrar incidencias sin conexión, para no depender de la red. | 5 |
-| 28 | US06 | Notificar a los padres por incidencia | Como sistema, quiero notificar automáticamente a los padres cuando se registra una incidencia que afecta la ruta de sus hijos, para mantenerlos informados sin intervención manual del conductor. | 3 |
-| 29 | US07 | Visualizar flota completa en el mapa | Como administrador de una empresa de movilidad escolar, quiero visualizar todos mis vehículos activos en un mapa en tiempo real, para supervisar el cumplimiento de rutas sin depender de llamadas telefónicas. | 3 |
-| 30 | US35 | Visualizar vehículos en el mapa | Como administrador de una empresa de movilidad escolar, quiero ver todos mis vehículos en un mapa en tiempo real, para monitorear su ubicación. | 3 |
-| 31 | US36 | Visualizar detalles del vehículo | Como administrador de una empresa de movilidad escolar, quiero seleccionar un vehículo y ver su información, para conocer su estado actual. | 2 |
-| 32 | US37 | Visualizar estados de los vehículos | Como administrador de una empresa de movilidad escolar, quiero identificar el estado de cada vehículo, para detectar problemas rápidamente. | 2 |
-| 33 | US38 | Filtrar unidades | Como administrador de una empresa de movilidad escolar, quiero filtrar vehículos por estado o ruta, para enfocarme en lo relevante. | 2 |
-| 34 | US39 | Alertas de desviación | Como administrador de una empresa de movilidad escolar, quiero recibir alertas cuando un vehículo se desvía de su ruta, para actuar oportunamente. | 3 |
-| 35 | US08 | Recibir alerta por desviación de ruta | Como administrador de una empresa de movilidad escolar, quiero recibir una alerta cuando un vehículo se desvía significativamente de su ruta establecida, para actuar rápidamente ante posibles incidentes. | 3 |
-| 36 | US40 | Visualizar recorrido en tiempo real | Como administrador de una empresa de movilidad escolar, quiero ver el recorrido que realiza cada vehículo, para validar el cumplimiento de la ruta. | 3 |
-| 37 | US41 | Historial reciente de ubicaciones | Como administrador de una empresa de movilidad escolar, quiero consultar las ubicaciones recientes de un vehículo, para analizar su comportamiento. | 2 |
-| 38 | US42 | Actualización automática de datos | Como administrador de una empresa de movilidad escolar, quiero que la información se actualice automáticamente, para no tener que recargarla manualmente. | 3 |
-| 39 | US09 | Visualizar historial personal de viajes | Como conductor independiente, quiero acceder a mi historial de viajes, puntualidad e incidencias registradas, para evaluar mi desempeño y demostrar mi confiabilidad a los padres. | 3 |
-| 40 | US50 | Visualizar resumen personal de viajes | Como conductor independiente, quiero ver un resumen de mis viajes completados, para hacer seguimiento de mi actividad diaria. | 2 |
-| 41 | US51 | Visualizar métricas personales de puntualidad | Como conductor independiente, quiero ver mis métricas de puntualidad, para evaluar mi desempeño y mejorar mi reputación. | 3 |
-| 42 | US52 | Exportar historial personal de viajes | Como conductor independiente, quiero exportar mi historial de viajes, para compartirlo con padres o empresas que soliciten referencias. | 3 |
-| 43 | US53 | Visualizar historial personal de incidencias | Como conductor independiente, quiero ver las incidencias que he registrado, para tener trazabilidad de los eventos ocurridos durante mis servicios. | 2 |
-| 44 | US10 | Exportar reporte de asistencia mensual | Como administrador de una empresa de movilidad escolar, quiero exportar un reporte consolidado de asistencia mensual por estudiante, para agilizar el proceso de facturación a los padres sin errores manuales. | 5 |
-| 45 | US11 | Generar reporte de puntualidad por unidad | Como administrador de una empresa de movilidad escolar, quiero generar un reporte de puntualidad por conductor/unidad, para evaluar su desempeño y tomar decisiones de mejora o incentivos. | 5 |
-| 46 | US43 | Generar reporte de recorridos | Como administrador de una empresa de movilidad escolar, quiero generar reportes de recorridos realizados, para analizar el cumplimiento de rutas. | 3 |
-| 47 | US44 | Generar reporte de desempeño | Como administrador de una empresa de movilidad escolar, quiero visualizar métricas de desempeño de conductores y vehículos, para evaluar la eficiencia operativa. | 5 |
-| 48 | US45 | Exportar reportes | Como administrador de una empresa de movilidad escolar, quiero exportar reportes, para compartirlos o analizarlos externamente. | 3 |
-| 49 | US46 | Filtrar reportes | Como administrador de una empresa de movilidad escolar, quiero aplicar filtros a los reportes, para enfocarme en información específica. | 2 |
-| 50 | US47 | Incluir incidencias en los reportes | Como administrador de una empresa de movilidad escolar, quiero incluir las incidencias en los reportes, para tener un contexto completo del servicio. | 2 |
-| 51 | US48 | Resumen general | Como administrador de una empresa de movilidad escolar, quiero ver un resumen general de desempeño, para tomar decisiones rápidas. | 3 |
-| 52 | US49 | Descarga rápida de reportes recientes | Como administrador de una empresa de movilidad escolar, quiero acceder rápidamente a reportes recientes, para ahorrar tiempo en consultas frecuentes. | 2 |
-| 53 | US54 | Recibir notificación de proximidad | Como padre de familia, quiero recibir una notificación automática cuando el vehículo escolar esté cerca de mi casa, para bajar a la puerta a tiempo sin esperar en la calle. | 3 |
-| 54 | US55 | Visualizar ubicación en tiempo real de mi hijo | Como padre de familia, quiero ver en un mapa la ubicación en tiempo real del vehículo escolar, para tener tranquilidad durante el trayecto de mi hijo. | 3 |
-| 55 | US56 | Recibir confirmación de llegada al colegio | Como padre de familia, quiero recibir una notificación cuando mi hijo llegue al colegio, para confirmar que arribó sano y salvo a su destino. | 2 |
-| 56 | US57 | Recibir notificación de ausencia del estudiante | Como padre de familia, quiero recibir una notificación cuando mi hijo no aborde el vehículo en su parada, para saber que no fue recogido y actuar en consecuencia. | 2 |
-| 57 | US58 | Recibir notificación de incidencia que afecta a mi hijo | Como padre de familia, quiero recibir una notificación cuando ocurra una incidencia que afecte la ruta de mi hijo, para estar informado sin tener que llamar al conductor. | 3 |
+En esta sección se presenta el Product Backlog priorizado por valor de negocio para los distintos actores de la plataforma. Siguiendo las directrices metodológicas, las historias de usuario asociadas al sitio web estático (Landing Page) han sido situadas al inicio para su despliegue y validación temprana desde el Sprint 1. Asimismo, los ítems han sido estimados en Story Points utilizando la escala estándar (1, 2, 3, 5, 8).
+
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+| :---: | :---: | :--- | :--- | :---: |
+| **1** | **US59** | Visualizar propuesta de valor en Landing Page | Como visitante interesado, quiero explorar las secciones informativas de la plataforma en la web, para comprender cómo el sistema automatiza la seguridad del transporte escolar. | 2 |
+| **2** | **US60** | Consultar planes y solicitar contacto | Como visitante del segmento empresa de transporte o colegio, quiero revisar la tabla comparativa de planes y enviar un formulario de contacto, para solicitar una demostración comercial del servicio. | 3 |
+| **3** | **US12** | Visualizar lista de estudiantes por ruta | Como conductor, quiero ver la lista de estudiantes asignados a mi ruta, para saber a quiénes debo recoger. | 2 |
+| **4** | **US13** | Visualizar estudiantes por parada | Como conductor, quiero ver qué estudiantes corresponden a cada parada, para organizar el recojo. | 2 |
+| **5** | **US14** | Registrar abordaje | Como conductor, quiero marcar rápidamente cuándo un estudiante sube al vehículo, para llevar el control del viaje. | 2 |
+| **6** | **US15** | Registrar ausencia | Como conductor, quiero marcar cuándo un estudiante no sube al vehículo, para evitar esperas innecesarias. | 2 |
+| **7** | **US16** | Edición rápida de estado | Como conductor, quiero corregir el estado de un estudiante en caso de error, para mantener la información precisa. | 2 |
+| **8** | **US18** | Confirmación visual rápida | Como conductor, quiero identificar rápidamente quién ya subió y quién no, para tomar decisiones rápidas. | 1 |
+| **9** | **US01** | Registrar abordaje del estudiante | Como conductor, quiero registrar el momento en que un estudiante aborda el vehículo en cada parada, para mantener un registro digital de asistencia. | 3 |
+| **10** | **US19** | Visualizar ruta asignada | Como conductor, quiero visualizar la ruta asignada del día, para conocer el orden del recorrido. | 2 |
+| **11** | **US22** | Marcar parada como completada | Como conductor, quiero marcar una parada como completada, para avanzar en mi ruta de manera ordenada. | 1 |
+| **12** | **US24** | Visualizar estado de la ruta | Como conductor, quiero ver el progreso de mi ruta, para saber cuánto falta por completar. | 2 |
+| **13** | **US36** | Visualizar detalles del vehículo | Como administrador de una empresa de movilidad escolar, quiero seleccionar un vehículo y ver su información, para conocer su estado actual. | 2 |
+| **14** | **US37** | Visualizar estados de los vehículos | Como administrador de una empresa de movilidad escolar, quiero identificar el estado de cada vehículo, para detectar problemas rápidamente. | 2 |
+| **15** | **US38** | Filtrar unidades | Como administrador de una empresa de movilidad escolar, quiero filtrar vehículos por estado o ruta, para enfocarme en lo relevante. | 2 |
+| **16** | **US50** | Visualizar resumen personal de viajes | Como conductor independiente, quiero ver un resumen de mis viajes completados, para hacer seguimiento de mi actividad diaria. | 2 |
+| **17** | **US28** | Seleccionar tipo de incidencia | Como conductor, quiero elegir el tipo de incidencia, para clasificar correctamente el evento. | 2 |
+| **18** | **US29** | Registrar detalle opcional | Como conductor, quiero agregar un comentario opcional, para proporcionar más contexto si es necesario. | 1 |
+| **19** | **US30** | Asociar incidencia con parada o estudiante | Como conductor, quiero vincular la incidencia a una parada o estudiante, para mayor precisión en el registro. | 2 |
+| **20** | **US32** | Visualizar historial de incidencias | Como conductor, quiero ver las incidencias registradas, para hacer seguimiento del recorrido. | 2 |
+| **21** | **US33** | Editar o corregir incidencia | Como conductor, quiero corregir una incidencia en caso de error, para mantener la información precisa. | 2 |
+| **22** | **US26** | Registro rápido de incidencia | Como conductor, quiero registrar una incidencia en pocos pasos, para no distraerme durante el recorrido. | 2 |
+| **23** | **US05** | Registrar incidencia en la ruta | Como conductor, quiero registrar cualquier incidencia que ocurra durante el viaje (retraso, accidente, cambio de ruta), para mantener la trazabilidad del servicio. | 3 |
+| **24** | **US20** | Visualizar paradas en el mapa | Como conductor, quiero ver las paradas de mi ruta en un mapa, para ubicarme fácilmente durante el recorrido. | 3 |
+| **25** | **US03** | Visualizar ruta diaria optimizada | Como conductor, quiero visualizar la ruta del día con el orden de las paradas y los tiempos estimados, para reducir los tiempos de espera y el consumo de combustible. | 3 |
+| **26** | **US21** | Navegación entre paradas | Como conductor, quiero recibir indicaciones para llegar a cada parada, para optimizar mi recorrido. | 3 |
+| **27** | **US23** | Reordenamiento básico de ruta | Como conductor, quiero ajustar el orden de las paradas en caso de imprevistos, para adaptarme a cambios en el recorrido. | 3 |
+| **28** | **US04** | Reordenar ruta por ausencia | Como conductor, quiero que la ruta se reordene automáticamente cuando un estudiante está ausente, para no perder tiempo pasando por una parada vacía. | 3 |
+| **29** | **US09** | Visualizar historial personal de viajes | Como conductor independiente, quiero acceder a mi historial de viajes, puntualidad e incidencias registradas, para evaluar mi desempeño y demostrar mi confiabilidad a los padres. | 3 |
+| **30** | **US51** | Visualizar métricas personales de puntualidad | Como conductor independiente, quiero ver mis métricas de puntualidad, para evaluar mi desempeño y mejorar mi reputación. | 3 |
+| **31** | **US52** | Exportar historial personal de viajes | Como conductor independiente, quiero exportar mi historial de viajes, para compartirlo con padres o empresas que soliciten referencias. | 3 |
+| **32** | **US53** | Visualizar historial personal de incidencias | Como conductor independiente, quiero ver las incidencias que he registrado, para tener trazabilidad de los eventos ocurridos durante mis servicios. | 2 |
+| **33** | **US07** | Visualizar flota completa en el mapa | Como administrador de una empresa de movilidad escolar, quiero visualizar todos mis vehículos activos en un mapa en tiempo real, para supervisar el cumplimiento de rutas sin depender de llamadas telefónicas. | 3 |
+| **34** | **US35** | Visualizar vehículos en el mapa | Como administrador de una empresa de movilidad escolar, quiero ver todos mis vehículos en un mapa en tiempo real, para monitorear su ubicación. | 3 |
+| **35** | **US40** | Visualizar recorrido en tiempo real | Como administrador de una empresa de movilidad escolar, quiero ver el recorrido que realiza cada vehículo, para validar el cumplimiento de la ruta. | 3 |
+| **36** | **US41** | Historial reciente de ubicaciones | Como administrador de una empresa de movilidad escolar, quiero consultar las ubicaciones recientes de un vehículo, para analizar su comportamiento. | 2 |
+| **37** | **US42** | Actualización automática de datos | Como administrador de una empresa de movilidad escolar, quiero que la información se actualice automáticamente, para no tener que recargarla manualmente. | 3 |
+| **38** | **US46** | Filtrar reportes | Como administrador de una empresa de movilidad escolar, quiero aplicar filtros a los reportes, para enfocarme en información específica. | 2 |
+| **39** | **US47** | Incluir incidencias en los reportes | Como administrador de una empresa de movilidad escolar, quiero incluir las incidencias en los reportes, para tener un contexto completo del servicio. | 2 |
+| **40** | **US48** | Resumen general | Como administrador de una empresa de movilidad escolar, quiero ver un resumen general de desempeño, para tomar decisiones rápidas. | 3 |
+| **41** | **US49** | Descarga rápida de reportes recientes | Como administrador de una empresa de movilidad escolar, quiero acceder rápidamente a reportes recientes, para ahorrar tiempo en consultas frecuentes. | 2 |
+| **42** | **US43** | Generar reporte de recorridos | Como administrador de una empresa de movilidad escolar, quiero generar reportes de recorridos realizados, para analizar el cumplimiento de rutas. | 3 |
+| **43** | **US45** | Exportar reportes | Como administrador de una empresa de movilidad escolar, quiero exportar reportes, para compartirlos o analizarlos externamente. | 3 |
+| **44** | **US10** | Exportar reporte de asistencia mensual | Como administrador de una empresa de movilidad escolar, quiero exportar un reporte consolidado de asistencia mensual por estudiante, para agilizar el proceso de facturación a los padres sin errores manuales. | 5 |
+| **45** | **US11** | Generar reporte de puntualidad por unidad | Como administrador de una empresa de movilidad escolar, quiero generar un reporte de puntualidad por conductor/unidad, para evaluar su desempeño y tomar decisiones de mejora o incentivos. | 5 |
+| **46** | **US44** | Generar reporte de desempeño | Como administrador de una empresa de movilidad escolar, quiero visualizar métricas de desempeño de conductores y vehículos, para evaluar la eficiencia operativa. | 5 |
+| **47** | **US54** | Recibir notificación de proximidad | Como padre de familia, quiero recibir una notificación automática cuando el vehículo escolar esté cerca de mi casa, para bajar a la puerta a tiempo sin esperar en la calle. | 3 |
+| **48** | **US55** | Visualizar ubicación en tiempo real de mi hijo | Como padre de familia, quiero ver en un mapa la ubicación en tiempo real del vehículo escolar, para tener tranquilidad durante el trayecto de mi hijo. | 3 |
+| **49** | **US56** | Recibir confirmación de llegada al colegio | Como padre de familia, quiero recibir una notificación cuando mi hijo llegue al colegio, para confirmar que arribó sano y salvo a su destino. | 2 |
+| **50** | **US02** | Notificación automática de ausencia | Como conductor, quiero que el sistema detecte automáticamente cuando un estudiante no se presenta en su parada, para no tener que esperar más de lo necesario ni llamar manualmente al padre. | 3 |
+| **51** | **US57** | Recibir notificación de ausencia del estudiante | Como padre de familia, quiero recibir una notificación cuando mi hijo no aborde el vehículo en su parada, para saber que no fue recogido y actuar en consecuencia. | 2 |
+| **52** | **US08** | Recibir alerta por desviación de ruta | Como administrador de una empresa de movilidad escolar, quiero recibir una alerta cuando un vehículo se desvía significativamente de su ruta establecida, para actuar rápidamente ante posibles incidentes. | 3 |
+| **53** | **US39** | Alertas de desviación | Como administrador de una empresa de movilidad escolar, quiero recibir alertas cuando un vehículo se desvía de su ruta, para actuar oportunamente. | 3 |
+| **54** | **US06** | Notificar a los padres por incidencia | Como sistema, quiero notificar automáticamente a los padres cuando se registra una incidencia que afecta la ruta de sus hijos, para mantenerlos informados sin intervención manual del conductor. | 3 |
+| **55** | **US58** | Recibir notificación de incidencia que afecta a mi hijo | Como padre de familia, quiero recibir una notificación cuando ocurra una incidencia que afecte la ruta de mi hijo, para estar informado sin tener que llamar al conductor. | 3 |
+| **56** | **US31** | Registro automático de hora y ubicación | Como conductor, quiero que el sistema registre automáticamente la hora y la ubicación, para no tener que hacerlo manualmente. | 2 |
+| **57** | **US17** | Funcionalidad sin conexión | Como conductor, quiero poder registrar abordajes sin conexión a internet, para no depender de la señal. | 5 |
+| **58** | **US25** | Funcionalidad de ruta sin conexión | Como conductor, quiero acceder a mi ruta sin conexión a internet, para no depender de la señal. | 5 |
+| **59** | **US34** | Funcionalidad de incidencias sin conexión | Como conductor, quiero registrar incidencias sin conexión, para no depender de la red. | 5 |
+| **60** | **US61** | Endpoint de autenticación y emisión de tokens JWT | Como developer, quiero disponer de un endpoint POST `/api/v1/authentication/sign-in`, para validar credenciales y emitir tokens de sesión estructurados. | 3 |
+| **61** | **US62** | Endpoint para registro de asistencia en un solo toque | Como developer, quiero disponer de un endpoint PUT `/api/v1/attendance-records/{id}`, para actualizar el estado de abordaje y persistir marcas temporales. | 3 |
+| **62** | **US63** | Endpoint para telemetría y geocercas en tiempo real | Como developer, quiero un endpoint POST `/api/v1/trips/{id}/location`, para recibir coordenadas GPS periódicas y disparar alertas de proximidad automáticas. | 5 |
