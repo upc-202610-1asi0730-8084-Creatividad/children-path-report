@@ -567,6 +567,18 @@ Durante el Sprint 2, el equipo desarrolló la arquitectura modular del Frontend 
 
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 
+Durante el Sprint 2 se implementó y validó la ejecución de la primera versión del aplicativo web frontend (**Frontend Web Application**) desarrollado en Vue 3 y Vite. A continuación, se presenta la evidencia de ejecución organizada por vista, Bounded Context implementado y el registro visual de las interfaces operativas:
+
+| Módulo / Bounded Context | Vista / Componente | Descripción de la Evidencia | Captura de Pantalla |
+| :--- | :--- | :--- | :---: |
+| **Dashboard** | Panel General Operativo (`DashboardView.vue`) | Vista principal con tarjetas de métricas, resumen de unidades en tránsito y estado de las rutas activas del día. | ![Dashboard Overview](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/app-dashboard.png) |
+| **Attendance & Assignments** | Control de Abordaje de Estudiantes (`AttendanceView.vue`) | Lista interactiva para registrar el abordaje (`on_board`) y marcar ausencias justificadas o injustificadas en cada parada programada. | ![Control de Abordaje](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/app-attendance.png) |
+| **Fleet & Vehicles** | Catálogo de Flota Escolar (`FleetView.vue`) | Tabla CRUD con el listado de unidades vehiculares, placa, capacidad de estudiantes, modelo y asignación operativa. | ![Gestion de Flota](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/app-fleet.png) |
+| **Drivers** | Directorio de Conductores (`DriversView.vue`) | Listado y tarjetas de perfil de los transportistas escolares con sus datos de contacto y número de licencia de conducir. | ![Directorio de Conductores](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/app-drivers.png) |
+| **Routes & Tracking** | Vista de Ruta y Paradas (`RoutesView.vue`) | Detalle secuencial de paradas con indicación de hora estimada de llegada (ETA) y visualización del recorrido geolocalizado. | ![Seguimiento y Rutas](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/app-routes.png) |
+| **Incidents** | Registro de Incidencias en Ruta (`IncidentsView.vue`) | Formulario reactivo y tabla de historial para registrar imprevistos mecánicos, desvíos autorizados o congestión vehicular. | ![Registro de Incidencias](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/app-incidents.png) |
+| **Companies** | Gestión de Empresas de Transporte (`CompaniesView.vue`) | Panel de administración de datos corporativos, colegios asociados y configuración del servicio de movilidad. | ![Gestion de Empresas](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/app-companies.png) |
+
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 
 | Status |
