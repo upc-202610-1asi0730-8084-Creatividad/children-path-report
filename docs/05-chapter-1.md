@@ -161,9 +161,9 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
 * Conseguiremos una tasa de adopción y consulta diaria activa superior al 75% por parte de los padres de familia registrados dentro del piloto.
 
 **User Assumptions**
-* Padres de familia: Padres y tutores con hijos en edad escolar (colegios inicial, primaria y secundaria) que trabajan o tienen agendas ajustadas, poseen smartphones con acceso a datos móviles y sienten constante preocupación por la seguridad y puntualidad de sus hijos en los trayectos diarios.
-* Conductores de movilidad escolar: Choferes formales o independientes con rutas fijas de colegios que necesitan concentrarse plenamente en el volante sin manipular el celular constantemente para responder consultas de los padres.
-* Administradores de empresas de transporte escolar: Encargados de coordinar múltiples unidades vehiculares que requieren supervisar la puntualidad, cumplimiento de itinerarios y control de asistencia de la flota.
+* Creemos que los padres de familia de colegios privados cuentan con smartphones con conectividad constante y buscan supervisar el trayecto escolar en tiempo real.
+* Creemos que los conductores de movilidad escolar buscan evitar distracciones al volante pero están dispuestos a interactuar con una interfaz mínima de un solo toque.
+* Creemos que los administradores de empresas de transporte escolar requieren supervisar itinerarios, capacidad vehicular y asistencia de forma digital y sin planillas de papel.
 
 
 **User Outcome and Benefit Assumptions**
@@ -209,14 +209,15 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
   **Con** una interfaz táctil simplificada de registro de asistencia en un solo toque.
 
 * **Hipótesis 4:**  
-  **Creemos que** lograremos consolidar a la plataforma como la herramienta operativa estándar del servicio, disminuyendo retrasos y reclamos operativos.  
+  **Creemos que** lograremos una tasa de puntualidad del 92% en rutas escolares y un 90% de renovación de contratos de servicio.  
   **Si** los administradores de movilidad escolar y conductores  
-  **Obtienen** la supervisión centralizada del cumplimiento de itinerarios y la comunicación oportuna de imprevistos o congestión vehicular  
-  **Con** un módulo centralizado de gestión de rutas e incidencias operativas en tiempo real.
+  **Obtienen** la supervisión centralizada del cumplimiento de itinerarios y la resolución proactiva de desvíos y capacidad  
+  **Con** un módulo centralizado de gestión de rutas, contratos y analítica operativa en tiempo real.
 
 #### **1.2.2.4. Lean UX Canvas**
 
-<img width="1142" height="874" alt="children path- lean ux canvas" src="https://github.com/user-attachments/assets/b0bd3e34-d111-4275-833c-fe57021d2272" />
+<img width="1142" height="874" alt="children path - lean ux canvas tb1" src="https://github.com/user-attachments/assets/be17eed4-4024-458e-9719-9a186b5a571e" />
+
 
 Link del artefacto:
 https://miro.com/app/board/uXjVHm5y9BY=/?share_link_id=575806922546
