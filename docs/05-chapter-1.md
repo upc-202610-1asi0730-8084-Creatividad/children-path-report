@@ -216,7 +216,7 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
 
 #### **1.2.2.4. Lean UX Canvas**
 
-<img width="1142" height="874" alt="children path - lean ux caanvas tb1" src="../assets/lean-ux-canvas-tb1.png" />
+![Lean UX Canvas](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/chapter-1/img/children%20path%20-%20lean%20ux%20canvas%20tb1.png)
 
 
 Link del artefacto:
