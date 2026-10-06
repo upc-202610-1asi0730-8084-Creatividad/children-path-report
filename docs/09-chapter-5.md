@@ -335,19 +335,19 @@ Durante este Sprint, el equipo validó la estructura y claridad de la Landing Pa
 
 * **Figura 5.1:** *Hero Section, Simulación de Ruta y Métricas de Confianza (`index.html`).*  
   Encabezado principal con propuesta de valor, navegación institucional, llamado a la acción para solicitud de demostración y widget interactivo de monitoreo de ruta en vivo.  
-  ![Hero Section Children Path](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/landing-hero.png)
+  ![Hero Section Children Path](../assets/chapter-5/Hero-Section.png)
 
 * **Figura 5.2:** *Beneficios Segmentados para Stakeholders y Módulos de Operación ("How ChildrenPath Works").*  
   Cuadrícula con listas de verificación para Familias, Conductores y Colegios, complementada con los módulos de alertas inmediatas, asistencia digital y trazabilidad segura.  
-  ![Beneficios por Stakeholder](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/landing-benefits.png)
+  ![Beneficios por Stakeholder](../assets/chapter-5/Beneficios-Segmentados.png)
 
 * **Figura 5.3:** *Planes de Suscripción Comerciales y Preguntas Frecuentes (FAQ).*  
   Estructura tarifaria comercial diferenciada para Independent Driver, Company y School, junto con el acordeón interactivo de dudas frecuentes implementado en JavaScript.  
-  ![Planes y FAQ Children Path](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/landing-plans-faq.png)
+  ![Planes y FAQ Children Path](../assets/chapter-5/Planes-Suscripcion.png)
 
 * **Figura 5.4:** *Canales de Contacto Directo ("Contact Us") y Pie de Página Institucional.*  
   Tarjeta de contacto con teléfono corporativo, correo de soporte, canal oficial de WhatsApp y pie de página con navegación legal y enlaces institucionales.  
-  ![Contacto y Footer Children Path](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/landing-contact-footer.png)
+  ![Contacto y Footer Children Path](../assets/chapter-5/Canales-Contacto.png)
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 

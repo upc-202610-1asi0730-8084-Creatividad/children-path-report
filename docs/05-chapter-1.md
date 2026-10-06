@@ -69,7 +69,7 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
         <h3>Piero Alejandro Razuri Ucañan</h3>
-        <p><b>Código de Estudiante: U202213484</b> </p>
+        <p><b>Código de Estudiante: u202213484</b> </p>
         <p><b>Edad: 24</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
@@ -105,21 +105,21 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
 
 **Método 5W y 2H**
 
-* **¿Qué?**
-
-  El problema principal es la falta de organización e información durante la ruta del transporte escolar. Actualmente, los padres dependen de comunicarse con los conductores mediante llamadas o mensajes, lo que supone distracciones peligrosas para el conductor y resultan insuficientes para la tranquilidad de los padres. Además, esto no siempre es efectivo y puede generar confusiones cuando el conductor notifica lo que el padre pregunta, posiblemente debido a errores humanos.
-
 * **¿Quién?**
 
   Los más afectados son los padres, especialmente aquellos con hijos en educación básica, que no tienen certeza sobre el transporte de sus hijos, y los conductores de transporte escolar, que deben realizar varias tareas al mismo tiempo, lo que puede llevar a cometer errores involuntarios.
 
-* **¿Cuándo?**
+* **¿Qué?**
 
-  Esta situación ocurre a diario en días escolares durante las horas punta, tanto en el recojo matutino entre las 6:20 a.m. y las 7:10 a.m., como en el regreso vespertino entre las 2:00 p.m. y las 4:00 p.m.
+  El problema principal es la falta de organización e información durante la ruta del transporte escolar. Actualmente, los padres dependen de comunicarse con los conductores mediante llamadas o mensajes, lo que supone distracciones peligrosas para el conductor y resultan insuficientes para la tranquilidad de los padres. Además, esto no siempre es efectivo y puede generar confusiones cuando el conductor notifica lo que el padre pregunta, posiblemente debido a errores humanos.
 
 * **¿Dónde?**
 
   Principalmente en distritos de Lima Metropolitana con alta demanda de transporte escolar y tráfico constante.
+
+* **¿Cuándo?**
+
+  Esta situación ocurre a diario en días escolares durante las horas punta, tanto en el recojo matutino entre las 6:20 a.m. y las 7:10 a.m., como en el regreso vespertino entre las 2:00 p.m. y las 4:00 p.m.
 
 * **¿Por qué?**
 
@@ -216,7 +216,7 @@ En este contexto, el principal problema que buscamos abordar es la falta de form
 
 #### **1.2.2.4. Lean UX Canvas**
 
-<img width="1142" height="874" alt="children path - lean ux canvas tb1" src="https://github.com/user-attachments/assets/be17eed4-4024-458e-9719-9a186b5a571e" />
+<img width="1142" height="874" alt="children path - lean ux caanvas tb1" src="../assets/lean-ux-canvas-tb1.png" />
 
 
 Link del artefacto:

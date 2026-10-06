@@ -154,8 +154,8 @@ Desktop Landing Page:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe1.png" style="max-width:100%; max-height:950px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe1.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe2.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -165,7 +165,7 @@ Desktop Landing Page:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe3.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe3.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
       <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe4.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
@@ -176,7 +176,7 @@ Desktop Landing Page:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe5.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/Landing_Wireframe5.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -214,8 +214,8 @@ Mobile Web Wireframes
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe1.png" style="max-width:100%; max-height:10000px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe1.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe2.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -225,8 +225,8 @@ Mobile Web Wireframes
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe3.png" style="max-width:100%; max-height:3000px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe4.png" style="max-width:100%; max-height:2000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe3.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe4.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -236,8 +236,8 @@ Mobile Web Wireframes
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe5.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe6.png" style="max-width:100%; max-height:3600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe5.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-1/W_Landing_Wireframe6.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -275,8 +275,8 @@ Desktop Mockups
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup1.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup2.png" style="max-width:100%; max-height:700px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup1.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup2.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -285,8 +285,8 @@ Desktop Mockups
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup3.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup4.png" style="max-width:100%; max-height:700px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup3.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup4.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -294,7 +294,7 @@ Desktop Mockups
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup5.png" style="max-width:100%; max-height:500px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Landing_Mockup5.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -306,8 +306,8 @@ Mobile Mockups:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Landing Page_ChildrenPath.png" style="max-width:100%; max-height:8000px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Landing Page_Labeling.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Landing Page_ChildrenPath.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Landing Page_Labeling.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -317,8 +317,8 @@ Mobile Mockups:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Nosotros.png" style="max-width:100%; max-height:3000px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Contact.png" style="max-width:100%; max-height:2000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Nosotros.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Contact.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -328,8 +328,8 @@ Mobile Mockups:
 <div align="center">
   <table>
     <tr>
-      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Log In.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
-      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Terminos y condiciones.png" style="max-width:100%; max-height:3600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Log In.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/section-3-2/Mock_M_Terminos y condiciones.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
     </tr>
   </table>
 </div>
@@ -491,80 +491,81 @@ Hemos priorizado los siguientes tres flujos críticos:
 ### **4.6.1. Design-Level EventStorming**
 
 -Identity and Access Management Bounded Context
-<img width="955" height="1046" alt="Children path- IAM bounded context" src="https://github.com/user-attachments/assets/b12107bd-0834-4507-9eaf-d3c55d33bea6" />
+
+<img width="955" height="1046" alt="Children path- IAM bounded context" src="../assets/chapter-4/section-6-1/identity-and-access-management-bounded-context.png" />
 
 -User profile bounded context
 
-<img width="1201" height="832" alt="Children path - user profiles bounded context" src="https://github.com/user-attachments/assets/51f2dfdc-7dab-46c0-8472-16f7f0b39404" />
+<img width="1201" height="832" alt="Children path - user profiles bounded context" src="../assets/chapter-4/section-6-1/user-profiles-bounded-context.png" />
 
 
 -Subscription and Payments Bounded Context
 
-<img width="1030" height="970" alt="children path - subscription and payments bounded context" src="https://github.com/user-attachments/assets/6281fd27-7b6d-4497-90fe-b0029797cae3" />
+<img width="1030" height="970" alt="children path - subscription and payments bounded context" src="../assets/chapter-4/section-6-1/subscription-and-payments-bounded-context.png" />
 
 
 -Dashboard Bounded Context
 
-<img width="1056" height="946" alt="Children path dashboard bounded context" src="https://github.com/user-attachments/assets/3f700af0-3c97-4569-983f-c168eef3974c" />
+<img width="1056" height="946" alt="Children path dashboard bounded context" src="../assets/chapter-4/section-6-1/dashboard-bounded-context.png" />
 
 
 -Fleet Management Bounded Context
 
-<img width="1014" height="985" alt="children path - Fleet Management Bounded Context" src="https://github.com/user-attachments/assets/9f06d6ca-eb2b-487c-a23b-444b57a6c2de" />
+<img width="1014" height="985" alt="children path - Fleet Management Bounded Context" src="../assets/chapter-4/section-6-1/fleet-management-bounded-context.png" />
 
 
 -Driver Management Bounded Context
 
-<img width="1065" height="938" alt="Children path - Driver Management Bounded context" src="https://github.com/user-attachments/assets/2e6b8361-3c4e-4b1f-b5b7-daf7f03507be" />
+<img width="1065" height="938" alt="Children path - Driver Management Bounded context" src="../assets/chapter-4/section-6-1/driver-management-bounded-context.png" />
 
 
 
 -Route Management Bounded Context
 
-<img width="1049" height="953" alt="Children Path- Route Management Bounded Contexxt" src="https://github.com/user-attachments/assets/1ca2aa3a-dded-4596-a1d2-11180446b9f5" />
+<img width="1049" height="953" alt="Children Path- Route Management Bounded Contexxt" src="../assets/chapter-4/section-6-1/route-management-bounded-context.png" />
 
 
 -Student Management Bounded Context
 
-<img width="1089" height="917" alt="Children path - student management bounded context" src="https://github.com/user-attachments/assets/93d20e06-210a-4f15-beeb-05640407e188" />
+<img width="1089" height="917" alt="Children path - student management bounded context" src="../assets/chapter-4/section-6-1/student-management-bounded-context.png" />
 
 
 
 -Assignment Management Bounded Context
 
-<img width="1089" height="917" alt="Children Path - assignment manegement bounded context" src="https://github.com/user-attachments/assets/7796dab3-4c50-440a-a2ac-62f387e49ea4" />
+<img width="1089" height="917" alt="Children Path - assignment manegement bounded context" src="../assets/chapter-4/section-6-1/assignment-management-bounded-context.png" />
 
 
 -Real-Time Tracking Bounded Contex
 
-<img width="1053" height="949" alt="children path - real-time tracking bounded context" src="https://github.com/user-attachments/assets/44447335-85d1-4887-be47-9f18a5578e1b" />
+<img width="1053" height="949" alt="children path - real-time tracking bounded context" src="../assets/chapter-4/section-6-1/real-time-tracking-bounded-context.png" />
 
 
 -Trip Management Bounded Context
 
-<img width="1037" height="964" alt="children path- trip management bounded context" src="https://github.com/user-attachments/assets/1619a338-ce52-4aa1-9645-98756c6e9971" />
+<img width="1037" height="964" alt="children path- trip management bounded context" src="../assets/chapter-4/section-6-1/trip-management-bounded-context.png" />
 
 
 -Attendance Tracking Bounded Context
 
-<img width="1045" height="956" alt="Children path - attendance tracking bounded context" src="https://github.com/user-attachments/assets/cf54b438-aeb4-4395-8c93-ab0c16a0b5dc" />
+<img width="1045" height="956" alt="Children path - attendance tracking bounded context" src="../assets/chapter-4/section-6-1/attendance-tracking-bounded-context.png" />
 
 
 
 
 -Alerts and Notifications Bounded Context
 
-<img width="1038" height="963" alt="children path- Alerts and Notifications Bounded Context" src="https://github.com/user-attachments/assets/3cdd536e-b18d-4561-b71a-976cabbb0bad" />
+<img width="1038" height="963" alt="children path- Alerts and Notifications Bounded Context" src="../assets/chapter-4/section-6-1/alerts-and-notifications-bounded-context.png" />
 
 
 - Incident Management Bounded Context
 
-<img width="1048" height="954" alt="children path-Incident management Bounded Context" src="https://github.com/user-attachments/assets/4697bc10-df29-44a8-9d4e-aefd43d79e3a" />
+<img width="1048" height="954" alt="children path-Incident management Bounded Context" src="../assets/chapter-4/section-6-1/incident-management-bounded-context.png" />
 
 
 -Analytics and Reports Bounded Context
 
-<img width="1065" height="938" alt="children path- analytics and reports bounded context" src="https://github.com/user-attachments/assets/e1b4bd07-ae0b-4e91-b8e4-b7c2b2939487" />
+<img width="1065" height="938" alt="children path- analytics and reports bounded context" src="../assets/chapter-4/section-6-1/analytics-and-reports-bounded-context.png" />
 
 Link del artefacto en miro: https://miro.com/app/board/uXjVHm5y9BY=/?share_link_id=901895180233
 

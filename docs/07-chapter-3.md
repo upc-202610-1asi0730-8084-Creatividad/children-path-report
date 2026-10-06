@@ -1067,13 +1067,151 @@ En esta sección se definen los requisitos funcionales del sistema mediante Epic
             </td>
             <td style="text-align:center">EP07</td>
         </tr>
+<!-- USER STORY 68 - Sticky Navigation & Smooth Scroll -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US68</td>
+    <td style="text-align:center">Navegación sticky y desplazamiento suave entre secciones</td>
+    <td>Como <strong>visitante del sitio web</strong>, quiero navegar entre las secciones del Landing Page mediante una barra de navegación fija y desplazamiento suave, para acceder rápidamente a la información que me interesa sin perder mi contexto.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante se encuentra en cualquier sección del Landing Page, <strong>cuando</strong> hace clic en un enlace del menú de navegación, <strong>entonces</strong> el sistema desplaza la vista suavemente hasta la sección seleccionada.</li>
+            <li><strong>Dado que</strong> el visitante ha iniciado el desplazamiento hacia abajo, <strong>cuando</strong> supera la altura del Hero, <strong>entonces</strong> la barra de navegación permanece fija en la parte superior de la ventana.</li>
+            <li><strong>Dado que</strong> el visitante navega en un dispositivo móvil, <strong>cuando</strong> abre el menú de navegación, <strong>entonces</strong> el sistema presenta un menú colapsable adaptado al ancho de pantalla.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 69 - CTA Redirection to Web Application -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US69</td>
+    <td style="text-align:center">Redirección de CTAs al Web Application según segmento</td>
+    <td>Como <strong>visitante del sitio web</strong>, quiero que los botones de llamada a la acción (CTA) me dirijan a la vista correspondiente dentro del Web Application según mi perfil, para iniciar la experiencia como padre, conductor o empresa sin pasos redundantes.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante se identifica como padre de familia, <strong>cuando</strong> presiona el CTA "Start as Parent", <strong>entonces</strong> el sistema lo redirige a la vista de registro/inicio de sesión del Web Application para padres.</li>
+            <li><strong>Dado que</strong> el visitante se identifica como conductor, <strong>cuando</strong> presiona el CTA "Start as Driver", <strong>entonces</strong> el sistema lo redirige a la vista de registro/inicio de sesión del Web Application para conductores.</li>
+            <li><strong>Dado que</strong> el visitante representa a una empresa o colegio, <strong>cuando</strong> presiona el CTA "Request Demo", <strong>entonces</strong> el sistema lo redirige al formulario de contacto institucional del Web Application.</li>
+            <li><strong>Dado que</strong> el visitante es recurrente y ya tiene cuenta, <strong>cuando</strong> presiona "Sign In", <strong>entonces</strong> el sistema lo redirige a la vista de autenticación correspondiente.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 70 - Language Switcher (i18n) -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US70</td>
+    <td style="text-align:center">Selector de idioma en el Landing Page (i18n)</td>
+    <td>Como <strong>visitante del sitio web</strong>, quiero cambiar el idioma del Landing Page entre inglés (en_US) y español latinoamericano (es_419), para consumir la información en mi idioma preferido.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante accede al Landing Page, <strong>cuando</strong> la página carga por primera vez, <strong>entonces</strong> el sistema presenta el contenido por defecto en inglés (en_US).</li>
+            <li><strong>Dado que</strong> el visitante interactúa con el selector de idioma, <strong>cuando</strong> selecciona español (es_419), <strong>entonces</strong> el sistema actualiza todos los textos, etiquetas y metadatos del Landing Page al idioma seleccionado sin recargar la página.</li>
+            <li><strong>Dado que</strong> el visitante ha cambiado el idioma, <strong>cuando</strong> navega entre secciones o recarga la página, <strong>entonces</strong> el sistema conserva el idioma seleccionado durante la sesión.</li>
+            <li><strong>Dado que</strong> el visitante regresa al sitio posteriormente, <strong>cuando</strong> accede al Landing Page, <strong>entonces</strong> el sistema recupera la preferencia de idioma previamente almacenada.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 71 - Accessibility (a11y) -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US71</td>
+    <td style="text-align:center">Accesibilidad del Landing Page (a11y)</td>
+    <td>Como <strong>visitante con necesidades de accesibilidad</strong>, quiero que el Landing Page cumpla con atributos ARIA, contraste adecuado y navegación por teclado, para poder consumir la información sin barreras.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante utiliza un lector de pantalla, <strong>cuando</strong> navega por el Landing Page, <strong>entonces</strong> el sistema expone los atributos ARIA (roles, labels, descriptions) en los elementos interactivos.</li>
+            <li><strong>Dado que</strong> el visitante navega únicamente con el teclado, <strong>cuando</strong> presiona la tecla Tab, <strong>entonces</strong> el sistema resalta secuencialmente cada elemento interactivo con un indicador de foco visible.</li>
+            <li><strong>Dado que</strong> el visitante tiene baja visión, <strong>cuando</strong> visualiza el contenido, <strong>entonces</strong> el sistema mantiene un ratio de contraste mínimo de 4.5:1 entre texto y fondo según WCAG 2.1 AA.</li>
+            <li><strong>Dado que</strong> el visitante accede a través de un dispositivo con imágenes desactivadas, <strong>cuando</strong> el navegador carga la página, <strong>entonces</strong> todas las imágenes incluyen el atributo <code>alt</code> con descripción textual.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 72 - About-the-Product Video -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US72</td>
+    <td style="text-align:center">Reproducir el video About-the-Product en el Landing Page</td>
+    <td>Como <strong>visitante del sitio web</strong>, quiero reproducir el video About-the-Product desde el Landing Page, para conocer de forma audiovisual el modelo de negocio y las características principales de Children Path.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante accede a la sección de video del Landing Page, <strong>cuando</strong> la página carga, <strong>entonces</strong> el sistema muestra el reproductor incrustado con el video About-the-Product en formato reproducible.</li>
+            <li><strong>Dado que</strong> el visitante presiona el botón de reproducción, <strong>cuando</strong> el video inicia, <strong>entonces</strong> el sistema reproduce el contenido audiovisual sin salir del Landing Page.</li>
+            <li><strong>Dado que</strong> el visitante accede desde un dispositivo móvil, <strong>cuando</strong> visualiza el video, <strong>entonces</strong> el reproductor se adapta al ancho de pantalla manteniendo la proporción original.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 73 - About-the-Team Video -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US73</td>
+    <td style="text-align:center">Reproducir el video About-the-Team en el Landing Page</td>
+    <td>Como <strong>visitante del sitio web</strong>, quiero reproducir el video About-the-Team desde el Landing Page, para conocer al equipo detrás de Children Path y su proceso de trabajo.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante accede a la sección "Our Team" del Landing Page, <strong>cuando</strong> la página carga, <strong>entonces</strong> el sistema muestra el reproductor incrustado con el video About-the-Team.</li>
+            <li><strong>Dado que</strong> el visitante presiona el botón de reproducción, <strong>cuando</strong> el video inicia, <strong>entonces</strong> el sistema reproduce el contenido sin salir del Landing Page.</li>
+            <li><strong>Dado que</strong> el visitante no puede reproducir el video (por restricciones de red o dispositivo), <strong>cuando</strong> el reproductor falla, <strong>entonces</strong> el sistema muestra un enlace alternativo al video publicado en YouTube.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 74 - Legal Terms, Privacy & Policies -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US74</td>
+    <td style="text-align:center">Acceder a términos, privacidad y políticas legales</td>
+    <td>Como <strong>visitante del sitio web</strong>, quiero acceder a los términos y condiciones, política de privacidad y código de ética desde el footer del Landing Page, para conocer el marco legal y ético bajo el cual opera Children Path.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante se encuentra en el footer del Landing Page, <strong>cuando</strong> revisa los enlaces legales, <strong>entonces</strong> el sistema muestra los accesos a "Terms and Conditions", "Privacy Policy" y "Code of Ethics".</li>
+            <li><strong>Dado que</strong> el visitante presiona cualquiera de los enlaces legales, <strong>cuando</strong> el sistema procesa la acción, <strong>entonces</strong> abre el documento correspondiente en una nueva pestaña del navegador.</li>
+            <li><strong>Dado que</strong> el visitante accede a los términos y condiciones, <strong>cuando</strong> la página carga, <strong>entonces</strong> el sistema presenta el contenido completo redactado conforme al código de ética ACM/IEEE y CIP.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 75 - SEO Tags and Meta Tags -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US75</td>
+    <td style="text-align:center">Optimización SEO y metadatos del Landing Page</td>
+    <td>Como <strong>visitante que llega desde un motor de búsqueda</strong>, quiero que el Landing Page cuente con meta tags y estructura semántica adecuada, para encontrar la información de Children Path fácilmente.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> un buscador indexa el Landing Page, <strong>cuando</strong> analiza la página principal, <strong>entonces</strong> el sistema expone los metadatos Title, Description, Keywords y Author en el <code>&lt;head&gt;</code> del documento.</li>
+            <li><strong>Dado que</strong> el visitante comparte el enlace del Landing Page en redes sociales, <strong>cuando</strong> la plataforma genera la vista previa, <strong>entonces</strong> el sistema muestra el título, descripción e imagen Open Graph configurados.</li>
+            <li><strong>Dado que</strong> el buscador rastrea el sitio, <strong>cuando</strong> indexa el contenido, <strong>entonces</strong> el sistema emplea etiquetas HTML semánticas (header, nav, main, section, article, footer) para estructurar la información.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
+
+<!-- USER STORY 76 - Responsive Design -->
+<tr>
+    <td class="user-story-id" style="text-align:center">US76</td>
+    <td style="text-align:center">Adaptabilidad responsive del Landing Page</td>
+    <td>Como <strong>visitante del sitio web</strong>, quiero que el Landing Page se adapte a las dimensiones de mi dispositivo (desktop, tablet, mobile), para visualizar el contenido de forma clara sin desplazamientos horizontales.</td>
+    <td class="acceptance-criteria">
+        <ul>
+            <li><strong>Dado que</strong> el visitante accede desde un dispositivo móvil, <strong>cuando</strong> el ancho de pantalla es inferior a 768px, <strong>entonces</strong> el sistema reorganiza el contenido en una sola columna vertical sin desbordes horizontales.</li>
+            <li><strong>Dado que</strong> el visitante accede desde una tablet, <strong>cuando</strong> el ancho de pantalla está entre 768px y 1024px, <strong>entonces</strong> el sistema ajusta el layout a dos columnas manteniendo la legibilidad.</li>
+            <li><strong>Dado que</strong> el visitante accede desde un desktop, <strong>cuando</strong> el ancho de pantalla supera los 1024px, <strong>entonces</strong> el sistema muestra el layout completo con todas las secciones en su disposición original.</li>
+            <li><strong>Dado que</strong> el visitante rota su dispositivo, <strong>cuando</strong> cambia entre orientación vertical y horizontal, <strong>entonces</strong> el sistema reacomoda el contenido sin pérdida de información.</li>
+        </ul>
+    </td>
+    <td style="text-align:center">EP00</td>
+</tr>
     </tbody>
 </table>
 
 
 ## **3.2. Impact Mapping**
 
-<img width="1240" height="12991" alt="Impact map 60 (3)" src="https://github.com/user-attachments/assets/bbeff8a8-f5b3-423e-8955-b3df6a8d844d" />
+<img width="1240" height="12991" alt="Impact map 60 (3)" src="../assets/chapter-3/impact-map-60.jpg" />
 
 
 
@@ -1083,7 +1221,7 @@ En esta sección se definen los requisitos funcionales del sistema mediante Epic
 
 En esta sección se presenta el Product Backlog priorizado por valor de negocio para los distintos actores de la plataforma. Siguiendo las directrices metodológicas, las historias de usuario asociadas al sitio web estático (Landing Page) han sido situadas al inicio para su despliegue y validación temprana desde el Sprint 1. Asimismo, los ítems han sido estimados en Story Points utilizando la escala estándar (1, 2, 3, 5, 8).
 
-| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+| # Orden | User Story Id | Título | Descripción | Story Points |
 | :---: | :---: | :--- | :--- | :---: |
 | **1** | **US59** | Visualizar Hero section, métricas y pitch principal | Como visitante del sitio web, quiero visualizar un lema principal claro, métricas de confianza y accesos directos en la cabecera, para entender de inmediato el propósito de Children Path e iniciar mi interacción. | 3 |
 | **2** | **US60** | Explorar beneficios segmentados por rol de usuario | Como visitante (padre de familia, conductor o directivo escolar), quiero consultar las tarjetas de beneficios específicas para mi segmento, para evaluar cómo la solución resuelve mis necesidades particulares. | 2 |
@@ -1091,63 +1229,72 @@ En esta sección se presenta el Product Backlog priorizado por valor de negocio 
 | **4** | **US62** | Consultar planes de suscripción y tarifas comerciales | Como visitante del segmento transportista o directivo, quiero consultar las opciones tarifarias en "Plans for every need", para comparar el alcance según el tamaño de la flota o colegio. | 2 |
 | **5** | **US63** | Revisar testimonios reales y preguntas frecuentes (FAQ) | Como visitante con dudas sobre el servicio, quiero leer testimonios de usuarios activos y desplegar preguntas frecuentes interactivas, para resolver inquietudes técnicas y de cobertura antes de solicitar una demo. | 2 |
 | **6** | **US64** | Solicitar demostración comercial y acceder a canales de contacto | Como visitante interesado, quiero consultar los canales de soporte directo y enlaces en el pie de página, para comunicarme por WhatsApp, correo o teléfono con el equipo de Children Path. | 2 |
-| **7** | **US12** | Visualizar lista de estudiantes por ruta | Como conductor, quiero ver la lista de estudiantes asignados a mi ruta, para saber a quiénes debo recoger. | 2 |
-| **8** | **US13** | Visualizar estudiantes por parada | Como conductor, quiero ver qué estudiantes corresponden a cada parada, para organizar el recojo. | 2 |
-| **9** | **US14** | Registrar abordaje | Como conductor, quiero marcar rápidamente cuándo un estudiante sube al vehículo, para llevar el control del viaje. | 2 |
-| **10** | **US15** | Registrar ausencia | Como conductor, quiero marcar cuándo un estudiante no sube al vehículo, para evitar esperas innecesarias. | 2 |
-| **11** | **US16** | Edición rápida de estado | Como conductor, quiero corregir el estado de un estudiante en caso de error, para mantener la información precisa. | 2 |
-| **12** | **US18** | Confirmación visual rápida | Como conductor, quiero identificar rápidamente quién ya subió y quién no, para tomar decisiones rápidas. | 1 |
-| **13** | **US01** | Registrar abordaje del estudiante | Como conductor, quiero registrar el momento en que un estudiante aborda el vehículo en cada parada, para mantener un registro digital de asistencia. | 3 |
-| **14** | **US19** | Visualizar ruta asignada | Como conductor, quiero visualizar la ruta asignada del día, para conocer el orden del recorrido. | 2 |
-| **15** | **US22** | Marcar parada como completada | Como conductor, quiero marcar una parada como completada, para avanzar en mi ruta de manera ordenada. | 1 |
-| **16** | **US24** | Visualizar estado de la ruta | Como conductor, quiero ver el progreso de mi ruta, para saber cuánto falta por completar. | 2 |
-| **17** | **US36** | Visualizar detalles del vehículo | Como administrador de una empresa de movilidad escolar, quiero seleccionar un vehículo y ver su información, para conocer su estado actual. | 2 |
-| **18** | **US37** | Visualizar estados de los vehículos | Como administrador de una empresa de movilidad escolar, quiero identificar el estado de cada vehículo, para detectar problemas rápidamente. | 2 |
-| **19** | **US38** | Filtrar unidades | Como administrador de una empresa de movilidad escolar, quiero filtrar vehículos por estado o ruta, para enfocarme en lo relevante. | 2 |
-| **20** | **US50** | Visualizar resumen personal de viajes | Como conductor independiente, quiero ver un resumen de mis viajes completados, para hacer seguimiento de mi actividad diaria. | 2 |
-| **21** | **US28** | Seleccionar tipo de incidencia | Como conductor, quiero elegir el tipo de incidencia, para clasificar correctamente el evento. | 2 |
-| **22** | **US29** | Registrar detalle opcional | Como conductor, quiero agregar un comentario opcional, para proporcionar más contexto si es necesario. | 1 |
-| **23** | **US30** | Asociar incidencia con parada o estudiante | Como conductor, quiero vincular la incidencia a una parada o estudiante, para mayor precisión en el registro. | 2 |
-| **24** | **US32** | Visualizar historial de incidencias | Como conductor, quiero ver las incidencias registradas, para hacer seguimiento del recorrido. | 2 |
-| **25** | **US33** | Editar o corregir incidencia | Como conductor, quiero corregir una incidencia en caso de error, para mantener la información precisa. | 2 |
-| **26** | **US26** | Registro rápido de incidencia | Como conductor, quiero registrar una incidencia en pocos pasos, para no distraerme durante el recorrido. | 2 |
-| **27** | **US05** | Registrar incidencia en la ruta | Como conductor, quiero registrar cualquier incidencia que ocurra durante el viaje (retraso, accidente, cambio de ruta), para mantener la trazabilidad del servicio. | 3 |
-| **28** | **US20** | Visualizar paradas en el mapa | Como conductor, quiero ver las paradas de mi ruta en un mapa, para ubicarme fácilmente durante el recorrido. | 3 |
-| **29** | **US03** | Visualizar ruta diaria optimizada | Como conductor, quiero visualizar la ruta del día con el orden de las paradas y los tiempos estimados, para reducir los tiempos de espera y el consumo de combustible. | 3 |
-| **30** | **US21** | Navegación entre paradas | Como conductor, quiero recibir indicaciones para llegar a cada parada, para optimizar mi recorrido. | 3 |
-| **31** | **US23** | Reordenamiento básico de ruta | Como conductor, quiero ajustar el orden de las paradas en caso de imprevistos, para adaptarme a cambios en el recorrido. | 3 |
-| **32** | **US04** | Reordenar ruta por ausencia | Como conductor, quiero que la ruta se reordene automáticamente cuando un estudiante está ausente, para no perder tiempo pasando por una parada vacía. | 3 |
-| **33** | **US09** | Visualizar historial personal de viajes | Como conductor independiente, quiero acceder a mi historial de viajes, puntualidad e incidencias registradas, para evaluar mi desempeño y demostrar mi confiabilidad a los padres. | 3 |
-| **34** | **US51** | Visualizar métricas personales de puntualidad | Como conductor independiente, quiero ver mis métricas de puntualidad, para evaluar mi desempeño y mejorar mi reputación. | 3 |
-| **35** | **US52** | Exportar historial personal de viajes | Como conductor independiente, quiero exportar mi historial de viajes, para compartirlo con padres o empresas que soliciten referencias. | 3 |
-| **36** | **US53** | Visualizar historial personal de incidencias | Como conductor independiente, quiero ver las incidencias que he registrado, para tener trazabilidad de los eventos ocurridos durante mis servicios. | 2 |
-| **37** | **US07** | Visualizar flota completa en el mapa | Como administrador de una empresa de movilidad escolar, quiero visualizar todos mis vehículos activos en un mapa en tiempo real, para supervisar el cumplimiento de rutas sin depender de llamadas telefónicas. | 3 |
-| **38** | **US35** | Visualizar vehículos en el mapa | Como administrador de una empresa de movilidad escolar, quiero ver todos mis vehículos en un mapa en tiempo real, para monitorear su ubicación. | 3 |
-| **39** | **US40** | Visualizar recorrido en tiempo real | Como administrador de una empresa de movilidad escolar, quiero ver el recorrido que realiza cada vehículo, para validar el cumplimiento de la ruta. | 3 |
-| **40** | **US41** | Historial reciente de ubicaciones | Como administrador de una empresa de movilidad escolar, quiero consultar las ubicaciones recientes de un vehículo, para analizar su comportamiento. | 2 |
-| **41** | **US42** | Actualización automática de datos | Como administrador de una empresa de movilidad escolar, quiero que la información se actualice automáticamente, para no tener que recargarla manualmente. | 3 |
-| **42** | **US46** | Filtrar reportes | Como administrador de una empresa de movilidad escolar, quiero aplicar filtros a los reportes, para enfocarme en información específica. | 2 |
-| **43** | **US47** | Incluir incidencias en los reportes | Como administrador de una empresa de movilidad escolar, quiero incluir las incidencias en los reportes, para tener un contexto completo del servicio. | 2 |
-| **44** | **US48** | Resumen general | Como administrador de una empresa de movilidad escolar, quiero ver un resumen general de desempeño, para tomar decisiones rápidas. | 3 |
-| **45** | **US49** | Descarga rápida de reportes recientes | Como administrador de una empresa de movilidad escolar, quiero acceder rápidamente a reportes recientes, para ahorrar tiempo en consultas frecuentes. | 2 |
-| **46** | **US43** | Generar reporte de recorridos | Como administrador de una empresa de movilidad escolar, quiero generar reportes de recorridos realizados, para analizar el cumplimiento de rutas. | 3 |
-| **47** | **US45** | Exportar reportes | Como administrador de una empresa de movilidad escolar, quiero exportar reportes, para compartirlos o analizarlos externamente. | 3 |
-| **48** | **US10** | Exportar reporte de asistencia mensual | Como administrador de una empresa de movilidad escolar, quiero exportar un reporte consolidado de asistencia mensual por estudiante, para agilizar el proceso de facturación a los padres sin errores manuales. | 5 |
-| **49** | **US11** | Generar reporte de puntualidad por unidad | Como administrador de una empresa de movilidad escolar, quiero generar un reporte de puntualidad por conductor/unidad, para evaluar su desempeño y tomar decisiones de mejora o incentivos. | 5 |
-| **50** | **US44** | Generar reporte de desempeño | Como administrador de una empresa de movilidad escolar, quiero visualizar métricas de desempeño de conductores y vehículos, para evaluar la eficiencia operativa. | 5 |
-| **51** | **US54** | Recibir notificación de proximidad | Como padre de familia, quiero recibir una notificación automática cuando el vehículo escolar esté cerca de mi casa, para bajar a la puerta a tiempo sin esperar en la calle. | 3 |
-| **52** | **US55** | Visualizar ubicación en tiempo real de mi hijo | Como padre de familia, quiero ver en un mapa la ubicación en tiempo real del vehículo escolar, para tener tranquilidad durante el trayecto de mi hijo. | 3 |
-| **53** | **US56** | Recibir confirmación de llegada al colegio | Como padre de familia, quiero recibir una notificación cuando mi hijo llegue al colegio, para confirmar que arribó sano y salvo a su destino. | 2 |
-| **54** | **US02** | Notificación automática de ausencia | Como conductor, quiero que el sistema detecte automáticamente cuando un estudiante no se presenta en su parada, para no tener que esperar más de lo necesario ni llamar manualmente al padre. | 3 |
-| **55** | **US57** | Recibir notificación de ausencia del estudiante | Como padre de familia, quiero recibir una notificación cuando mi hijo no aborde el vehículo en su parada, para saber que no fue recogido y actuar en consecuencia. | 2 |
-| **56** | **US08** | Recibir alerta por desviación de ruta | Como administrador de una empresa de movilidad escolar, quiero recibir una alerta cuando un vehículo se desvía significativamente de su ruta establecida, para actuar rápidamente ante posibles incidentes. | 3 |
-| **57** | **US39** | Alertas de desviación | Como administrador de una empresa de movilidad escolar, quiero recibir alertas cuando un vehículo se desvía de su ruta, para actuar oportunamente. | 3 |
-| **58** | **US06** | Notificar a los padres por incidencia | Como sistema, quiero notificar automáticamente a los padres cuando se registra una incidencia que afecta la ruta de sus hijos, para mantenerlos informados sin intervención manual del conductor. | 3 |
-| **59** | **US58** | Recibir notificación de incidencia que afecta a mi hijo | Como padre de familia, quiero recibir una notificación cuando ocurra una incidencia que afecte la ruta de mi hijo, para estar informado sin tener que llamar al conductor. | 3 |
-| **60** | **US31** | Registro automático de hora y ubicación | Como conductor, quiero que el sistema registre automáticamente la hora y la ubicación, para no tener que hacerlo manualmente. | 2 |
-| **61** | **US17** | Funcionalidad sin conexión | Como conductor, quiero poder registrar abordajes sin conexión a internet, para no depender de la señal. | 5 |
-| **62** | **US25** | Funcionalidad de ruta sin conexión | Como conductor, quiero acceder a mi ruta sin conexión a internet, para no depender de la señal. | 5 |
-| **63** | **US34** | Funcionalidad de incidencias sin conexión | Como conductor, quiero registrar incidencias sin conexión, para no depender de la red. | 5 |
-| **64** | **US65** | Endpoint de autenticación y emisión de tokens JWT | Como developer, quiero disponer de un endpoint POST `/api/v1/authentication/sign-in`, para validar credenciales y emitir tokens de sesión estructurados. | 3 |
-| **65** | **US66** | Endpoint para registro de asistencia en un solo toque | Como developer, quiero disponer de un endpoint PUT `/api/v1/attendance-records/{id}`, para actualizar el estado de abordaje y persistir marcas temporales. | 3 |
-| **66** | **US67** | Endpoint para telemetría y geocercas en tiempo real | Como developer, quiero un endpoint POST `/api/v1/trips/{id}/location`, para recibir coordenadas GPS periódicas y disparar alertas de proximidad automáticas. | 5 |
+| **7** | **US68** | Navegación sticky y desplazamiento suave entre secciones | Como visitante del sitio web, quiero navegar entre las secciones del Landing Page mediante una barra de navegación fija y desplazamiento suave, para acceder rápidamente a la información que me interesa sin perder mi contexto. | 3 |
+| **8** | **US69** | Redirección de CTAs al Web Application según segmento | Como visitante del sitio web, quiero que los botones de llamada a la acción (CTA) me dirijan a la vista correspondiente dentro del Web Application según mi perfil, para iniciar la experiencia como padre, conductor o empresa sin pasos redundantes. | 5 |
+| **9** | **US70** | Selector de idioma en el Landing Page (i18n) | Como visitante del sitio web, quiero cambiar el idioma del Landing Page entre inglés (en_US) y español latinoamericano (es_419), para consumir la información en mi idioma preferido. | 5 |
+| **10** | **US71** | Accesibilidad del Landing Page (a11y) | Como visitante con necesidades de accesibilidad, quiero que el Landing Page cumpla con atributos ARIA, contraste adecuado y navegación por teclado, para poder consumir la información sin barreras. | 5 |
+| **11** | **US72** | Reproducir el video About-the-Product en el Landing Page | Como visitante del sitio web, quiero reproducir el video About-the-Product desde el Landing Page, para conocer de forma audiovisual el modelo de negocio y las características principales de Children Path. | 2 |
+| **12** | **US73** | Reproducir el video About-the-Team en el Landing Page | Como visitante del sitio web, quiero reproducir el video About-the-Team desde el Landing Page, para conocer al equipo detrás de Children Path y su proceso de trabajo. | 2 |
+| **13** | **US74** | Acceder a términos, privacidad y políticas legales | Como visitante del sitio web, quiero acceder a los términos y condiciones, política de privacidad y código de ética desde el footer del Landing Page, para conocer el marco legal y ético bajo el cual opera Children Path. | 2 |
+| **14** | **US75** | Optimización SEO y metadatos del Landing Page | Como visitante que llega desde un motor de búsqueda, quiero que el Landing Page cuente con meta tags y estructura semántica adecuada, para encontrar la información de Children Path fácilmente. | 2 |
+| **15** | **US76** | Adaptabilidad responsive del Landing Page | Como visitante del sitio web, quiero que el Landing Page se adapte a las dimensiones de mi dispositivo (desktop, tablet, mobile), para visualizar el contenido de forma clara sin desplazamientos horizontales. | 3 |
+| **16** | **US12** | Visualizar lista de estudiantes por ruta | Como conductor, quiero ver la lista de estudiantes asignados a mi ruta, para saber a quiénes debo recoger. | 2 |
+| **17** | **US13** | Visualizar estudiantes por parada | Como conductor, quiero ver qué estudiantes corresponden a cada parada, para organizar el recojo. | 2 |
+| **18** | **US14** | Registrar abordaje | Como conductor, quiero marcar rápidamente cuándo un estudiante sube al vehículo, para llevar el control del viaje. | 2 |
+| **19** | **US15** | Registrar ausencia | Como conductor, quiero marcar cuándo un estudiante no sube al vehículo, para evitar esperas innecesarias. | 2 |
+| **20** | **US16** | Edición rápida de estado | Como conductor, quiero corregir el estado de un estudiante en caso de error, para mantener la información precisa. | 2 |
+| **21** | **US18** | Confirmación visual rápida | Como conductor, quiero identificar rápidamente quién ya subió y quién no, para tomar decisiones rápidas. | 1 |
+| **22** | **US01** | Registrar abordaje del estudiante | Como conductor, quiero registrar el momento en que un estudiante aborda el vehículo en cada parada, para mantener un registro digital de asistencia. | 3 |
+| **23** | **US19** | Visualizar ruta asignada | Como conductor, quiero visualizar la ruta asignada del día, para conocer el orden del recorrido. | 2 |
+| **24** | **US22** | Marcar parada como completada | Como conductor, quiero marcar una parada como completada, para avanzar en mi ruta de manera ordenada. | 1 |
+| **25** | **US24** | Visualizar estado de la ruta | Como conductor, quiero ver el progreso de mi ruta, para saber cuánto falta por completar. | 2 |
+| **26** | **US36** | Visualizar detalles del vehículo | Como administrador de una empresa de movilidad escolar, quiero seleccionar un vehículo y ver su información, para conocer su estado actual. | 2 |
+| **27** | **US37** | Visualizar estados de los vehículos | Como administrador de una empresa de movilidad escolar, quiero identificar el estado de cada vehículo, para detectar problemas rápidamente. | 2 |
+| **28** | **US38** | Filtrar unidades | Como administrador de una empresa de movilidad escolar, quiero filtrar vehículos por estado o ruta, para enfocarme en lo relevante. | 2 |
+| **29** | **US50** | Visualizar resumen personal de viajes | Como conductor independiente, quiero ver un resumen de mis viajes completados, para hacer seguimiento de mi actividad diaria. | 2 |
+| **30** | **US28** | Seleccionar tipo de incidencia | Como conductor, quiero elegir el tipo de incidencia, para clasificar correctamente el evento. | 2 |
+| **31** | **US29** | Registrar detalle opcional | Como conductor, quiero agregar un comentario opcional, para proporcionar más contexto si es necesario. | 1 |
+| **32** | **US30** | Asociar incidencia con parada o estudiante | Como conductor, quiero vincular la incidencia a una parada o estudiante, para mayor precisión en el registro. | 2 |
+| **33** | **US32** | Visualizar historial de incidencias | Como conductor, quiero ver las incidencias registradas, para hacer seguimiento del recorrido. | 2 |
+| **34** | **US33** | Editar o corregir incidencia | Como conductor, quiero corregir una incidencia en caso de error, para mantener la información precisa. | 2 |
+| **35** | **US26** | Registro rápido de incidencia | Como conductor, quiero registrar una incidencia en pocos pasos, para no distraerme durante el recorrido. | 2 |
+| **36** | **US05** | Registrar incidencia en la ruta | Como conductor, quiero registrar cualquier incidencia que ocurra durante el viaje (retraso, accidente, cambio de ruta), para mantener la trazabilidad del servicio. | 3 |
+| **37** | **US20** | Visualizar paradas en el mapa | Como conductor, quiero ver las paradas de mi ruta en un mapa, para ubicarme fácilmente durante el recorrido. | 3 |
+| **38** | **US03** | Visualizar ruta diaria optimizada | Como conductor, quiero visualizar la ruta del día con el orden de las paradas y los tiempos estimados, para reducir los tiempos de espera y el consumo de combustible. | 3 |
+| **39** | **US21** | Navegación entre paradas | Como conductor, quiero recibir indicaciones para llegar a cada parada, para optimizar mi recorrido. | 3 |
+| **40** | **US23** | Reordenamiento básico de ruta | Como conductor, quiero ajustar el orden de las paradas en caso de imprevistos, para adaptarme a cambios en el recorrido. | 3 |
+| **41** | **US04** | Reordenar ruta por ausencia | Como conductor, quiero que la ruta se reordene automáticamente cuando un estudiante está ausente, para no perder tiempo pasando por una parada vacía. | 3 |
+| **42** | **US09** | Visualizar historial personal de viajes | Como conductor independiente, quiero acceder a mi historial de viajes, puntualidad e incidencias registradas, para evaluar mi desempeño y demostrar mi confiabilidad a los padres. | 3 |
+| **43** | **US51** | Visualizar métricas personales de puntualidad | Como conductor independiente, quiero ver mis métricas de puntualidad, para evaluar mi desempeño y mejorar mi reputación. | 3 |
+| **44** | **US52** | Exportar historial personal de viajes | Como conductor independiente, quiero exportar mi historial de viajes, para compartirlo con padres o empresas que soliciten referencias. | 3 |
+| **45** | **US53** | Visualizar historial personal de incidencias | Como conductor independiente, quiero ver las incidencias que he registrado, para tener trazabilidad de los eventos ocurridos durante mis servicios. | 2 |
+| **46** | **US07** | Visualizar flota completa en el mapa | Como administrador de una empresa de movilidad escolar, quiero visualizar todos mis vehículos activos en un mapa en tiempo real, para supervisar el cumplimiento de rutas sin depender de llamadas telefónicas. | 3 |
+| **47** | **US35** | Visualizar vehículos en el mapa | Como administrador de una empresa de movilidad escolar, quiero ver todos mis vehículos en un mapa en tiempo real, para monitorear su ubicación. | 3 |
+| **48** | **US40** | Visualizar recorrido en tiempo real | Como administrador de una empresa de movilidad escolar, quiero ver el recorrido que realiza cada vehículo, para validar el cumplimiento de la ruta. | 3 |
+| **49** | **US41** | Historial reciente de ubicaciones | Como administrador de una empresa de movilidad escolar, quiero consultar las ubicaciones recientes de un vehículo, para analizar su comportamiento. | 2 |
+| **50** | **US42** | Actualización automática de datos | Como administrador de una empresa de movilidad escolar, quiero que la información se actualice automáticamente, para no tener que recargarla manualmente. | 3 |
+| **51** | **US46** | Filtrar reportes | Como administrador de una empresa de movilidad escolar, quiero aplicar filtros a los reportes, para enfocarme en información específica. | 2 |
+| **52** | **US47** | Incluir incidencias en los reportes | Como administrador de una empresa de movilidad escolar, quiero incluir las incidencias en los reportes, para tener un contexto completo del servicio. | 2 |
+| **53** | **US48** | Resumen general | Como administrador de una empresa de movilidad escolar, quiero ver un resumen general de desempeño, para tomar decisiones rápidas. | 3 |
+| **54** | **US49** | Descarga rápida de reportes recientes | Como administrador de una empresa de movilidad escolar, quiero acceder rápidamente a reportes recientes, para ahorrar tiempo en consultas frecuentes. | 2 |
+| **55** | **US43** | Generar reporte de recorridos | Como administrador de una empresa de movilidad escolar, quiero generar reportes de recorridos realizados, para analizar el cumplimiento de rutas. | 3 |
+| **56** | **US45** | Exportar reportes | Como administrador de una empresa de movilidad escolar, quiero exportar reportes, para compartirlos o analizarlos externamente. | 3 |
+| **57** | **US10** | Exportar reporte de asistencia mensual | Como administrador de una empresa de movilidad escolar, quiero exportar un reporte consolidado de asistencia mensual por estudiante, para agilizar el proceso de facturación a los padres sin errores manuales. | 5 |
+| **58** | **US11** | Generar reporte de puntualidad por unidad | Como administrador de una empresa de movilidad escolar, quiero generar un reporte de puntualidad por conductor/unidad, para evaluar su desempeño y tomar decisiones de mejora o incentivos. | 5 |
+| **59** | **US44** | Generar reporte de desempeño | Como administrador de una empresa de movilidad escolar, quiero visualizar métricas de desempeño de conductores y vehículos, para evaluar la eficiencia operativa. | 5 |
+| **60** | **US54** | Recibir notificación de proximidad | Como padre de familia, quiero recibir una notificación automática cuando el vehículo escolar esté cerca de mi casa, para bajar a la puerta a tiempo sin esperar en la calle. | 3 |
+| **61** | **US55** | Visualizar ubicación en tiempo real de mi hijo | Como padre de familia, quiero ver en un mapa la ubicación en tiempo real del vehículo escolar, para tener tranquilidad durante el trayecto de mi hijo. | 3 |
+| **62** | **US56** | Recibir confirmación de llegada al colegio | Como padre de familia, quiero recibir una notificación cuando mi hijo llegue al colegio, para confirmar que arribó sano y salvo a su destino. | 2 |
+| **63** | **US02** | Notificación automática de ausencia | Como conductor, quiero que el sistema detecte automáticamente cuando un estudiante no se presenta en su parada, para no tener que esperar más de lo necesario ni llamar manualmente al padre. | 3 |
+| **64** | **US57** | Recibir notificación de ausencia del estudiante | Como padre de familia, quiero recibir una notificación cuando mi hijo no aborde el vehículo en su parada, para saber que no fue recogido y actuar en consecuencia. | 2 |
+| **65** | **US08** | Recibir alerta por desviación de ruta | Como administrador de una empresa de movilidad escolar, quiero recibir una alerta cuando un vehículo se desvía significativamente de su ruta establecida, para actuar rápidamente ante posibles incidentes. | 3 |
+| **66** | **US39** | Alertas de desviación | Como administrador de una empresa de movilidad escolar, quiero recibir alertas cuando un vehículo se desvía de su ruta, para actuar oportunamente. | 3 |
+| **67** | **US06** | Notificar a los padres por incidencia | Como sistema, quiero notificar automáticamente a los padres cuando se registra una incidencia que afecta la ruta de sus hijos, para mantenerlos informados sin intervención manual del conductor. | 3 |
+| **68** | **US58** | Recibir notificación de incidencia que afecta a mi hijo | Como padre de familia, quiero recibir una notificación cuando ocurra una incidencia que afecte la ruta de mi hijo, para estar informado sin tener que llamar al conductor. | 3 |
+| **69** | **US31** | Registro automático de hora y ubicación | Como conductor, quiero que el sistema registre automáticamente la hora y la ubicación, para no tener que hacerlo manualmente. | 2 |
+| **70** | **US17** | Funcionalidad sin conexión | Como conductor, quiero poder registrar abordajes sin conexión a internet, para no depender de la señal. | 5 |
+| **71** | **US25** | Funcionalidad de ruta sin conexión | Como conductor, quiero acceder a mi ruta sin conexión a internet, para no depender de la señal. | 5 |
+| **72** | **US34** | Funcionalidad de incidencias sin conexión | Como conductor, quiero registrar incidencias sin conexión, para no depender de la red. | 5 |
+| **73** | **US65** | Endpoint de autenticación y emisión de tokens JWT | Como developer, quiero disponer de un endpoint POST `/api/v1/authentication/sign-in`, para validar credenciales y emitir tokens de sesión estructurados. | 3 |
+| **74** | **US66** | Endpoint para registro de asistencia en un solo toque | Como developer, quiero disponer de un endpoint PUT `/api/v1/attendance-records/{id}`, para actualizar el estado de abordaje y persistir marcas temporales. | 3 |
+| **75** | **US67** | Endpoint para telemetría y geocercas en tiempo real | Como developer, quiero un endpoint POST `/api/v1/trips/{id}/location`, para recibir coordenadas GPS periódicas y disparar alertas de proximidad automáticas. | 5 |

@@ -287,7 +287,7 @@ Se presentan, se pide consentimiento para entrevistar al participante y se comie
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista1-s1.png" alt="screenshot-interview-carlos-mansilla" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista1-s1.png" alt="screenshot-interview-carlos-mansilla" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -343,7 +343,7 @@ Carlos es un conductor de transporte escolar con poca experiencia en el rubro. E
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista2-s1.png" alt="screenshot-interview-mateo-de-mendiburu" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista2-s1.png" alt="screenshot-interview-mateo-de-mendiburu" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -399,7 +399,7 @@ Mateo es un conductor con aproximadamente dos años de experiencia que opera en 
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista3-s1.png" alt="screenshot-interview-joao-jimenez" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista3-s1.png" alt="screenshot-interview-joao-jimenez" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -457,7 +457,7 @@ Joao es un conductor con varios años de experiencia que organiza sus rutas prin
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista1-s2.png" alt="screenshot-interview-dery-estrella" width="150">
+        <img src="../assets/chapter-2/interviews/entrevista1-s2.png" alt="screenshot-interview-dery-estrella" width="150" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -513,7 +513,7 @@ Dery Estrella Perez es dueña y conductora de una pequeña empresa familiar con 
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista2-s2.png" alt="screenshot-interview-cheyla-paredes" width="150">
+        <img src="../assets/chapter-2/interviews/entrevista2-s2.png" alt="screenshot-interview-cheyla-paredes" width="150" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -569,7 +569,7 @@ Cheyla administra una empresa en Santa Clara con 15 minibuses que operan en La M
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista3-s2.png" alt="screenshot-interview-luis-becerra" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista3-s2.png" alt="screenshot-interview-luis-becerra" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -635,7 +635,7 @@ Luis, de 25 años, es coordinador de operaciones en Rutas Escolares S.A., con 10
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista1-s3.png" alt="screenshot-interview-Pamela-Paredes" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista1-s3.png" alt="screenshot-interview-Pamela-Paredes" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -698,7 +698,7 @@ Pamela, madre de 41 años residente de Santa Anita, organiza el transporte de su
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista2-s3.png" alt="screenshot-interview-Gabriela" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista2-s3.png" alt="screenshot-interview-Gabriela" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -762,7 +762,7 @@ Gabriela, de 35 años, residente de Magdalena, cuenta desde años con un conduct
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista3-s3.png" alt="screenshot-interview-Alejandro" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista3-s3.png" alt="screenshot-interview-Alejandro" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -826,7 +826,7 @@ Alejandro, de 34 años y residente de Surco, es padre de un niño de 6 años en 
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="../assets/chapter-2/interviews/entrevista4-s3.png" alt="screenshot-interview-Eduardo-Osorio" width="300">
+        <img src="../assets/chapter-2/interviews/entrevista4-s3.png" alt="screenshot-interview-Eduardo-Osorio" width="200" style="max-width: 100%; height: auto;">
       </td>
     </tr>
   </tbody>
@@ -1508,7 +1508,6 @@ El análisis de la User Task Matrix muestra una clara diferencia en las necesida
 
 Existe una clara diferencia entre los tres, pero también se revela un punto común clave: la comunicación entre los actores. Los Segmentos 1, 2 y 3 presentan una alta frecuencia en el envío y la recepción de información, lo que genera una carga operativa significativa. En el caso de los padres, esta carga se traduce en ansiedad y dependencia del celular; en el de los conductores, en distracciones al volante; y en el de las empresas, en horas perdidas coordinando manualmente. Esta coincidencia confirma que la automatización de las notificaciones de proximidad y el registro digital de asistencia abordan directamente el problema compartido por los tres segmentos, ya que reducen la necesidad de llamadas y mensajes. De esta manera, el conductor puede concentrarse en manejar sin distracciones, el administrador deja de depender de la coordinación manual y el padre obtiene la tranquilidad que busca, cumpliendo así con el objetivo central de la solución.
 
-
 ### **2.3.3. User Journey Mapping**
 
 **Segmento 1: Conductores Independientes**
@@ -1559,7 +1558,7 @@ El análisis del entorno y las emociones de María revela que su principal fuent
 
 ## **2.4. Big Picture Event Storming**
 
-<img width="1540" height="649" alt="children path- big picture event storming tb1" src="https://github.com/user-attachments/assets/c6dda991-a57c-4ed2-9e77-61d3a4162466" />
+<img width="1540" height="649" alt="children path- big picture event storming tb1" src="../assets/chapter-2/event-storming.png" width="600" />
 
 Link del artefacto: https://miro.com/app/board/uXjVHm5y9BY=/?share_link_id=262321108190
 
