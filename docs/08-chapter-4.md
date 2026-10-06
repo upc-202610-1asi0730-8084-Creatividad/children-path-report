@@ -512,6 +512,8 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 <img width="1065" height="938" alt="children path- analytics and reports bounded context" src="https://github.com/user-attachments/assets/e1b4bd07-ae0b-4e91-b8e4-b7c2b2939487" />
 
+Link del artefacto en miro: https://miro.com/app/board/uXjVHm5y9BY=/?share_link_id=901895180233
+
 
 ### **4.6.2. Software Architecture Context Diagram**
 
