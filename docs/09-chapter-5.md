@@ -588,6 +588,14 @@ Durante el Sprint 2 se implementó y validó la ejecución de la primera versió
 
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 
+
+A continuación, se detalla la evidencia técnica del despliegue en producción y ejecución del incremento de software correspondiente al Sprint 2, abarcando la versión consolidada del portal público de captación y el despliegue en la nube de la aplicación web:
+
+| Aplicativo / Entregable | Plataforma de Despliegue | Entorno | URL Pública del Despliegue | Evidencia de Operación |
+| :--- | :--- | :---: | :--- | :--- |
+| **Landing Page** (Nueva Versión) | GitHub Pages | Producción | [https://upc-202610-1asi0730-8084-creatividad.github.io/children-path-landing-page/](https://upc-202610-1asi0730-8084-creatividad.github.io/children-path-landing-page/) | Sitio web estático desplegado mediante pipeline de GitHub Actions, con certificado SSL/TLS activo y enlace de redirección funcional hacia el acceso del aplicativo. |
+| **Frontend Web Application** (v0.1.0) | Firebase Hosting (Google Cloud) | Producción | [https://children-path-4d5c3.web.app/iam](https://children-path-4d5c3.web.app/iam) | Aplicación SPA desarrollada en Vue 3 y Vite desplegada en la infraestructura global de Firebase con CDN y HTTPS, permitiendo la navegación interactiva a través de los Bounded Contexts y el Dashboard operativo (`/app/dashboard`). |
+
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 
 Durante el desarrollo del Sprint 2, el equipo consolidó las siguientes lecciones aprendidas y prácticas de ingeniería frontend:
