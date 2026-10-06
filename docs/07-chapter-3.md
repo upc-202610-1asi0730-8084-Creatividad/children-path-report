@@ -1211,8 +1211,8 @@ En esta sección se definen los requisitos funcionales del sistema mediante Epic
 
 ## **3.2. Impact Mapping**
 
-<img width="1240" height="12991" alt="Impact map 60 (3)" src="../assets/chapter-3/impact-map-60.jpg" />
 
+![Impact Mapping](https://raw.githubusercontent.com/upc-202610-1asi0730-8084-Creatividad/children-path-report/develop/assets/chapter-3/Impact%20map-tb1.png)
 
 
 [Ver artefacto en uxpressia](https://uxpressia.com/w/v8FzI/i/Fy0pk?tagId=EaWxj)
