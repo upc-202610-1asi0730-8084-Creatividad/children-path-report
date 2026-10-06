@@ -23,7 +23,17 @@ Estas herramientas permitieron una integración eficiente entre los procesos de 
 
 El proyecto utiliza **GitHub** como sistema de control de versiones. Se crearon repositorios separados para cada componente principal de la solución:
 
-- Landing Page
+- **children-path-landing-page:** Repositorio dedicado al sitio de presentación estática (Landing Page).
+
+    [Link del repositorio children-path-landing-page](https://github.com/upc-202610-1asi0730-8084-Creatividad/children-path-landing-page)
+
+ - **children-path-frontend** Espacio reservado para el código del cliente web (Frontend) construido en Vue.js.
+
+    [Link del repositorio children-path-frontend](https://github.com/upc-202610-1asi0730-8084-Creatividad/children-path-frontend)
+
+ - **children-path-report:** Repositorio de soporte utilizado para la gestión de la documentación técnica y los informes del proyecto.
+  
+    [Link del repositorio children-path-report](https://github.com/upc-202610-1asi0730-8084-Creatividad/children-path-report)
 
 El equipo adoptó el modelo de ramificación **GitFlow** para gestionar el desarrollo de manera eficiente:
 
@@ -55,11 +65,44 @@ Para garantizar la calidad y mantenibilidad del código, el equipo adoptó conve
 - **camelCase** para variables y funciones.
 - Estructura de código modular para una mejor organización.
 
-Se consideraron las siguientes guías de estilo:
+**Convenciones aplicadas por lenguaje:**
 
-- Google HTML/CSS Style Guide
-- Buenas prácticas de JavaScript/TypeScript
-- Principios de Clean Code
+**HTML**
+
+Siguiendo la "HTML Style Guide and Coding Conventions" de W3Schools y la "Google HTML/CSS Style Guide", se mantiene una arquitectura semántica y accesible. El código se escribe íntegramente en minúsculas, con una indentación de dos espacios y comentarios descriptivos para separar bloques funcionales.
+
+**Estructura y etiquetas principales empleadas:**
+
+- **Base:** `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>` para la jerarquía global.
+- **Metadatos:** `<meta>`, `<title>`, `<link>` para la configuración y vinculación de estilos.
+- **Semántica:** `<nav>`, `<section>`, `<header>`, `<footer>`, `<main>` para la organización del contenido principal.
+- **Contenido:** `<h1>`, `<h2>`, `<p>`, `<img>`, `<a>` para la visualización de métricas y enlaces.
+- **Interacción:** `<form>`, `<input>`, `<label>`, `<button>` para el registro de datos en formularios interactivos.
+
+**CSS**
+
+El archivo styles.css se estructuró bajo la "Google HTML/CSS Style Guide", aplicando una organización modular mediante comentarios (ej. /* NAVIGATION */, /* HERO CAROUSEL */). Se emplea kebab-case para clases y una indentación uniforme.
+
+**Propiedades y convenciones aplicadas:**
+
+- **Diseño y Layout:** `display: flex`, `grid-template-columns`, `position`, `z-index` para una interfaz responsiva.
+- **Dimensiones:** `width`, `height`, `max-width`, `min-height`.
+- **Espaciado:** `padding`, `margin`, `gap`.
+- **Tipografía:** `font-family`, `font-size`, `font-weight`, `line-height`, `color`.
+- **Decoración:** `background-color`, `border-radius`, `box-shadow`, `border`.
+- **Interactividad:** `transition`, `transform`, `:hover` para mejorar la experiencia de usuario.
+
+**JavaScript**
+
+La lógica de cliente se fundamenta en las "MDN JavaScript guidelines" y la "W3C JavaScript Style Guide", priorizando un código modular, seguro y de alto rendimiento. Se emplea tanto en el desarrollo del Landing Page para la interactividad del sitio estático, como en la Web Application como base del framework Vue.js. Se aplica la convención camelCase para la nomenclatura de variables y funciones, y se utilizan comentarios descriptivos en inglés para documentar la finalidad de cada bloque funcional.
+
+**Estructura y elementos técnicos aplicados:**
+
+- **Selección del DOM:** Uso de métodos estandarizados como `document.getElementById()` y `document.querySelector()` para la captura de elementos de la interfaz.
+- **Gestión de Eventos:** Implementación de `addEventListener()` para controlar acciones como click (botones de registro), submit (formularios de métricas) y el evento `DOMContentLoaded` para asegurar la carga del script.
+- **Validaciones de Datos:** Aplicación de expresiones regulares para verificar la integridad de correos electrónicos, teléfonos y formatos de entrada.
+- **Interacción Dinámica:** Manipulación de clases mediante `classList` para menús interactivos, modales de confirmación y feedback visual en formularios.
+- **Control Lógico:** Empleo de condicionales `(if/else)`, bucles de iteración `(forEach)` y temporizadores `(setInterval())` para la actualización de datos en tiempo real.
 
 Las Historias de Usuario y los Criterios de Aceptación se redactaron utilizando un formato estructurado basado en **Gherkin** para mejorar la claridad y legibilidad.
 
