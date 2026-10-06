@@ -1559,21 +1559,37 @@ El análisis del entorno y las emociones de María revela que su principal fuent
 
 ## **2.4. Big Picture Event Storming**
 
-<img src="../assets/chapter-2/big-event-storming.jpg" alt="Big Picture Event Storming - Children Path" width="100%">
+<img width="1540" height="649" alt="children path- big picture event storming tb1" src="https://github.com/user-attachments/assets/c6dda991-a57c-4ed2-9e77-61d3a4162466" />
+
+Link del artefacto: https://miro.com/app/board/uXjVHm5y9BY=/?share_link_id=262321108190
 
 El Big Picture Event Storming permitió al equipo de **Creatividad** obtener una visión holística del dominio del transporte escolar, identificando los seis dominios clave que estructuran el negocio de **Children Path**. La sesión evidenció que el problema central no es la conducción en sí, sino la **comunicación manual y la falta de visibilidad en tiempo real**, lo que genera estrés en los padres, distracciones peligrosas en los conductores y sobrecarga operativa en los administradores.
+
+### Análisis de Fases y Eventos Clave del Negocio
+
+1. **Fase de Despacho y Proximidad:**
+   * **Eventos de dominio:** `Estudiante completó preparación en domicilio`, `Conductor inició recorrido matutino de la ruta`, `Unidad escolar cruzó geocerca de proximidad a 5 minutos`, `Alerta de proximidad fue emitida a apoderados`.
+   * **Puntos de dolor (Hotspots):** El retraso de los alumnos al salir de casa sin previo aviso genera un efecto dominó que desajusta los horarios de toda la ruta.
+
+2. **Fase de Abordaje y Tránsito:**
+   * **Eventos de dominio:** `Estudiante abordó la unidad de transporte`, `Asistencia de abordaje fue registrada`, `Confirmación de abordaje seguro fue recibida por apoderado`.
+   * **Puntos de dolor (Hotspots):** Las llamadas y mensajes insistentes de los apoderados al chofer mientras maneja en congestión provocan distracciones críticas al volante y riesgo de accidentes.
+
+3. **Fase de Arribo y Consolidación:**
+   * **Eventos de dominio:** `Unidad escolar arribó a las instalaciones del colegio`, `Descenso de estudiantes fue confirmado en destino`, `Notificación de entrega escolar fue despachada a apoderados`, `Padrón operativo diario fue consolidado`.
+   * **Puntos de dolor (Hotspots):** La densa congestión vehicular en horas punta genera desvíos no comunicados e incertidumbre sobre la hora exacta de ingreso al colegio
 
 ## **2.5. Ubiquitous Language**
 
 Ubiquitous Language is a common and standardized vocabulary shared by the development team and domain experts, who in this case are school transportation drivers, administrators, and parents. It is a type of glossary that ensures all stakeholders share the same understanding of the key business concepts, reducing ambiguity in requirements specification and source code.
 
-* **Administrator (Administrador):** User responsible for the logistical management and monitoring of the school transportation fleet, handling route changes and customer support.
-* **Proximity Alert (Alerta de Proximidad):** Automated push notification triggered when a vehicle crosses a virtual geofence, indicating it is near a designated student pickup or drop-off location.
-* **Parent / Guardian (Padre de Familia / Tutor):** Customer and legal representative who contracts the service and monitors the safe transit of the registered student.
-* **Attendance (Registro de Asistencia):** Digital timestamp verifying the exact moment a student boards or safely leaves the school vehicle.
-* **Driver (Conductor):** Authorized person operating the vehicle along the scheduled route, responsible for road safety and confirming student check-ins.
-* **Dashboard (Panel de Control):** Centralized web interface displaying real-time vehicle telemetry, active routes, driver status, and historical logs.
-* **Student (Estudiante):** School passenger enrolled in the daily pickup and delivery service.
-* **Fleet (Flota):** Group of authorized transport units operated and scheduled under the same provider or company.
-* **Route (Ruta):** Sequenced set of scheduled pickup and drop-off waypoints optimized for daily transit.
-* **Transport Unit (Unidad de Transporte):** Physical motor vehicle registered and certified to provide school transportation services.
+* **School Transport Operator / Company (Empresa Operadora de Transporte Escolar):** Entidad o persona natural autorizada legalmente para gestionar y prestar el servicio de traslado escolar mediante una flota asignada.
+* **School Route (Ruta Escolar):** Secuencia planificada de puntos de recogida y paradas ordenadas cronológicamente para el traslado diario de estudiantes entre sus hogares y la institución educativa.
+* **Geofence (Geocerca):** Perímetro virtual geográfico delimitado alrededor del domicilio del estudiante o colegio que dispara eventos automáticos de presencia vehicular.
+* **Proximity Alert (Alerta de Proximidad):** Aviso preventivo generado automáticamente cuando la unidad de transporte cruza el radio de cobertura previo a la parada programada.
+* **Student Boarding (Abordaje del Estudiante):** Acción física mediante la cual el alumno ingresa a la unidad vehicular en su punto de recogida oficial.
+* **Student Drop-off (Descenso del Estudiante):** Acción de desembarque seguro del alumno en las instalaciones del colegio o en su domicilio al finalizar la jornada.
+* **Attendance Record (Registro de Asistencia Escolar):** Constancia digital temporal que valida la presencia, inasistencia justificada o estado de traslado del estudiante en un turno específico (mañana/tarde).
+* **School Driver (Conductor Escolar):** Persona acreditada encargada de la conducción física de la unidad, responsable directo de la seguridad vial y de la confirmación de asistencia en cabina.
+* **Parent / Guardian (Apoderado / Tutor Legal):** Cliente contratante del servicio responsable del menor de edad, facultado para autorizar paradas y recibir confirmaciones de viaje.
+* **School Transport Unit (Unidad de Transporte Escolar):** Vehículo automotor formalmente habilitado para el traslado de escolares que cumple con las normativas técnicas de circulación vigentes.
