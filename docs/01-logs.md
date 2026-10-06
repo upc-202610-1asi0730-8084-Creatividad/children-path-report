@@ -225,4 +225,33 @@
       Revisar el documento para la corregir discrepancias con la rubrica
     </td>
   </tr>
+  <!-- ROW 3.6 -->
+  <tr>
+    <td style="text-align: center;">0.1.0</td>
+    <td style="text-align: center;">05/10/2026</td>
+    <td style="text-align: center;">Pareja Caceres, Diana</td>
+    <td style="text-align: justify;">Documentación de Gestión de Configuración (5.1) y Sprint 1 (5.2.1): despliegue de Landing Page en GitHub Pages y evidencias de ejecución.</td>
+  </tr>
+  <!-- ROW 3.7 -->
+  <tr>
+    <td style="text-align: center;">0.2.0</td>
+    <td style="text-align: center;">05/10/2026</td>
+    <td style="text-align: center;">Huaco Oliva, Luis Alonso</td>
+    <td style="text-align: justify;">Implementación de Sprint 2 (5.2.2): arquitectura Vue 3 por Bounded Contexts, tablas y formularios CRUD core con Fake API.</td>
+  </tr>
+  <!-- ROW 3.8 -->
+  <tr>
+    <td style="text-align: center;">0.2.1</td>
+    <td style="text-align: center;">05/10/2026</td>
+    <td style="text-align: center;">Pareja Caceres, Diana</td>
+    <td style="text-align: justify;">Incorporación de capturas de ejecución del Frontend (5.2.2.5) y registro de despliegue en Firebase Hosting (5.2.2.7).</td>
+  </tr>
+  <!-- ROW 3.9 -->
+  <tr>
+    <td style="text-align: center;">1.0.0</td>
+    <td style="text-align: center;">05/10/2026</td>
+    <td style="text-align: center;">Huaco Oliva, Luis Alonso</td>
+    <td style="text-align: justify;">Consolidación final del informe para la entrega TB1 (Semana 7), conclusiones preliminares y validación de rúbrica.</td>
+  </tr>
+</table>
 </table>
