@@ -525,13 +525,67 @@ El Sprint Backlog desagrega las 8 Historias de Usuario seleccionadas del Product
 
 #### **5.2.2.4. Development Evidence for Sprint Review**
 
+Durante el Sprint 2, el equipo desarrolló la arquitectura modular del Frontend Web Application utilizando Vue 3 y Vite, estructurada por Bounded Contexts y organizada en capas limpias (Domain, Application/Store, Infrastructure/API y Presentation). A continuación, se presenta la trazabilidad del historial de commits registrados en el repositorio oficial conforme al estándar Conventional Commits:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| :--- | :--- | :---: | :--- | :--- | :---: |
+| children-path-frontend | `develop` | `1159d73` | fix: fixing | General bug fixes and style alignment across frontend views. | 2026-10-05 |
+| children-path-frontend | `develop` | `792a678` | Merge branch 'feature/add-tracking' into develop | Integrated real-time tracking views and telemetry mock components into develop. | 2026-10-05 |
+| children-path-frontend | `feature/add-tracking` | `cf28be9` | feat: add tracking presentation | Implemented tracking map container and UI live status indicators. | 2026-10-05 |
+| children-path-frontend | `feature/add-tracking` | `320e0a5` | feat: add tracking api and entity | Configured mock API client endpoints and domain entities for vehicle tracking. | 2026-10-05 |
+| children-path-frontend | `feature/add-tracking` | `abda4ba` | feat: add tracking store | Implemented Pinia store for tracking coordinates and telemetry states. | 2026-10-05 |
+| children-path-frontend | `feature/add-tracking` | `d7c5c65` | feat: add tracking models | Defined TypeScript data interfaces and domain models for geo-tracking. | 2026-10-05 |
+| children-path-frontend | `develop` | `2de06f2` | Merge branch 'feature/iam-test' into develop | Integrated authentication mock views and incident logging into develop. | 2026-10-05 |
+| children-path-frontend | `feature/incidents` | `89c064c` | feat: add incidents presentation views | Maquetted incident reporting form and incident history table component. | 2026-10-05 |
+| children-path-frontend | `feature/incidents` | `e8960c4` | feat: add incidents infrastructure api | Configured HTTP Axios services and json-server endpoints for incident persistence. | 2026-10-05 |
+| children-path-frontend | `feature/incidents` | `1661825` | feat: add incidents domain models | Defined incident severity levels, categories, and domain entities. | 2026-10-05 |
+| children-path-frontend | `feature/incidents` | `981b37c` | feat: add incidents store | Configured reactive store for incident logging and filter state. | 2026-10-05 |
+| children-path-frontend | `feature/fleet` | `f609296` | feat: add fleet presentation - views , components and routes | Developed vehicle catalog cards, fleet status tables, and Vue routes. | 2026-10-05 |
+| children-path-frontend | `feature/fleet` | `4e56041` | feat: add fleet domain - models and entitys | Defined vehicle specifications, license plate structures, and fleet models. | 2026-10-05 |
+| children-path-frontend | `feature/fleet` | `9ec35de` | feat: add fleet infrastructure - assembler and api | Implemented DTO mappers, assemblers, and HTTP client for vehicle entities. | 2026-10-05 |
+| children-path-frontend | `feature/fleet` | `ad2631c` | feat: add fleet application - store | Created Pinia state management for fleet units and active assignments. | 2026-10-05 |
+| children-path-frontend | `feature/iam` | `8859ac6` | feat: add iam views fakes | Implemented simulated login and role-based credential views. | 2026-10-05 |
+| children-path-frontend | `develop` | `a0ea932` | Merge branch 'feature/drivers' into develop | Merged driver management views, domain models, and API assemblers into develop. | 2026-10-05 |
+| children-path-frontend | `feature/drivers` | `79dd741` | feat: add drivers presentation | Maquetted driver profile roster and driver detail card components. | 2026-10-05 |
+| children-path-frontend | `feature/drivers` | `e8a1bec` | feat: add drivers infrastructure - api and routes | Configured driver API endpoints and child routes under Vue Router. | 2026-10-05 |
+| children-path-frontend | `feature/drivers` | `c14a6be` | feat: add drivers infrastructure - assembler | Created assembler mappers from json-server payloads to driver domain entities. | 2026-10-05 |
+| children-path-frontend | `feature/drivers` | `f19e889` | feat: add drivers domain - entities | Defined domain entities and lifecycle validation for driver profiles. | 2026-10-05 |
+| children-path-frontend | `feature/drivers` | `3da0acd` | feat: add drivers domain - models | Created TypeScript interfaces and data contracts for drivers. | 2026-10-05 |
+| children-path-frontend | `feature/drivers` | `dd3a691` | feat: add drivers domain - summary | Structured domain summary aggregations for driver operational statistics. | 2026-10-05 |
+| children-path-frontend | `feature/drivers` | `6deac71` | feat: add drivers application - store | Configured central store actions for fetching and filtering active drivers. | 2026-10-05 |
+| children-path-frontend | `develop` | `634bd16` | Merge branch 'feature/dashboard' into develop | Integrated operational dashboard components, routes, and API mocks into develop. | 2026-10-05 |
+| children-path-frontend | `feature/dashboard` | `bd4757d` | feat: add dashboard components | Created summary metric cards, route progress bars, and status widgets. | 2026-10-05 |
+| children-path-frontend | `feature/dashboard` | `b11ebdc` | feat: add dashboard views | Assembled main dashboard overview layout linking active fleet and trips. | 2026-10-05 |
+| children-path-frontend | `feature/dashboard` | `c451180` | feat: add dashboard models | Defined operational dashboard data contracts and KPI metric interfaces. | 2026-10-05 |
+| children-path-frontend | `feature/dashboard` | `4db6a08` | feat: add dashboard routes | Configured navigation routes and redirects for dashboard views. | 2026-10-05 |
+| children-path-frontend | `feature/dashboard` | `28a8023` | feat: add dashboard api | Implemented mock API requests for operational summary telemetry data. | 2026-10-05 |
+| children-path-frontend | `feature/dashboard` | `2e202b1` | feat: add dashboard store | Created Pinia store for caching dashboard statistics and active trip counts. | 2026-10-05 |
+| children-path-frontend | `develop` | `588d69b` | Merge branch 'feature/init-images' into develop | Merged application brand logos and visual assets into develop. | 2026-10-05 |
+| children-path-frontend | `feature/init-images` | `9ade521` | feat: add logo | Added high-resolution brand logo and graphical UI icons. | 2026-10-05 |
+| children-path-frontend | `develop` | `2e793ee` | Merge pull request #11 from .../feature/companies | Integrated company management presentation views and routing into develop. | 2026-10-05 |
+| children-path-frontend | `feature/companies` | `88d9dd4` | feat(companies): add company management view and presentation routes | Created school transport company catalog view and associated Vue navigation routes. | 2026-10-05 |
+
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 
+| Status |
+| :--- |
+| **No aplica para este Sprint.** De acuerdo con el alcance pedagógico de la entrega TB1 (Semana 7), el equipo se enfocó de manera exclusiva en el desarrollo de la capa cliente (**Frontend Web Application**), maquetación de vistas de usuario, formularios interactivos y simulación de persistencia mediante un servidor de desarrollo mock (`json-server`). La especificación técnica y documentación formal OpenAPI/Swagger de los servicios RESTful del Backend en C#/.NET se completará en los sprints subsecuentes. |
+
+
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
+
+Durante el desarrollo del Sprint 2, el equipo consolidó las siguientes lecciones aprendidas y prácticas de ingeniería frontend:
+
+| Insight |
+| :--- |
+| **Estructuración DDD por Bounded Contexts:** La división del frontend en subdirectorios independientes (`dashboard`, `drivers`, `fleet`, `incidents`, `companies`, `tracking`) con sus propias capas de presentación, modelos y almacenes (Pinia) evitó conflictos de merge al trabajar múltiples integrantes de forma simultánea. |
+| **Desacoplamiento con Fake API (json-server):** Utilizar contratos de datos simulados y capas de ensamblado (*assemblers*) facilitó la construcción de vistas y tablas CRUD sin depender de la disponibilidad del backend real, agilizando las pruebas funcionales de la UI. |
+| **Enfoque estricto en funcionalidades Core y formularios reactivos:** Centrar los esfuerzos en el flujo operativo esencial (gestión de flotas, conductores, estados de abordaje y registro rápido de incidencias) permitió optimizar la usabilidad y los tiempos de interacción de las vistas principales antes de incorporar lógica más compleja. |
+| **Estandarización de componentes reutilizables:** Establecer convenciones uniformes para tablas de datos, botones de acción rápida y modales de diálogo aseguró una experiencia visual homogénea y coherente a lo largo de todos los módulos del aplicativo web. |
 
 ### **5.2.3. Sprint 3**
 
