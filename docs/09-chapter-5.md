@@ -334,11 +334,194 @@ A continuación, se detalla la evidencia del despliegue en producción del sitio
 
 #### **5.2.2.1. Sprint Planning 2**
 
+Durante el Sprint 2, el equipo planificó, diseñó e implementó la primera versión del aplicativo web frontend (**Frontend Web Application**) de **Children Path** en el repositorio `children-path-frontend`. Siguiendo el enfoque pedagógico y técnico del curso, el desarrollo se concentró estrictamente en la capa de presentación (Frontend UI) mediante una arquitectura modular en **Vue 3 y Vite**, prescindiendo de lógica de negocio transaccional compleja de backend. 
+
+El alcance del incremento comprende el diseño de interfaces de usuario interactivas, formularios reactivos de captura de datos, vistas de catálogos tabulares y operaciones fundamentales de lectura, registro, actualización y eliminación (**CRUD**) conectadas a un servicio de datos simulado (Fake API con `json-server`). Los módulos implementados corresponden a los Bounded Contexts centrales de la operación: gestión de estudiantes, control de abordaje en paradas, administración de unidades vehiculares y conductores, visualización de secuencias de ruta y registro estructurado de incidencias.
+
+| Sprint # | Sprint 2 |
+| :--- | :--- |
+| **Sprint Planning Background** | Implementación de la interfaz de usuario del Frontend Web Application (Vue 3/Vite), vistas CRUD de entidades operativas y consumo de Fake API |
+| **Date** | 2026-09-21 |
+| **Time** | 07:30 PM |
+| **Location** | Reunión virtual vía Google Meet |
+| **Prepared By** | Huaco Oliva, Luis Alonso |
+| **Attendees (to planning meeting)** | Huaco Oliva, Luis Alonso / Pareja Cáceres, Diana / Soto, Brandon / Rázuri, Piero |
+| **Sprint n – 1 Review Summary** | Despliegue en producción de la Landing Page en GitHub Pages cumpliendo las historias US59 a US64, optimizando accesibilidad WCAG y maquetación responsive. |
+| **Sprint n – 1 Retrospective Summary** | Se acordó utilizar una arquitectura modular por Bounded Contexts dentro del directorio `src/` del proyecto en Vue 3 para permitir que cada integrante desarrolle sus componentes y formularios sin generar conflictos de merge. |
+
+**Sprint Goal & User Stories**
+
+| Campo | Detalle |
+| :--- | :--- |
+| **Sprint 2 Goal** | **Our focus is on** delivering the core Frontend Web Application using Vue 3 and Vite, implementing interactive CRUD views, data tables, and reactive forms for students, boarding attendance, fleet units, assigned routes, and route incident logs consuming a mock API (`json-server`). <br><br>**We believe it delivers** an intuitive, accessible administrative interface allowing **school transport drivers and transport fleet administrators** to manage their operational rosters, record pupil attendance states, and inspect route milestones without server-side dependencies. <br><br>**This will be confirmed when** the frontend application executes locally (`npm run dev`) and passes UI functional checks, validating that form inputs mutate the client-side state correctly and display real-time feedback across responsive viewports. |
+| **Sprint 2 Velocity** | 16 Story Points |
+| **Sum of Story Points** | 16 Story Points (US12: 2 SP, US13: 2 SP, US14: 2 SP, US15: 2 SP, US19: 2 SP, US24: 2 SP, US26: 2 SP, US36: 2 SP) |
 
 #### **5.2.2.2. Aspect Leaders and Collaborators**
 
+El equipo distribuyó las responsabilidades técnicas del desarrollo frontend asegurando la cobertura de los módulos core y la homogeneidad en los componentes de interfaz:
+
+| Team Member | GitHub Username | Bounded Contexts Core a Cargo | UI Component Architecture & Routing | Reactive Forms & Validation | Data Table & Mock API Services |
+| :--- | :--- | :--- | :---: | :---: | :---: |
+| Huaco, Luis | perghormaru-pixel | `dashboard`, `routes` | L | C | L |
+| Pareja, Diana | DianaParejaCaceres | `attendance`, `assignments` | C | L | C |
+| Soto, Brandon | Brandon1677 | `students`, `trips` | L | C | C |
+| Rázuri, Piero | piero-razuri | `drivers`, `fleet`, `incidents` | C | L | L |
+
+*Leyenda: L = Leader (Líder) | C = Collaborator (Colaborador)*
 
 #### **5.2.2.3. Sprint Backlog 2**
+
+El Sprint Backlog desagrega las 8 Historias de Usuario seleccionadas del Product Backlog en tareas de ingeniería (*Engineering Tasks*) de frontend individuales, estimadas en el rango reglamentario de 4 a 8 horas cada una:
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align:center">User Story</th>
+      <th colspan="6" style="text-align:center">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th style="width: 8%; text-align:center">Story Id</th>
+      <th style="width: 20%; text-align:center">Story Title</th>
+      <th style="width: 9%; text-align:center">Task Id</th>
+      <th style="width: 20%; text-align:center">Task Title</th>
+      <th style="width: 25%; text-align:center">Task Description</th>
+      <th style="width: 6%; text-align:center">Estimation (Hours)</th>
+      <th style="width: 12%; text-align:center">Assigned To</th>
+      <th style="width: 8%; text-align:center">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- US14: Diana Pareja (Attendance) -->
+    <tr>
+      <td rowspan="2" align="center" style="font-weight:bold; vertical-align:middle">US14</td>
+      <td rowspan="2" style="vertical-align:middle">Registrar abordaje</td>
+      <td align="center">TS2-01</td>
+      <td>Componente Interactivo de Lista de Abordaje</td>
+      <td>Diseñar y programar componente Vue 3 con switches y botones de un solo toque para registrar el abordaje de estudiantes por parada.</td>
+      <td align="center">6</td>
+      <td>Diana Pareja</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">TS2-02</td>
+      <td>Integración de Servicio Mock para Estados de Asistencia</td>
+      <td>Configurar llamadas HTTP asíncronas hacia json-server para actualizar la propiedad de abordaje y reflejar la hora en la interfaz.</td>
+      <td align="center">5</td>
+      <td>Diana Pareja</td>
+      <td align="center">Done</td>
+    </tr>
+    <!-- US15: Diana Pareja (Attendance & Assignments) -->
+    <tr>
+      <td rowspan="2" align="center" style="font-weight:bold; vertical-align:middle">US15</td>
+      <td rowspan="2" style="vertical-align:middle">Registrar ausencia</td>
+      <td align="center">TS2-03</td>
+      <td>Modal Reactivo de Registro de Ausencia</td>
+      <td>Implementar diálogo modal con selector de tipo de falta (justificada/injustificada) y campo de motivo para actualizar la vista.</td>
+      <td align="center">5</td>
+      <td>Diana Pareja</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">TS2-04</td>
+      <td>Tabla de Resumen de Asistencia por Unidad Escolar</td>
+      <td>Maquetar vista tabular de consulta de alumnos abordados versus ausentes con filtros por fecha y unidad de movilidad.</td>
+      <td align="center">6</td>
+      <td>Diana Pareja</td>
+      <td align="center">Done</td>
+    </tr>
+    <!-- US12: Brandon Soto (Students) -->
+    <tr>
+      <td rowspan="2" align="center" style="font-weight:bold; vertical-align:middle">US12</td>
+      <td rowspan="2" style="vertical-align:middle">Visualizar lista de estudiantes por ruta</td>
+      <td align="center">TS2-05</td>
+      <td>Vista de Catálogo CRUD de Estudiantes (Students Context)</td>
+      <td>Crear componente de tabla reactiva para listar alumnos matriculados, mostrando nombre, apoderado, grado y dirección de recojo.</td>
+      <td align="center">6</td>
+      <td>Brandon Soto</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">TS2-06</td>
+      <td>Formulario de Registro y Edición de Estudiante</td>
+      <td>Codificar formulario con validaciones en cliente para agregar nuevo alumno y actualizar datos de contacto del tutor.</td>
+      <td align="center">5</td>
+      <td>Brandon Soto</td>
+      <td align="center">Done</td>
+    </tr>
+    <!-- US13: Brandon Soto (Students & Trips) -->
+    <tr>
+      <td rowspan="1" align="center" style="font-weight:bold; vertical-align:middle">US13</td>
+      <td rowspan="1" style="vertical-align:middle">Visualizar estudiantes por parada</td>
+      <td align="center">TS2-07</td>
+      <td>Componente de Agrupamiento de Alumnos por Parada</td>
+      <td>Maquetar tarjetas ordenadas secuencialmente que agrupan y listan a los escolares asignados a cada punto de ascenso del vehículo.</td>
+      <td align="center">6</td>
+      <td>Brandon Soto</td>
+      <td align="center">Done</td>
+    </tr>
+    <!-- US36: Piero Rázuri (Fleet & Drivers) -->
+    <tr>
+      <td rowspan="2" align="center" style="font-weight:bold; vertical-align:middle">US36</td>
+      <td rowspan="2" style="vertical-align:middle">Visualizar detalles del vehículo</td>
+      <td align="center">TS2-08</td>
+      <td>Catálogo y Tabla CRUD de Unidades Vehiculares (Fleet)</td>
+      <td>Implementar vista de tarjetas y tabla con placa, modelo, capacidad de asientos y estado operativo de las unidades de transporte.</td>
+      <td align="center">6</td>
+      <td>Piero Rázuri</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">TS2-09</td>
+      <td>Formulario de Registro de Vehículo y Asignación de Chofer</td>
+      <td>Diseñar formulario de registro vehicular y vinculación con el perfil del conductor responsable en la capa cliente.</td>
+      <td align="center">5</td>
+      <td>Piero Rázuri</td>
+      <td align="center">Done</td>
+    </tr>
+    <!-- US26: Piero Rázuri (Incidents) -->
+    <tr>
+      <td rowspan="1" align="center" style="font-weight:bold; vertical-align:middle">US26</td>
+      <td rowspan="1" style="vertical-align:middle">Registro rápido de incidencia</td>
+      <td align="center">TS2-10</td>
+      <td>Formulario Reactivo de Incidencias en Ruta (Incidents)</td>
+      <td>Codificar interfaz de dos toques con selector de categoría (tráfico, percance mecánico, retraso) y campo opcional de observaciones.</td>
+      <td align="center">5</td>
+      <td>Piero Rázuri</td>
+      <td align="center">Done</td>
+    </tr>
+    <!-- US19: Luis Huaco (Routes) -->
+    <tr>
+      <td rowspan="2" align="center" style="font-weight:bold; vertical-align:middle">US19</td>
+      <td rowspan="2" style="vertical-align:middle">Visualizar ruta asignada</td>
+      <td align="center">TS2-11</td>
+      <td>Vista de Secuencia de Paradas del Conductor (Routes Context)</td>
+      <td>Maquetar interfaz cronológica de paradas con indicación de dirección, hora estimada de llegada y estado completado/pendiente.</td>
+      <td align="center">6</td>
+      <td>Luis Huaco</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">TS2-12</td>
+      <td>Formulario de Alta y Configuración de Paradas de Ruta</td>
+      <td>Crear formulario para añadir nuevas paradas a un trayecto escolar y definir el orden de paso del recorrido.</td>
+      <td align="center">5</td>
+      <td>Luis Huaco</td>
+      <td align="center">Done</td>
+    </tr>
+    <!-- US24: Luis Huaco (Dashboard) -->
+    <tr>
+      <td rowspan="1" align="center" style="font-weight:bold; vertical-align:middle">US24</td>
+      <td rowspan="1" style="vertical-align:middle">Visualizar estado de la ruta</td>
+      <td align="center">TS2-13</td>
+      <td>Dashboard de Control y Resumen de Estado Operativo</td>
+      <td>Integrar panel principal con tarjetas de resumen: total de estudiantes recogidos, paradas concluidas y progreso visual de la ruta activa.</td>
+      <td align="center">6</td>
+      <td>Luis Huaco</td>
+      <td align="center">Done</td>
+    </tr>
+  </tbody>
+</table>
 
 #### **5.2.2.4. Development Evidence for Sprint Review**
 
